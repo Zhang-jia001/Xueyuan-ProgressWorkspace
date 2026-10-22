@@ -93,7 +93,7 @@
 ## 目录结构
 
 ```
-├── 学员学习进度台-demo.html   # 主交付物（脱敏版，双击即开）
+├── index.html                # 主交付物（脱敏版，双击即开；也是 GitHub Pages 入口）
 ├── 学员一年学习计划.html       # 早期版本：单学员计划页原型
 ├── 昕征途课程结构化分析看板.html  # 课程结构分析：段位/模块/课时分布
 ├── build.py                  # 构建脚本：读数据 → 算指标 → 渲染单文件 HTML
@@ -104,11 +104,19 @@
 └── 结构化总览.json            # 课程结构：6 段位汇总
 ```
 
+## 在线访问
+
+```
+https://zhang-jia001.github.io/Xueyuan-ProgressWorkspace/
+```
+
+根目录 `index.html` 即为看板本体，Pages 直接从 `main` 分支根路径托管，不经 Actions、无跳转。
+
 ## 使用方式
 
 ```bash
-# 直接查看
-open 学员学习进度台-demo.html
+# 直接查看（双击或命令行均可）
+open index.html
 
 # 重建（需自备回访数据 xlsx）
 python3 build.py
