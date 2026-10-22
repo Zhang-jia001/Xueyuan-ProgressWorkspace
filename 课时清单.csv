@@ -1,0 +1,1358 @@
+﻿段位,模块,章序,章名,课时序,课时名,类型
+S1 青铜,HTML + CSS 网页开发,1,HTML + CSS 网页开发 · 走进 Web 开发,1,互联网与网站工作原理,视频
+S1 青铜,HTML + CSS 网页开发,1,HTML + CSS 网页开发 · 走进 Web 开发,2,开发工具安装（VS Code）,视频
+S1 青铜,HTML + CSS 网页开发,1,HTML + CSS 网页开发 · 走进 Web 开发,3,第一个 HTML 页面,视频
+S1 青铜,HTML + CSS 网页开发,1,HTML + CSS 网页开发 · 走进 Web 开发,4,作业,图文
+S1 青铜,HTML + CSS 网页开发,1,HTML + CSS 网页开发 · 走进 Web 开发,5,AI 助学,图文
+S1 青铜,HTML + CSS 网页开发,2,HTML + CSS 网页开发 · HTML 基础标签,1,标题、段落、换行、水平线,视频
+S1 青铜,HTML + CSS 网页开发,2,HTML + CSS 网页开发 · HTML 基础标签,2,媒体标签与路径,视频
+S1 青铜,HTML + CSS 网页开发,2,HTML + CSS 网页开发 · HTML 基础标签,3,超链接与锚点,视频
+S1 青铜,HTML + CSS 网页开发,2,HTML + CSS 网页开发 · HTML 基础标签,4,列表标签,视频
+S1 青铜,HTML + CSS 网页开发,2,HTML + CSS 网页开发 · HTML 基础标签,5,HTML5 语义化标签,视频
+S1 青铜,HTML + CSS 网页开发,2,HTML + CSS 网页开发 · HTML 基础标签,6,作业,图文
+S1 青铜,HTML + CSS 网页开发,2,HTML + CSS 网页开发 · HTML 基础标签,7,AI 助学,图文
+S1 青铜,HTML + CSS 网页开发,3,HTML + CSS 网页开发 · HTML 表格与表单,1,表格标签与合并单元格,视频
+S1 青铜,HTML + CSS 网页开发,3,HTML + CSS 网页开发 · HTML 表格与表单,2,表单标签与常用控件,视频
+S1 青铜,HTML + CSS 网页开发,3,HTML + CSS 网页开发 · HTML 表格与表单,3,表单验证属性,视频
+S1 青铜,HTML + CSS 网页开发,3,HTML + CSS 网页开发 · HTML 表格与表单,4,作业,图文
+S1 青铜,HTML + CSS 网页开发,3,HTML + CSS 网页开发 · HTML 表格与表单,5,AI 助学,图文
+S1 青铜,HTML + CSS 网页开发,4,HTML + CSS 网页开发 · CSS 基础样式,1,CSS 概述与引入方式,视频
+S1 青铜,HTML + CSS 网页开发,4,HTML + CSS 网页开发 · CSS 基础样式,2,选择器,视频
+S1 青铜,HTML + CSS 网页开发,4,HTML + CSS 网页开发 · CSS 基础样式,3,高级 CSS 选择器,视频
+S1 青铜,HTML + CSS 网页开发,4,HTML + CSS 网页开发 · CSS 基础样式,4,字体与文本样式,视频
+S1 青铜,HTML + CSS 网页开发,4,HTML + CSS 网页开发 · CSS 基础样式,5,背景与边框,视频
+S1 青铜,HTML + CSS 网页开发,4,HTML + CSS 网页开发 · CSS 基础样式,6,作业,图文
+S1 青铜,HTML + CSS 网页开发,4,HTML + CSS 网页开发 · CSS 基础样式,7,AI 助学,图文
+S1 青铜,HTML + CSS 网页开发,5,HTML + CSS 网页开发 · CSS 盒模型与布局,1,盒模型,视频
+S1 青铜,HTML + CSS 网页开发,5,HTML + CSS 网页开发 · CSS 盒模型与布局,2,浮动布局与清除浮动,视频
+S1 青铜,HTML + CSS 网页开发,5,HTML + CSS 网页开发 · CSS 盒模型与布局,3,定位,视频
+S1 青铜,HTML + CSS 网页开发,5,HTML + CSS 网页开发 · CSS 盒模型与布局,4,Flex 弹性布局,视频
+S1 青铜,HTML + CSS 网页开发,5,HTML + CSS 网页开发 · CSS 盒模型与布局,5,Grid 网格布局,视频
+S1 青铜,HTML + CSS 网页开发,5,HTML + CSS 网页开发 · CSS 盒模型与布局,6,CSS 过渡与动画,视频
+S1 青铜,HTML + CSS 网页开发,5,HTML + CSS 网页开发 · CSS 盒模型与布局,7,作业,图文
+S1 青铜,HTML + CSS 网页开发,5,HTML + CSS 网页开发 · CSS 盒模型与布局,8,AI 助学,图文
+S1 青铜,HTML + CSS 网页开发,6,HTML + CSS 网页开发 · 综合实战,1,仿企业官网首页,视频
+S1 青铜,HTML + CSS 网页开发,6,HTML + CSS 网页开发 · 综合实战,2,响应式布局基础,视频
+S1 青铜,HTML + CSS 网页开发,6,HTML + CSS 网页开发 · 综合实战,3,作业,图文
+S1 青铜,HTML + CSS 网页开发,6,HTML + CSS 网页开发 · 综合实战,4,AI 助学,图文
+S1 青铜,Git 版本控制,7,Git 版本控制 · 第1章 Git 基础,1,版本控制的概念与 Git 安装,视频
+S1 青铜,Git 版本控制,7,Git 版本控制 · 第1章 Git 基础,2,本地仓库操作,视频
+S1 青铜,Git 版本控制,7,Git 版本控制 · 第1章 Git 基础,3,版本回退与文件恢复,视频
+S1 青铜,Git 版本控制,7,Git 版本控制 · 第1章 Git 基础,4,暂存工作区（git stash）,视频
+S1 青铜,Git 版本控制,7,Git 版本控制 · 第1章 Git 基础,5,作业,图文
+S1 青铜,Git 版本控制,7,Git 版本控制 · 第1章 Git 基础,6,AI 助学,图文
+S1 青铜,Git 版本控制,8,Git 版本控制 · 第2章 远程仓库与协作,1,Gitee/GitHub 与 SSH 配置,视频
+S1 青铜,Git 版本控制,8,Git 版本控制 · 第2章 远程仓库与协作,2,远程仓库操作,视频
+S1 青铜,Git 版本控制,8,Git 版本控制 · 第2章 远程仓库与协作,3,分支基础,视频
+S1 青铜,Git 版本控制,8,Git 版本控制 · 第2章 远程仓库与协作,4,作业,图文
+S1 青铜,Git 版本控制,8,Git 版本控制 · 第2章 远程仓库与协作,5,AI 助学,图文
+S1 青铜,Git 版本控制,9,Git 版本控制 · 第3章 作业提交流程实战,1,作业仓库结构规范,视频
+S1 青铜,Git 版本控制,9,Git 版本控制 · 第3章 作业提交流程实战,2,提交流程演练,视频
+S1 青铜,Git 版本控制,9,Git 版本控制 · 第3章 作业提交流程实战,3,常见问题与冲突解决,图文
+S1 青铜,Git 版本控制,9,Git 版本控制 · 第3章 作业提交流程实战,4,作业,图文
+S1 青铜,Git 版本控制,9,Git 版本控制 · 第3章 作业提交流程实战,5,AI 助学,图文
+S1 青铜,Java 核心技术,10,Java 核心技术 · 第1章 Java概述与开发环境搭建,1,Java概述,视频
+S1 青铜,Java 核心技术,10,Java 核心技术 · 第1章 Java概述与开发环境搭建,2,开发环境搭建,视频
+S1 青铜,Java 核心技术,10,Java 核心技术 · 第1章 Java概述与开发环境搭建,3,第一个Java程序-HelloWorld,视频
+S1 青铜,Java 核心技术,10,Java 核心技术 · 第1章 Java概述与开发环境搭建,4,IDEA安装,视频
+S1 青铜,Java 核心技术,10,Java 核心技术 · 第1章 Java概述与开发环境搭建,5,第一个Java程序实战,视频
+S1 青铜,Java 核心技术,10,Java 核心技术 · 第1章 Java概述与开发环境搭建,6,核心快捷键,视频
+S1 青铜,Java 核心技术,10,Java 核心技术 · 第1章 Java概述与开发环境搭建,7,总结与鼓励,图文
+S1 青铜,Java 核心技术,10,Java 核心技术 · 第1章 Java概述与开发环境搭建,8,AI 助学,图文
+S1 青铜,Java 核心技术,11,Java 核心技术 · 第2章 Java基础语法,1,Java注释,视频
+S1 青铜,Java 核心技术,11,Java 核心技术 · 第2章 Java基础语法,2,Java关键字与标识符,视频
+S1 青铜,Java 核心技术,11,Java 核心技术 · 第2章 Java基础语法,3,变量,视频
+S1 青铜,Java 核心技术,11,Java 核心技术 · 第2章 Java基础语法,4,Java数据类型,视频
+S1 青铜,Java 核心技术,11,Java 核心技术 · 第2章 Java基础语法,5,数据类型的转换,视频
+S1 青铜,Java 核心技术,11,Java 核心技术 · 第2章 Java基础语法,6,作业,图文
+S1 青铜,Java 核心技术,11,Java 核心技术 · 第2章 Java基础语法,7,AI 助学,图文
+S1 青铜,Java 核心技术,12,Java 核心技术 · 第3章 运算符,1,原码、反码、补码,视频
+S1 青铜,Java 核心技术,12,Java 核心技术 · 第3章 运算符,2,算术运算符,视频
+S1 青铜,Java 核心技术,12,Java 核心技术 · 第3章 运算符,3,赋值运算符(=),视频
+S1 青铜,Java 核心技术,12,Java 核心技术 · 第3章 运算符,4,关系运算符,视频
+S1 青铜,Java 核心技术,12,Java 核心技术 · 第3章 运算符,5,逻辑运算符,视频
+S1 青铜,Java 核心技术,12,Java 核心技术 · 第3章 运算符,6,位运算符,视频
+S1 青铜,Java 核心技术,12,Java 核心技术 · 第3章 运算符,7,自增自减运算符,视频
+S1 青铜,Java 核心技术,12,Java 核心技术 · 第3章 运算符,8,三元运算符,视频
+S1 青铜,Java 核心技术,12,Java 核心技术 · 第3章 运算符,9,运算符优先级,图文
+S1 青铜,Java 核心技术,12,Java 核心技术 · 第3章 运算符,10,作业,视频
+S1 青铜,Java 核心技术,12,Java 核心技术 · 第3章 运算符,11,AI 助学,图文
+S1 青铜,Java 核心技术,13,Java 核心技术 · 第4章 流程控制语句,1,选择流程语句,视频
+S1 青铜,Java 核心技术,13,Java 核心技术 · 第4章 流程控制语句,2,switch语句,视频
+S1 青铜,Java 核心技术,13,Java 核心技术 · 第4章 流程控制语句,3,循环,视频
+S1 青铜,Java 核心技术,13,Java 核心技术 · 第4章 流程控制语句,4,作业,图文
+S1 青铜,Java 核心技术,13,Java 核心技术 · 第4章 流程控制语句,5,AI 助学,图文
+S1 青铜,Java 核心技术,14,Java 核心技术 · 第5章 数组和字符串,1,数组概述,视频
+S1 青铜,Java 核心技术,14,Java 核心技术 · 第5章 数组和字符串,2,数组的声明与初始化,视频
+S1 青铜,Java 核心技术,14,Java 核心技术 · 第5章 数组和字符串,3,数组元素的访问与修改,视频
+S1 青铜,Java 核心技术,14,Java 核心技术 · 第5章 数组和字符串,4,数组的遍历操作,视频
+S1 青铜,Java 核心技术,14,Java 核心技术 · 第5章 数组和字符串,5,数组的常见操作,视频
+S1 青铜,Java 核心技术,14,Java 核心技术 · 第5章 数组和字符串,6,二维数组,视频
+S1 青铜,Java 核心技术,14,Java 核心技术 · 第5章 数组和字符串,7,数组的优缺点分析,图文
+S1 青铜,Java 核心技术,14,Java 核心技术 · 第5章 数组和字符串,8,数组工具类Arrays的使用,视频
+S1 青铜,Java 核心技术,14,Java 核心技术 · 第5章 数组和字符串,9,字符串,视频
+S1 青铜,Java 核心技术,14,Java 核心技术 · 第5章 数组和字符串,10,作业,图文
+S1 青铜,Java 核心技术,14,Java 核心技术 · 第5章 数组和字符串,11,AI 助学,图文
+S1 青铜,Java 核心技术,15,Java 核心技术 · 第6章 面向对象编程,1,面向对象核心思想概述,视频
+S1 青铜,Java 核心技术,15,Java 核心技术 · 第6章 面向对象编程,2,类的定义,视频
+S1 青铜,Java 核心技术,15,Java 核心技术 · 第6章 面向对象编程,3,对象创建与使用,视频
+S1 青铜,Java 核心技术,15,Java 核心技术 · 第6章 面向对象编程,4,方法重载,视频
+S1 青铜,Java 核心技术,15,Java 核心技术 · 第6章 面向对象编程,5,this关键字,视频
+S1 青铜,Java 核心技术,15,Java 核心技术 · 第6章 面向对象编程,6,作业,图文
+S1 青铜,Java 核心技术,15,Java 核心技术 · 第6章 面向对象编程,7,AI 助学,图文
+S1 青铜,Java 核心技术,16,Java 核心技术 · 第7章 面向对象（封装继承多态）,1,包和导入,视频
+S1 青铜,Java 核心技术,16,Java 核心技术 · 第7章 面向对象（封装继承多态）,2,访问修饰符,视频
+S1 青铜,Java 核心技术,16,Java 核心技术 · 第7章 面向对象（封装继承多态）,3,封装,视频
+S1 青铜,Java 核心技术,16,Java 核心技术 · 第7章 面向对象（封装继承多态）,4,继承,视频
+S1 青铜,Java 核心技术,16,Java 核心技术 · 第7章 面向对象（封装继承多态）,5,方法重写,视频
+S1 青铜,Java 核心技术,16,Java 核心技术 · 第7章 面向对象（封装继承多态）,6,super关键字,视频
+S1 青铜,Java 核心技术,16,Java 核心技术 · 第7章 面向对象（封装继承多态）,7,final关键字,视频
+S1 青铜,Java 核心技术,16,Java 核心技术 · 第7章 面向对象（封装继承多态）,8,static关键字,视频
+S1 青铜,Java 核心技术,16,Java 核心技术 · 第7章 面向对象（封装继承多态）,9,多态,视频
+S1 青铜,Java 核心技术,16,Java 核心技术 · 第7章 面向对象（封装继承多态）,10,作业,图文
+S1 青铜,Java 核心技术,16,Java 核心技术 · 第7章 面向对象（封装继承多态）,11,AI 助学,图文
+S1 青铜,Java 核心技术,17,Java 核心技术 · 第8章 抽象类和接口,1,抽象类,视频
+S1 青铜,Java 核心技术,17,Java 核心技术 · 第8章 抽象类和接口,2,接口,视频
+S1 青铜,Java 核心技术,17,Java 核心技术 · 第8章 抽象类和接口,3,JDK8接口新特性,视频
+S1 青铜,Java 核心技术,17,Java 核心技术 · 第8章 抽象类和接口,4,抽象类 VS 接口,图文
+S1 青铜,Java 核心技术,17,Java 核心技术 · 第8章 抽象类和接口,5,综合示例,视频
+S1 青铜,Java 核心技术,17,Java 核心技术 · 第8章 抽象类和接口,6,作业,视频
+S1 青铜,Java 核心技术,17,Java 核心技术 · 第8章 抽象类和接口,7,AI 助学,图文
+S1 青铜,Java 核心技术,18,Java 核心技术 · 第9章 常用类（枚举，内部类）,1,内部类,视频
+S1 青铜,Java 核心技术,18,Java 核心技术 · 第9章 常用类（枚举，内部类）,2,枚举,视频
+S1 青铜,Java 核心技术,18,Java 核心技术 · 第9章 常用类（枚举，内部类）,3,StringBuilder,视频
+S1 青铜,Java 核心技术,18,Java 核心技术 · 第9章 常用类（枚举，内部类）,4,Object类,视频
+S1 青铜,Java 核心技术,18,Java 核心技术 · 第9章 常用类（枚举，内部类）,5,作业,视频
+S1 青铜,Java 核心技术,18,Java 核心技术 · 第9章 常用类（枚举，内部类）,6,AI 助学,图文
+S1 青铜,Java 高级编程技术,19,Java 高级编程技术 · 第1章 异常处理,1,异常体系结构,视频
+S1 青铜,Java 高级编程技术,19,Java 高级编程技术 · 第1章 异常处理,2,异常处理机制,视频
+S1 青铜,Java 高级编程技术,19,Java 高级编程技术 · 第1章 异常处理,3,自定义异常,视频
+S1 青铜,Java 高级编程技术,19,Java 高级编程技术 · 第1章 异常处理,4,作业,图文
+S1 青铜,Java 高级编程技术,19,Java 高级编程技术 · 第1章 异常处理,5,AI 助学,图文
+S1 青铜,Java 高级编程技术,20,Java 高级编程技术 · 第2章 输入输出流,1,File类,视频
+S1 青铜,Java 高级编程技术,20,Java 高级编程技术 · 第2章 输入输出流,2,IO流基础,图文
+S1 青铜,Java 高级编程技术,20,Java 高级编程技术 · 第2章 输入输出流,3,操作实战,视频
+S1 青铜,Java 高级编程技术,20,Java 高级编程技术 · 第2章 输入输出流,4,作业,图文
+S1 青铜,Java 高级编程技术,20,Java 高级编程技术 · 第2章 输入输出流,5,AI 助学,图文
+S1 青铜,Java 高级编程技术,21,Java 高级编程技术 · 第3章 集合框架,1,集合概述,视频
+S1 青铜,Java 高级编程技术,21,Java 高级编程技术 · 第3章 集合框架,2,Collection接口,视频
+S1 青铜,Java 高级编程技术,21,Java 高级编程技术 · 第3章 集合框架,3,List接口,视频
+S1 青铜,Java 高级编程技术,21,Java 高级编程技术 · 第3章 集合框架,4,Set接口,视频
+S1 青铜,Java 高级编程技术,21,Java 高级编程技术 · 第3章 集合框架,5,Map接口,视频
+S1 青铜,Java 高级编程技术,21,Java 高级编程技术 · 第3章 集合框架,6,泛型与工具类,视频
+S1 青铜,Java 高级编程技术,21,Java 高级编程技术 · 第3章 集合框架,7,作业,图文
+S1 青铜,Java 高级编程技术,21,Java 高级编程技术 · 第3章 集合框架,8,AI 助学,图文
+S1 青铜,Java 高级编程技术,22,Java 高级编程技术 · 第4章 多线程,1,线程概述,视频
+S1 青铜,Java 高级编程技术,22,Java 高级编程技术 · 第4章 多线程,2,线程的创建与启动,视频
+S1 青铜,Java 高级编程技术,22,Java 高级编程技术 · 第4章 多线程,3,线程生命周期,视频
+S1 青铜,Java 高级编程技术,22,Java 高级编程技术 · 第4章 多线程,4,线程安全与锁,视频
+S1 青铜,Java 高级编程技术,22,Java 高级编程技术 · 第4章 多线程,5,线程死锁,视频
+S1 青铜,Java 高级编程技术,22,Java 高级编程技术 · 第4章 多线程,6,线程通信,视频
+S1 青铜,Java 高级编程技术,22,Java 高级编程技术 · 第4章 多线程,7,线程池,视频
+S1 青铜,Java 高级编程技术,22,Java 高级编程技术 · 第4章 多线程,8,作业,图文
+S1 青铜,Java 高级编程技术,22,Java 高级编程技术 · 第4章 多线程,9,AI 助学,图文
+S1 青铜,Java 高级编程技术,23,Java 高级编程技术 · 第5章 网络编程,1,网络编程基础,视频
+S1 青铜,Java 高级编程技术,23,Java 高级编程技术 · 第5章 网络编程,2,TCP编程,视频
+S1 青铜,Java 高级编程技术,23,Java 高级编程技术 · 第5章 网络编程,3,UDP编程实战,视频
+S1 青铜,Java 高级编程技术,23,Java 高级编程技术 · 第5章 网络编程,4,URL编程与网络资源访问,视频
+S1 青铜,Java 高级编程技术,23,Java 高级编程技术 · 第5章 网络编程,5,作业,图文
+S1 青铜,Java 高级编程技术,23,Java 高级编程技术 · 第5章 网络编程,6,AI 助学,图文
+S1 青铜,Java 高级编程技术,24,Java 高级编程技术 · 第6章 反射与注解,1,反射机制,视频
+S1 青铜,Java 高级编程技术,24,Java 高级编程技术 · 第6章 反射与注解,2,注解,视频
+S1 青铜,Java 高级编程技术,24,Java 高级编程技术 · 第6章 反射与注解,3,作业,图文
+S1 青铜,Java 高级编程技术,24,Java 高级编程技术 · 第6章 反射与注解,4,AI 助学,图文
+S1 青铜,Java 高级编程技术,25,Java 高级编程技术 · 第7章 XML解析与JSON,1,XML技术,视频
+S1 青铜,Java 高级编程技术,25,Java 高级编程技术 · 第7章 XML解析与JSON,2,JSON技术,视频
+S1 青铜,Java 高级编程技术,25,Java 高级编程技术 · 第7章 XML解析与JSON,3,作业,图文
+S1 青铜,Java 高级编程技术,25,Java 高级编程技术 · 第7章 XML解析与JSON,4,AI 助学,图文
+S1 青铜,Java 高级编程技术,26,Java 高级编程技术 · 第8章 JDK8新特性,1,Lambda表达式,视频
+S1 青铜,Java 高级编程技术,26,Java 高级编程技术 · 第8章 JDK8新特性,2,函数式接口,视频
+S1 青铜,Java 高级编程技术,26,Java 高级编程技术 · 第8章 JDK8新特性,3,Stream API,视频
+S1 青铜,Java 高级编程技术,26,Java 高级编程技术 · 第8章 JDK8新特性,4,其他新特性,视频
+S1 青铜,Java 高级编程技术,26,Java 高级编程技术 · 第8章 JDK8新特性,5,作业,图文
+S1 青铜,Java 高级编程技术,26,Java 高级编程技术 · 第8章 JDK8新特性,6,AI 助学,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,27,MySQL 数据库与 JDBC 编程 · 第1章 数据库认知与环境搭建,1,数据库核心概念与分类,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,27,MySQL 数据库与 JDBC 编程 · 第1章 数据库认知与环境搭建,2,MySQL安装与配置,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,27,MySQL 数据库与 JDBC 编程 · 第1章 数据库认知与环境搭建,3,Adminer 可视化管理工具,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,27,MySQL 数据库与 JDBC 编程 · 第1章 数据库认知与环境搭建,4,作业,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,27,MySQL 数据库与 JDBC 编程 · 第1章 数据库认知与环境搭建,5,AI 助学,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,28,MySQL 数据库与 JDBC 编程 · 第2章 数据库与表操作,1,数据库操作,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,28,MySQL 数据库与 JDBC 编程 · 第2章 数据库与表操作,2,数据类型详解,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,28,MySQL 数据库与 JDBC 编程 · 第2章 数据库与表操作,3,数据表操作,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,28,MySQL 数据库与 JDBC 编程 · 第2章 数据库与表操作,4,作业,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,28,MySQL 数据库与 JDBC 编程 · 第2章 数据库与表操作,5,AI 助学,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,29,MySQL 数据库与 JDBC 编程 · 第3章 数据增删改操作,1,插入数据,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,29,MySQL 数据库与 JDBC 编程 · 第3章 数据增删改操作,2,修改数据,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,29,MySQL 数据库与 JDBC 编程 · 第3章 数据增删改操作,3,删除数据,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,29,MySQL 数据库与 JDBC 编程 · 第3章 数据增删改操作,4,事务控制,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,29,MySQL 数据库与 JDBC 编程 · 第3章 数据增删改操作,5,作业,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,29,MySQL 数据库与 JDBC 编程 · 第3章 数据增删改操作,6,AI 助学,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,30,MySQL 数据库与 JDBC 编程 · 第4章 查询,1,基础语法结构,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,30,MySQL 数据库与 JDBC 编程 · 第4章 查询,2,条件查询,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,30,MySQL 数据库与 JDBC 编程 · 第4章 查询,3,分组查询,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,30,MySQL 数据库与 JDBC 编程 · 第4章 查询,4,排序,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,30,MySQL 数据库与 JDBC 编程 · 第4章 查询,5,分页查询,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,30,MySQL 数据库与 JDBC 编程 · 第4章 查询,6,作业,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,30,MySQL 数据库与 JDBC 编程 · 第4章 查询,7,AI 助学,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,31,MySQL 数据库与 JDBC 编程 · 第5章 约束与高级查询,1,约束,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,31,MySQL 数据库与 JDBC 编程 · 第5章 约束与高级查询,2,三大范式与表关系,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,31,MySQL 数据库与 JDBC 编程 · 第5章 约束与高级查询,3,多表查询,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,31,MySQL 数据库与 JDBC 编程 · 第5章 约束与高级查询,4,子查询,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,31,MySQL 数据库与 JDBC 编程 · 第5章 约束与高级查询,5,作业,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,31,MySQL 数据库与 JDBC 编程 · 第5章 约束与高级查询,6,AI 助学,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,32,MySQL 数据库与 JDBC 编程 · 第6章 JDBC核心基础与环境搭建,1,JDBC概述,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,32,MySQL 数据库与 JDBC 编程 · 第6章 JDBC核心基础与环境搭建,2,JDBC标准开发流程,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,32,MySQL 数据库与 JDBC 编程 · 第6章 JDBC核心基础与环境搭建,3,JDBC案例分析,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,32,MySQL 数据库与 JDBC 编程 · 第6章 JDBC核心基础与环境搭建,4,PreparedStatement,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,32,MySQL 数据库与 JDBC 编程 · 第6章 JDBC核心基础与环境搭建,5,事务控制,视频
+S1 青铜,MySQL 数据库与 JDBC 编程,32,MySQL 数据库与 JDBC 编程 · 第6章 JDBC核心基础与环境搭建,6,作业,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,32,MySQL 数据库与 JDBC 编程 · 第6章 JDBC核心基础与环境搭建,7,AI 助学,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,33,MySQL 数据库与 JDBC 编程 · 第7章 实战案例,1,表关系分析,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,33,MySQL 数据库与 JDBC 编程 · 第7章 实战案例,2,数据表详细设计,图文
+S1 青铜,MySQL 数据库与 JDBC 编程,33,MySQL 数据库与 JDBC 编程 · 第7章 实战案例,3,SQL语句练习,视频
+S1 青铜,实训项目：奶茶物语,34,实训项目：奶茶物语 · 详细设计,1,项目背景,视频
+S1 青铜,实训项目：奶茶物语,34,实训项目：奶茶物语 · 详细设计,2,需求分析,视频
+S1 青铜,实训项目：奶茶物语,34,实训项目：奶茶物语 · 详细设计,3,用户故事,图文
+S1 青铜,实训项目：奶茶物语,34,实训项目：奶茶物语 · 详细设计,4,知识点覆盖,图文
+S1 青铜,实训项目：奶茶物语,34,实训项目：奶茶物语 · 详细设计,5,项目目录预览,视频
+S1 青铜,实训项目：奶茶物语,34,实训项目：奶茶物语 · 详细设计,6,给你的开干建议,图文
+S1 青铜,实训项目：奶茶物语,35,实训项目：奶茶物语 · 数据库设计,1,ER 图,图文
+S1 青铜,实训项目：奶茶物语,35,实训项目：奶茶物语 · 数据库设计,2,踩坑警告：`order` 是 MySQL 保留字,图文
+S1 青铜,实训项目：奶茶物语,35,实训项目：奶茶物语 · 数据库设计,3,建表 SQL,图文
+S1 青铜,实训项目：奶茶物语,35,实训项目：奶茶物语 · 数据库设计,4,字段说明表,图文
+S1 青铜,实训项目：奶茶物语,35,实训项目：奶茶物语 · 数据库设计,5,初始化测试数据,视频
+S1 青铜,实训项目：奶茶物语,35,实训项目：奶茶物语 · 数据库设计,6,验证数据库已就绪,图文
+S1 青铜,实训项目：奶茶物语,35,实训项目：奶茶物语 · 数据库设计,7,字段值边界,图文
+S1 青铜,实训项目：奶茶物语,35,实训项目：奶茶物语 · 数据库设计,8,给你的检查清单,图文
+S1 青铜,实训项目：奶茶物语,36,实训项目：奶茶物语 · 原型设计,1,设计原则,视频
+S1 青铜,实训项目：奶茶物语,36,实训项目：奶茶物语 · 原型设计,2,主菜单结构总览,视频
+S1 青铜,实训项目：奶茶物语,36,实训项目：奶茶物语 · 原型设计,3,各级菜单原型,视频
+S1 青铜,实训项目：奶茶物语,36,实训项目：奶茶物语 · 原型设计,4,退出 / 注销以及其他,图文
+S1 青铜,实训项目：奶茶物语,37,实训项目：奶茶物语 · 编码步骤,1,Step 0 — 项目骨架,视频
+S1 青铜,实训项目：奶茶物语,37,实训项目：奶茶物语 · 编码步骤,2,Step 1 — DbUtil 数据库连接工具,视频
+S1 青铜,实训项目：奶茶物语,37,实训项目：奶茶物语 · 编码步骤,3,Step 2 — Entity 实体类,视频
+S1 青铜,实训项目：奶茶物语,37,实训项目：奶茶物语 · 编码步骤,4,Step 3 — AdminDao + AdminService（注册登录）,视频
+S1 青铜,实训项目：奶茶物语,37,实训项目：奶茶物语 · 编码步骤,5,Step 4 — DrinkDao + DrinkService,视频
+S1 青铜,实训项目：奶茶物语,37,实训项目：奶茶物语 · 编码步骤,6,Step 5 — MemberDao + MemberService,视频
+S1 青铜,实训项目：奶茶物语,37,实训项目：奶茶物语 · 编码步骤,7,Step 6 — 下单核心：JDBC 事务 **（本项目难点）**,视频
+S1 青铜,实训项目：奶茶物语,37,实训项目：奶茶物语 · 编码步骤,8,Step 7 — 多表 JOIN：订单明细查询,视频
+S1 青铜,实训项目：奶茶物语,37,实训项目：奶茶物语 · 编码步骤,9,Step 8 — 统计模块：销量榜 / 营业额 / 库存预警,视频
+S1 青铜,实训项目：奶茶物语,37,实训项目：奶茶物语 · 编码步骤,10,Step 9 — Main 控制台菜单,视频
+S1 青铜,实训项目：奶茶物语,37,实训项目：奶茶物语 · 编码步骤,11,Step 10 — 自测清单,图文
+S1 青铜,实训项目：奶茶物语,37,实训项目：奶茶物语 · 编码步骤,12,AI 助学 10% 用对了吗,图文
+S1 青铜,实训项目：奶茶物语,37,实训项目：奶茶物语 · 编码步骤,13,完成确认,图文
+S1 青铜,实训项目：奶茶物语,38,实训项目：奶茶物语 · 运行测试,1,启动 / 登录系列,视频
+S1 青铜,实训项目：奶茶物语,38,实训项目：奶茶物语 · 运行测试,2,主菜单,视频
+S1 青铜,实训项目：奶茶物语,38,实训项目：奶茶物语 · 运行测试,3,商品管理,视频
+S1 青铜,实训项目：奶茶物语,38,实训项目：奶茶物语 · 运行测试,4,会员管理,视频
+S1 青铜,实训项目：奶茶物语,38,实训项目：奶茶物语 · 运行测试,5,下单结算（本项目核心）,视频
+S1 青铜,实训项目：奶茶物语,38,实训项目：奶茶物语 · 运行测试,6,数据统计,视频
+S1 青铜,实训项目：奶茶物语,38,实训项目：奶茶物语 · 运行测试,7,退出 / 注销,视频
+S1 青铜,实训项目：奶茶物语,38,实训项目：奶茶物语 · 运行测试,8,异常输入兜底,视频
+S1 青铜,实训项目：奶茶物语,38,实训项目：奶茶物语 · 运行测试,9,事务回滚演示（进阶验收）,视频
+S1 青铜,实训项目：奶茶物语,38,实训项目：奶茶物语 · 运行测试,10,验收清单和验收完成,图文
+S1 青铜,实训项目：奶茶物语,38,实训项目：奶茶物语 · 运行测试,11,🚀 迭代规划 (Iteration Backlog),图文
+S2 白银,Maven 项目构建,39,Maven 项目构建 · Maven 基础,1,Maven 概念与安装,视频
+S2 白银,Maven 项目构建,39,Maven 项目构建 · Maven 基础,2,仓库体系与镜像配置,视频
+S2 白银,Maven 项目构建,39,Maven 项目构建 · Maven 基础,3,项目结构与 POM,视频
+S2 白银,Maven 项目构建,39,Maven 项目构建 · Maven 基础,4,作业,图文
+S2 白银,Maven 项目构建,39,Maven 项目构建 · Maven 基础,5,AI 助学,图文
+S2 白银,Maven 项目构建,40,Maven 项目构建 · 依赖与项目管理,1,依赖引入,图文
+S2 白银,Maven 项目构建,40,Maven 项目构建 · 依赖与项目管理,2,依赖范围,视频
+S2 白银,Maven 项目构建,40,Maven 项目构建 · 依赖与项目管理,3,依赖传递与冲突解决,视频
+S2 白银,Maven 项目构建,40,Maven 项目构建 · 依赖与项目管理,4,生命周期与命令,视频
+S2 白银,Maven 项目构建,40,Maven 项目构建 · 依赖与项目管理,5,多模块项目,视频
+S2 白银,Maven 项目构建,40,Maven 项目构建 · 依赖与项目管理,6,作业,图文
+S2 白银,Maven 项目构建,40,Maven 项目构建 · 依赖与项目管理,7,AI 助学,图文
+S2 白银,JavaWeb 核心技术,41,JavaWeb 核心技术 · Web应用概览（2学时）,1,HTTP协议,视频
+S2 白银,JavaWeb 核心技术,41,JavaWeb 核心技术 · Web应用概览（2学时）,2,Tomcat服务器与环境搭建,视频
+S2 白银,JavaWeb 核心技术,41,JavaWeb 核心技术 · Web应用概览（2学时）,3,Web应用创建、部署与访问,视频
+S2 白银,JavaWeb 核心技术,41,JavaWeb 核心技术 · Web应用概览（2学时）,4,AI 助学,图文
+S2 白银,JavaWeb 核心技术,42,JavaWeb 核心技术 · Servlet核心技术,1,Servlet概述,视频
+S2 白银,JavaWeb 核心技术,42,JavaWeb 核心技术 · Servlet核心技术,2,Servlet生命周期,视频
+S2 白银,JavaWeb 核心技术,42,JavaWeb 核心技术 · Servlet核心技术,3,Servlet配置,视频
+S2 白银,JavaWeb 核心技术,42,JavaWeb 核心技术 · Servlet核心技术,4,Servlet请求与响应处理,视频
+S2 白银,JavaWeb 核心技术,42,JavaWeb 核心技术 · Servlet核心技术,5,Servlet乱码问题解决方案,视频
+S2 白银,JavaWeb 核心技术,42,JavaWeb 核心技术 · Servlet核心技术,6,ServletContext应用域对象,视频
+S2 白银,JavaWeb 核心技术,42,JavaWeb 核心技术 · Servlet核心技术,7,作业,图文
+S2 白银,JavaWeb 核心技术,42,JavaWeb 核心技术 · Servlet核心技术,8,AI 助学,图文
+S2 白银,JavaWeb 核心技术,43,JavaWeb 核心技术 · 会话状态管理,1,会话管理必要性、HTTP无状态特性缺陷,视频
+S2 白银,JavaWeb 核心技术,43,JavaWeb 核心技术 · 会话状态管理,2,Cookie技术,视频
+S2 白银,JavaWeb 核心技术,43,JavaWeb 核心技术 · 会话状态管理,3,Session技术,视频
+S2 白银,JavaWeb 核心技术,43,JavaWeb 核心技术 · 会话状态管理,4,Cookie与Session核心对比,视频
+S2 白银,JavaWeb 核心技术,43,JavaWeb 核心技术 · 会话状态管理,5,会话状态保持实战,视频
+S2 白银,JavaWeb 核心技术,43,JavaWeb 核心技术 · 会话状态管理,6,作业,图文
+S2 白银,JavaWeb 核心技术,43,JavaWeb 核心技术 · 会话状态管理,7,AI 助学,图文
+S2 白银,JavaWeb 核心技术,44,JavaWeb 核心技术 · 文件上传与下载,1,文件上传概述,视频
+S2 白银,JavaWeb 核心技术,44,JavaWeb 核心技术 · 文件上传与下载,2,文件上传实操,视频
+S2 白银,JavaWeb 核心技术,44,JavaWeb 核心技术 · 文件上传与下载,3,文件下载概述,图文
+S2 白银,JavaWeb 核心技术,44,JavaWeb 核心技术 · 文件上传与下载,4,文件下载实操,视频
+S2 白银,JavaWeb 核心技术,44,JavaWeb 核心技术 · 文件上传与下载,5,作业,图文
+S2 白银,JavaWeb 核心技术,44,JavaWeb 核心技术 · 文件上传与下载,6,AI 助学,图文
+S2 白银,JavaWeb 核心技术,45,JavaWeb 核心技术 · 前后端分离技术,1,MVC 模式与前后端分离,视频
+S2 白银,JavaWeb 核心技术,45,JavaWeb 核心技术 · 前后端分离技术,2,Servlet 返回 JSON,视频
+S2 白银,JavaWeb 核心技术,45,JavaWeb 核心技术 · 前后端分离技术,3,前端 Axios 调用后端接口,视频
+S2 白银,JavaWeb 核心技术,45,JavaWeb 核心技术 · 前后端分离技术,4,跨域问题与解决方法,视频
+S2 白银,JavaWeb 核心技术,45,JavaWeb 核心技术 · 前后端分离技术,5,作业,图文
+S2 白银,JavaWeb 核心技术,45,JavaWeb 核心技术 · 前后端分离技术,6,AI 助学,图文
+S2 白银,JavaScript 与 TypeScript,46,JavaScript 与 TypeScript · JavaScript 基础语法,1,JavaScript概述,图文
+S2 白银,JavaScript 与 TypeScript,46,JavaScript 与 TypeScript · JavaScript 基础语法,2,JS 引入方式与执行机制,视频
+S2 白银,JavaScript 与 TypeScript,46,JavaScript 与 TypeScript · JavaScript 基础语法,3,变量与数据类型,视频
+S2 白银,JavaScript 与 TypeScript,46,JavaScript 与 TypeScript · JavaScript 基础语法,4,运算符与流程控制,视频
+S2 白银,JavaScript 与 TypeScript,46,JavaScript 与 TypeScript · JavaScript 基础语法,5,函数定义与调用,图文
+S2 白银,JavaScript 与 TypeScript,46,JavaScript 与 TypeScript · JavaScript 基础语法,6,函数声明 与 函数表达式以及箭头函数,视频
+S2 白银,JavaScript 与 TypeScript,46,JavaScript 与 TypeScript · JavaScript 基础语法,7,作用域与闭包基础,视频
+S2 白银,JavaScript 与 TypeScript,46,JavaScript 与 TypeScript · JavaScript 基础语法,8,错误处理,视频
+S2 白银,JavaScript 与 TypeScript,46,JavaScript 与 TypeScript · JavaScript 基础语法,9,作业,视频
+S2 白银,JavaScript 与 TypeScript,46,JavaScript 与 TypeScript · JavaScript 基础语法,10,AI 助学,图文
+S2 白银,JavaScript 与 TypeScript,47,JavaScript 与 TypeScript · 对象与数组,1,数组及常用方法,视频
+S2 白银,JavaScript 与 TypeScript,47,JavaScript 与 TypeScript · 对象与数组,2,对象的创建与使用,图文
+S2 白银,JavaScript 与 TypeScript,47,JavaScript 与 TypeScript · 对象与数组,3,内置对象,视频
+S2 白银,JavaScript 与 TypeScript,47,JavaScript 与 TypeScript · 对象与数组,4,自定义对象,视频
+S2 白银,JavaScript 与 TypeScript,47,JavaScript 与 TypeScript · 对象与数组,5,JSON 数据格式,视频
+S2 白银,JavaScript 与 TypeScript,47,JavaScript 与 TypeScript · 对象与数组,6,解构赋值与展开运算符,视频
+S2 白银,JavaScript 与 TypeScript,47,JavaScript 与 TypeScript · 对象与数组,7,Map 与 Set,视频
+S2 白银,JavaScript 与 TypeScript,47,JavaScript 与 TypeScript · 对象与数组,8,作业,视频
+S2 白银,JavaScript 与 TypeScript,47,JavaScript 与 TypeScript · 对象与数组,9,AI 助学,图文
+S2 白银,JavaScript 与 TypeScript,48,JavaScript 与 TypeScript · DOM 操作,1,DOM概述,视频
+S2 白银,JavaScript 与 TypeScript,48,JavaScript 与 TypeScript · DOM 操作,2,获取元素,视频
+S2 白银,JavaScript 与 TypeScript,48,JavaScript 与 TypeScript · DOM 操作,3,修改内容与样式,视频
+S2 白银,JavaScript 与 TypeScript,48,JavaScript 与 TypeScript · DOM 操作,4,节点的增删改,视频
+S2 白银,JavaScript 与 TypeScript,48,JavaScript 与 TypeScript · DOM 操作,5,事件绑定与事件对象,视频
+S2 白银,JavaScript 与 TypeScript,48,JavaScript 与 TypeScript · DOM 操作,6,事件冒泡与事件委托,视频
+S2 白银,JavaScript 与 TypeScript,48,JavaScript 与 TypeScript · DOM 操作,7,作业,图文
+S2 白银,JavaScript 与 TypeScript,48,JavaScript 与 TypeScript · DOM 操作,8,AI 助学,图文
+S2 白银,JavaScript 与 TypeScript,49,JavaScript 与 TypeScript · BOM 与异步,1,BOM概述,视频
+S2 白银,JavaScript 与 TypeScript,49,JavaScript 与 TypeScript · BOM 与异步,2,window 对象与定时器,视频
+S2 白银,JavaScript 与 TypeScript,49,JavaScript 与 TypeScript · BOM 与异步,3,window对象,图文
+S2 白银,JavaScript 与 TypeScript,49,JavaScript 与 TypeScript · BOM 与异步,4,本地存储,视频
+S2 白银,JavaScript 与 TypeScript,49,JavaScript 与 TypeScript · BOM 与异步,5,同步与异步,视频
+S2 白银,JavaScript 与 TypeScript,49,JavaScript 与 TypeScript · BOM 与异步,6,Fetch API,视频
+S2 白银,JavaScript 与 TypeScript,49,JavaScript 与 TypeScript · BOM 与异步,7,Promise 与 async/await（核心难点）,视频
+S2 白银,JavaScript 与 TypeScript,49,JavaScript 与 TypeScript · BOM 与异步,8,作业,视频
+S2 白银,JavaScript 与 TypeScript,49,JavaScript 与 TypeScript · BOM 与异步,9,AI 助学,图文
+S2 白银,JavaScript 与 TypeScript,50,JavaScript 与 TypeScript · ES6+ 核心特性,1,箭头函数,视频
+S2 白银,JavaScript 与 TypeScript,50,JavaScript 与 TypeScript · ES6+ 核心特性,2,模板字符串,视频
+S2 白银,JavaScript 与 TypeScript,50,JavaScript 与 TypeScript · ES6+ 核心特性,3,模块化,视频
+S2 白银,JavaScript 与 TypeScript,50,JavaScript 与 TypeScript · ES6+ 核心特性,4,可选链与空值合并,视频
+S2 白银,JavaScript 与 TypeScript,50,JavaScript 与 TypeScript · ES6+ 核心特性,5,作业,视频
+S2 白银,JavaScript 与 TypeScript,50,JavaScript 与 TypeScript · ES6+ 核心特性,6,AI 助学,图文
+S2 白银,JavaScript 与 TypeScript,51,JavaScript 与 TypeScript · TypeScript 基础,1,TypeScript概述与使用,视频
+S2 白银,JavaScript 与 TypeScript,51,JavaScript 与 TypeScript · TypeScript 基础,2,基本类型系统,视频
+S2 白银,JavaScript 与 TypeScript,51,JavaScript 与 TypeScript · TypeScript 基础,3,函数类型,视频
+S2 白银,JavaScript 与 TypeScript,51,JavaScript 与 TypeScript · TypeScript 基础,4,作业,视频
+S2 白银,JavaScript 与 TypeScript,51,JavaScript 与 TypeScript · TypeScript 基础,5,AI 助学,图文
+S2 白银,JavaScript 与 TypeScript,52,JavaScript 与 TypeScript · TypeScript 接口与泛型,1,接口（interface）,视频
+S2 白银,JavaScript 与 TypeScript,52,JavaScript 与 TypeScript · TypeScript 接口与泛型,2,枚举与元组,视频
+S2 白银,JavaScript 与 TypeScript,52,JavaScript 与 TypeScript · TypeScript 接口与泛型,3,泛型基础,视频
+S2 白银,JavaScript 与 TypeScript,52,JavaScript 与 TypeScript · TypeScript 接口与泛型,4,TS 与 Vue3 集成,视频
+S2 白银,JavaScript 与 TypeScript,52,JavaScript 与 TypeScript · TypeScript 接口与泛型,5,作业,视频
+S2 白银,JavaScript 与 TypeScript,52,JavaScript 与 TypeScript · TypeScript 接口与泛型,6,AI 助学,图文
+S2 白银,Vue3 前端框架,53,Vue3 前端框架 · Vue3 入门,1,Vue3 概述与 Vite 搭建,视频
+S2 白银,Vue3 前端框架,53,Vue3 前端框架 · Vue3 入门,2,组合式 API 与选项式 API,视频
+S2 白银,Vue3 前端框架,53,Vue3 前端框架 · Vue3 入门,3,模板语法,视频
+S2 白银,Vue3 前端框架,53,Vue3 前端框架 · Vue3 入门,4,指令,视频
+S2 白银,Vue3 前端框架,53,Vue3 前端框架 · Vue3 入门,5,计算属性与侦听器,视频
+S2 白银,Vue3 前端框架,53,Vue3 前端框架 · Vue3 入门,6,作业,视频
+S2 白银,Vue3 前端框架,53,Vue3 前端框架 · Vue3 入门,7,AI 助学,图文
+S2 白银,Vue3 前端框架,54,Vue3 前端框架 · 组件化开发,1,组件的定义与注册,视频
+S2 白银,Vue3 前端框架,54,Vue3 前端框架 · 组件化开发,2,Props：父传子,视频
+S2 白银,Vue3 前端框架,54,Vue3 前端框架 · 组件化开发,3,Emit：子传父,视频
+S2 白银,Vue3 前端框架,54,Vue3 前端框架 · 组件化开发,4,组件生命周期,视频
+S2 白银,Vue3 前端框架,54,Vue3 前端框架 · 组件化开发,5,插槽,视频
+S2 白银,Vue3 前端框架,54,Vue3 前端框架 · 组件化开发,6,组合式函数（Composables）,视频
+S2 白银,Vue3 前端框架,54,Vue3 前端框架 · 组件化开发,7,作业,视频
+S2 白银,Vue3 前端框架,54,Vue3 前端框架 · 组件化开发,8,AI 助学,图文
+S2 白银,Vue3 前端框架,55,Vue3 前端框架 · Vue Router 路由,1,路由安装与配置,视频
+S2 白银,Vue3 前端框架,55,Vue3 前端框架 · Vue Router 路由,2,声明式与编程式导航,视频
+S2 白银,Vue3 前端框架,55,Vue3 前端框架 · Vue Router 路由,3,路由参数,视频
+S2 白银,Vue3 前端框架,55,Vue3 前端框架 · Vue Router 路由,4,嵌套路由,视频
+S2 白银,Vue3 前端框架,55,Vue3 前端框架 · Vue Router 路由,5,路由守卫,视频
+S2 白银,Vue3 前端框架,55,Vue3 前端框架 · Vue Router 路由,6,组合式 API 路由,视频
+S2 白银,Vue3 前端框架,55,Vue3 前端框架 · Vue Router 路由,7,作业,视频
+S2 白银,Vue3 前端框架,55,Vue3 前端框架 · Vue Router 路由,8,AI 助学,图文
+S2 白银,Vue3 前端框架,56,Vue3 前端框架 · 网络请求与状态管理,1,Axios 安装与封装,视频
+S2 白银,Vue3 前端框架,56,Vue3 前端框架 · 网络请求与状态管理,2,拦截器与错误处理,视频
+S2 白银,Vue3 前端框架,56,Vue3 前端框架 · 网络请求与状态管理,3,Pinia 状态管理,视频
+S2 白银,Vue3 前端框架,56,Vue3 前端框架 · 网络请求与状态管理,4,前后端联调,视频
+S2 白银,Vue3 前端框架,56,Vue3 前端框架 · 网络请求与状态管理,5,作业,视频
+S2 白银,Vue3 前端框架,56,Vue3 前端框架 · 网络请求与状态管理,6,AI 助学,图文
+S2 白银,Vue3 前端框架,57,Vue3 前端框架 · Element Plus 组件库,1,Element Plus安装与按需引入,视频
+S2 白银,Vue3 前端框架,57,Vue3 前端框架 · Element Plus 组件库,2,表格 / 表单 / 对话框 / 分页,视频
+S2 白银,Vue3 前端框架,57,Vue3 前端框架 · Element Plus 组件库,3,布局容器与导航菜单,视频
+S2 白银,Vue3 前端框架,57,Vue3 前端框架 · Element Plus 组件库,4,综合案例：后台管理页面,视频
+S2 白银,Vue3 前端框架,57,Vue3 前端框架 · Element Plus 组件库,5,表单校验,视频
+S2 白银,Vue3 前端框架,57,Vue3 前端框架 · Element Plus 组件库,6,消息提示与确认弹窗,视频
+S2 白银,Vue3 前端框架,57,Vue3 前端框架 · Element Plus 组件库,7,作业,视频
+S2 白银,Vue3 前端框架,57,Vue3 前端框架 · Element Plus 组件库,8,AI 助学,图文
+S2 白银,AI 辅助开发实战,58,AI 辅助开发实战 · AI 编程工具入门（国内可用方案）,1,国内三大 AI 编码插件,视频
+S2 白银,AI 辅助开发实战,58,AI 辅助开发实战 · AI 编程工具入门（国内可用方案）,2,国内对话式 AI 工具,视频
+S2 白银,AI 辅助开发实战,58,AI 辅助开发实战 · AI 编程工具入门（国内可用方案）,3,海外工具简介（了解）,图文
+S2 白银,AI 辅助开发实战,58,AI 辅助开发实战 · AI 编程工具入门（国内可用方案）,4,工具选择决策,视频
+S2 白银,AI 辅助开发实战,58,AI 辅助开发实战 · AI 编程工具入门（国内可用方案）,5,作业,图文
+S2 白银,AI 辅助开发实战,58,AI 辅助开发实战 · AI 编程工具入门（国内可用方案）,6,AI 助学,图文
+S2 白银,AI 辅助开发实战,59,AI 辅助开发实战 · 三大 IDEA 插件实战,1,通义灵码安装与使用,视频
+S2 白银,AI 辅助开发实战,59,AI 辅助开发实战 · 三大 IDEA 插件实战,2,CodeBuddy 安装与使用,视频
+S2 白银,AI 辅助开发实战,59,AI 辅助开发实战 · 三大 IDEA 插件实战,3,MarsCode 安装与使用,视频
+S2 白银,AI 辅助开发实战,59,AI 辅助开发实战 · 三大 IDEA 插件实战,4,三大插件对比与选择建议,视频
+S2 白银,AI 辅助开发实战,59,AI 辅助开发实战 · 三大 IDEA 插件实战,5,作业,图文
+S2 白银,AI 辅助开发实战,59,AI 辅助开发实战 · 三大 IDEA 插件实战,6,AI 助学,图文
+S2 白银,AI 辅助开发实战,60,AI 辅助开发实战 · Prompt Engineering,1,提示词基础原则,视频
+S2 白银,AI 辅助开发实战,60,AI 辅助开发实战 · Prompt Engineering,2,代码生成 Prompt 模板,视频
+S2 白银,AI 辅助开发实战,60,AI 辅助开发实战 · Prompt Engineering,3,需求拆分 → 生成 → 审查流程,视频
+S2 白银,AI 辅助开发实战,60,AI 辅助开发实战 · Prompt Engineering,4,常见误区与改进,视频
+S2 白银,AI 辅助开发实战,60,AI 辅助开发实战 · Prompt Engineering,5,作业,图文
+S2 白银,AI 辅助开发实战,60,AI 辅助开发实战 · Prompt Engineering,6,AI 助学,图文
+S2 白银,AI 辅助开发实战,61,AI 辅助开发实战 · AI 代码审查与调试,1,AI 生成代码的常见陷阱,视频
+S2 白银,AI 辅助开发实战,61,AI 辅助开发实战 · AI 代码审查与调试,2,审查检查清单,视频
+S2 白银,AI 辅助开发实战,61,AI 辅助开发实战 · AI 代码审查与调试,3,用 AI Debug,视频
+S2 白银,AI 辅助开发实战,61,AI 辅助开发实战 · AI 代码审查与调试,4,AI 辅助生成单元测试,视频
+S2 白银,AI 辅助开发实战,61,AI 辅助开发实战 · AI 代码审查与调试,5,作业,视频
+S2 白银,AI 辅助开发实战,61,AI 辅助开发实战 · AI 代码审查与调试,6,AI 助学,图文
+S2 白银,实训项目：社团报名通,62,实训项目：社团报名通 · 详细设计,1,项目背景,视频
+S2 白银,实训项目：社团报名通,62,实训项目：社团报名通 · 详细设计,2,需求分析,视频
+S2 白银,实训项目：社团报名通,62,实训项目：社团报名通 · 详细设计,3,角色权限矩阵,视频
+S2 白银,实训项目：社团报名通,62,实训项目：社团报名通 · 详细设计,4,用户故事,视频
+S2 白银,实训项目：社团报名通,62,实训项目：社团报名通 · 详细设计,5,接口清单总表,视频
+S2 白银,实训项目：社团报名通,62,实训项目：社团报名通 · 详细设计,6,业务流程图,视频
+S2 白银,实训项目：社团报名通,62,实训项目：社团报名通 · 详细设计,7,项目目录预览,视频
+S2 白银,实训项目：社团报名通,62,实训项目：社团报名通 · 详细设计,8,给你的开干建议,图文
+S2 白银,实训项目：社团报名通,63,实训项目：社团报名通 · 数据库设计,1,ER 图,视频
+S2 白银,实训项目：社团报名通,63,实训项目：社团报名通 · 数据库设计,2,踩坑警告：保留字 + 字符集,视频
+S2 白银,实训项目：社团报名通,63,实训项目：社团报名通 · 数据库设计,3,建表 SQL,视频
+S2 白银,实训项目：社团报名通,63,实训项目：社团报名通 · 数据库设计,4,字段说明表,视频
+S2 白银,实训项目：社团报名通,63,实训项目：社团报名通 · 数据库设计,5,初始化测试数据,视频
+S2 白银,实训项目：社团报名通,63,实训项目：社团报名通 · 数据库设计,6,验证数据库已就绪,视频
+S2 白银,实训项目：社团报名通,63,实训项目：社团报名通 · 数据库设计,7,字段值边界,图文
+S2 白银,实训项目：社团报名通,63,实训项目：社团报名通 · 数据库设计,8,索引设计说明,图文
+S2 白银,实训项目：社团报名通,64,实训项目：社团报名通 · 原型设计,1,设计原则,视频
+S2 白银,实训项目：社团报名通,64,实训项目：社团报名通 · 原型设计,2,整体路由树,视频
+S2 白银,实训项目：社团报名通,64,实训项目：社团报名通 · 原型设计,3,统一布局,视频
+S2 白银,实训项目：社团报名通,64,实训项目：社团报名通 · 原型设计,4,应用中具体页面,视频
+S2 白银,实训项目：社团报名通,64,实训项目：社团报名通 · 原型设计,5,两个核心业务流程的时序图,视频
+S2 白银,实训项目：社团报名通,64,实训项目：社团报名通 · 原型设计,6,Element Plus 组件预选清单,视频
+S2 白银,实训项目：社团报名通,64,实训项目：社团报名通 · 原型设计,7,异常态与边界覆盖,视频
+S2 白银,实训项目：社团报名通,64,实训项目：社团报名通 · 原型设计,8,下一步前的最后一句,图文
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,1,给同学的开干前 5 句话,视频
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,2,Step 1 — Maven 起后端项目,视频
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,3,Step 2 — HikariCP + DbUtil + Main 跑测试连接,视频
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,4,Step 3 — 4 个 Entity + 4 个 DAO,视频
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,5,Step 4 — Service 层,视频
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,6,Step 5 — ApiResponse 统一响应 + Gson JsonUtil,视频
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,7,Step 6 — AuthServlet + 第一次跑通 Hello World 链路,视频
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,8,Step 7 — ClubServlet、EnrollmentServlet、NoticeServlet,视频
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,9,Step 8 — LoginCheckFilter:白银的灵魂,视频
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,10,Step 9 — StartupListener:启动时打印连接池信息,视频
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,11,Step 10 — Vite 起前端 + Element Plus + Vue Router,图文
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,12,Step 11 — Login.vue + Register.vue:首次联调,图文
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,13,Step 12 — Vue Router 路由守卫:双角色分流的灵魂,图文
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,14,Step 13 — 学生侧三页面,图文
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,15,Step 14:管理员侧四页面(AdminLayout、Dashboard/Clubs/Enrollments/Notices),图文
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,16,Step 15:联调验收清单(10 个 must-pass + 双账号演示),视频
+S2 白银,实训项目：社团报名通,65,实训项目：社团报名通 · 编码步骤,17,小结,图文
+S2 白银,实训项目：社团报名通,66,实训项目：社团报名通 · 运行测试,1,0. 演示前的准备,视频
+S2 白银,实训项目：社团报名通,66,实训项目：社团报名通 · 运行测试,2,场景 1:学生注册,视频
+S2 白银,实训项目：社团报名通,66,实训项目：社团报名通 · 运行测试,3,场景 2:学生登录,视频
+S2 白银,实训项目：社团报名通,66,实训项目：社团报名通 · 运行测试,4,场景 3:学生浏览社团(搜索 + 筛选 + 分页),视频
+S2 白银,实训项目：社团报名通,66,实训项目：社团报名通 · 运行测试,5,场景 4:学生看社团详情 + 我要报名,视频
+S2 白银,实训项目：社团报名通,66,实训项目：社团报名通 · 运行测试,6,场景 5:学生看「我的报名」,视频
+S2 白银,实训项目：社团报名通,66,实训项目：社团报名通 · 运行测试,7,场景 6:管理员登录,视频
+S2 白银,实训项目：社团报名通,66,实训项目：社团报名通 · 运行测试,8,场景 7:管理员社团 CRUD,视频
+S2 白银,实训项目：社团报名通,66,实训项目：社团报名通 · 运行测试,9,场景 8:管理员审批报名(状态翻转 + 学生端联动),视频
+S2 白银,实训项目：社团报名通,66,实训项目：社团报名通 · 运行测试,10,场景 9:路由守卫闭环演示,视频
+S3 黄金,SSM 框架,67,SSM 框架 · Spring 框架核心,1,Spring 概述,视频
+S3 黄金,SSM 框架,67,SSM 框架 · Spring 框架核心,2,IoC 控制反转,视频
+S3 黄金,SSM 框架,67,SSM 框架 · Spring 框架核心,3,DI 依赖注入,视频
+S3 黄金,SSM 框架,67,SSM 框架 · Spring 框架核心,4,Bean 作用域与生命周期,视频
+S3 黄金,SSM 框架,67,SSM 框架 · Spring 框架核心,5,注解开发,视频
+S3 黄金,SSM 框架,67,SSM 框架 · Spring 框架核心,6,Java 配置类,视频
+S3 黄金,SSM 框架,67,SSM 框架 · Spring 框架核心,7,IoC 容器工作原理总结,视频
+S3 黄金,SSM 框架,67,SSM 框架 · Spring 框架核心,8,作业,图文
+S3 黄金,SSM 框架,67,SSM 框架 · Spring 框架核心,9,AI 助学,图文
+S3 黄金,SSM 框架,68,SSM 框架 · Spring AOP,1,AOP 概念与术语,视频
+S3 黄金,SSM 框架,68,SSM 框架 · Spring AOP,2,基于注解的 AOP,视频
+S3 黄金,SSM 框架,68,SSM 框架 · Spring AOP,3,五种通知类型,视频
+S3 黄金,SSM 框架,68,SSM 框架 · Spring AOP,4,作业,图文
+S3 黄金,SSM 框架,68,SSM 框架 · Spring AOP,5,AI 助学,图文
+S3 黄金,SSM 框架,69,SSM 框架 · Spring 事务管理,1,声明式事务,视频
+S3 黄金,SSM 框架,69,SSM 框架 · Spring 事务管理,2,事务传播行为,视频
+S3 黄金,SSM 框架,69,SSM 框架 · Spring 事务管理,3,事务失效场景,视频
+S3 黄金,SSM 框架,69,SSM 框架 · Spring 事务管理,4,作业,图文
+S3 黄金,SSM 框架,69,SSM 框架 · Spring 事务管理,5,AI 助学,图文
+S3 黄金,SSM 框架,70,SSM 框架 · SpringMVC,1,工作流程,视频
+S3 黄金,SSM 框架,70,SSM 框架 · SpringMVC,2,请求映射,视频
+S3 黄金,SSM 框架,70,SSM 框架 · SpringMVC,3,参数接收,视频
+S3 黄金,SSM 框架,70,SSM 框架 · SpringMVC,4,响应处理,视频
+S3 黄金,SSM 框架,70,SSM 框架 · SpringMVC,5,RESTful API,视频
+S3 黄金,SSM 框架,70,SSM 框架 · SpringMVC,6,拦截器,视频
+S3 黄金,SSM 框架,70,SSM 框架 · SpringMVC,7,全局异常处理,视频
+S3 黄金,SSM 框架,70,SSM 框架 · SpringMVC,8,数据校验,视频
+S3 黄金,SSM 框架,70,SSM 框架 · SpringMVC,9,作业,图文
+S3 黄金,SSM 框架,70,SSM 框架 · SpringMVC,10,AI 助学,图文
+S3 黄金,SSM 框架,71,SSM 框架 · MyBatis,1,MyBatis 入门,视频
+S3 黄金,SSM 框架,71,SSM 框架 · MyBatis,2,XML 与注解映射,视频
+S3 黄金,SSM 框架,71,SSM 框架 · MyBatis,3,预编译与字符串拼接：彻底搞懂 #{} 与 ${} 的本质区别,视频
+S3 黄金,SSM 框架,71,SSM 框架 · MyBatis,4,动态 SQL,视频
+S3 黄金,SSM 框架,71,SSM 框架 · MyBatis,5,多表关联,视频
+S3 黄金,SSM 框架,71,SSM 框架 · MyBatis,6,缓存机制（了解）,视频
+S3 黄金,SSM 框架,71,SSM 框架 · MyBatis,7,分页插件,视频
+S3 黄金,SSM 框架,71,SSM 框架 · MyBatis,8,主键回填,视频
+S3 黄金,SSM 框架,71,SSM 框架 · MyBatis,9,作业,图文
+S3 黄金,SSM 框架,71,SSM 框架 · MyBatis,10,AI 助学,图文
+S3 黄金,SSM 框架,72,SSM 框架 · SSM 整合,1,整合配置,视频
+S3 黄金,SSM 框架,72,SSM 框架 · SSM 整合,2,统一响应封装,视频
+S3 黄金,SSM 框架,72,SSM 框架 · SSM 整合,3,作业,图文
+S3 黄金,SSM 框架,72,SSM 框架 · SSM 整合,4,AI 助学,图文
+S3 黄金,SSM 项目实训,73,SSM 项目实训 · 需求分析文档,1,项目背景与目标,视频
+S3 黄金,SSM 项目实训,73,SSM 项目实训 · 需求分析文档,2,系统角色,视频
+S3 黄金,SSM 项目实训,73,SSM 项目实训 · 需求分析文档,3,功能性需求,视频
+S3 黄金,SSM 项目实训,73,SSM 项目实训 · 需求分析文档,4,业务规则（BR）,视频
+S3 黄金,SSM 项目实训,73,SSM 项目实训 · 需求分析文档,5,数据需求（概念层）,图文
+S3 黄金,SSM 项目实训,73,SSM 项目实训 · 需求分析文档,6,非功能性需求（NFR）,视频
+S3 黄金,SSM 项目实训,73,SSM 项目实训 · 需求分析文档,7,验收标准（Definition of Done）,图文
+S3 黄金,SSM 项目实训,74,SSM 项目实训 · 详细设计文档,1,技术选型,视频
+S3 黄金,SSM 项目实训,74,SSM 项目实训 · 详细设计文档,2,分层架构,视频
+S3 黄金,SSM 项目实训,74,SSM 项目实训 · 详细设计文档,3,数据库设计,视频
+S3 黄金,SSM 项目实训,74,SSM 项目实训 · 详细设计文档,4,接口设计（API 契约）,视频
+S3 黄金,SSM 项目实训,74,SSM 项目实训 · 详细设计文档,5,核心类设计,视频
+S3 黄金,SSM 项目实训,74,SSM 项目实训 · 详细设计文档,6,关键流程时序,视频
+S3 黄金,SSM 项目实训,74,SSM 项目实训 · 详细设计文档,7,配置设计（全注解装配）,视频
+S3 黄金,SSM 项目实训,75,SSM 项目实训 · 原型设计文档,1,设计原则,视频
+S3 黄金,SSM 项目实训,75,SSM 项目实训 · 原型设计文档,2,整体布局,视频
+S3 黄金,SSM 项目实训,75,SSM 项目实训 · 原型设计文档,3,模块一：图书管理（BookManage）,视频
+S3 黄金,SSM 项目实训,75,SSM 项目实训 · 原型设计文档,4,模块二：分类管理（CategoryManage）,视频
+S3 黄金,SSM 项目实训,75,SSM 项目实训 · 原型设计文档,5,模块三：借阅管理（BorrowManage）,视频
+S3 黄金,SSM 项目实训,75,SSM 项目实训 · 原型设计文档,6,全局交互约定,视频
+S3 黄金,SSM 项目实训,76,SSM 项目实训 · 代码实现文档,1,实现总览,视频
+S3 黄金,SSM 项目实训,76,SSM 项目实训 · 代码实现文档,2,步骤 1：数据库建表与种子数据 🤖AI,视频
+S3 黄金,SSM 项目实训,76,SSM 项目实训 · 代码实现文档,3,步骤 2：Maven 工程与数据源配置 🤖AI,视频
+S3 黄金,SSM 项目实训,76,SSM 项目实训 · 代码实现文档,4,步骤 3：全注解配置三件套 🤖AI,视频
+S3 黄金,SSM 项目实训,76,SSM 项目实训 · 代码实现文档,5,步骤 4：统一响应与异常体系 🤖AI,视频
+S3 黄金,SSM 项目实训,76,SSM 项目实训 · 代码实现文档,6,步骤 5：实体与查询对象 🤖AI,视频
+S3 黄金,SSM 项目实训,76,SSM 项目实训 · 代码实现文档,7,步骤 6：Mapper 接口与 XML（含动态 SQL / resultMap）🤖AI,视频
+S3 黄金,SSM 项目实训,76,SSM 项目实训 · 代码实现文档,8,步骤 7：Service —— 分类与图书 CRUD 🤖AI,视频
+S3 黄金,SSM 项目实训,76,SSM 项目实训 · 代码实现文档,9,步骤 8：★ 借书 / 还书事务核心 —— 👨‍💻人工实现（不使用 AI）,视频
+S3 黄金,SSM 项目实训,76,SSM 项目实训 · 代码实现文档,10,步骤 9：Controller 三件 🤖AI,视频
+S3 黄金,SSM 项目实训,76,SSM 项目实训 · 代码实现文档,11,步骤 10：启动,视频
+S3 黄金,SSM 项目实训,76,SSM 项目实训 · 代码实现文档,12,附：AI 参与度一览,图文
+S3 黄金,SSM 项目实训,77,SSM 项目实训 · 测试文档,1,测试策略,视频
+S3 黄金,SSM 项目实训,77,SSM 项目实训 · 测试文档,2,接口测试用例,视频
+S3 黄金,SSM 项目实训,77,SSM 项目实训 · 测试文档,3,业务场景测试（事务正确性，重点）,视频
+S3 黄金,SSM 项目实训,77,SSM 项目实训 · 测试文档,4,异常 / 边界测试,视频
+S3 黄金,SSM 项目实训,77,SSM 项目实训 · 测试文档,5,前端冒烟（配合 frontend）,视频
+S3 黄金,SSM 项目实训,77,SSM 项目实训 · 测试文档,6,测试结论模板,图文
+S3 黄金,Spring Boot 现代化开发,78,Spring Boot 现代化开发 · Spring Boot 入门,1,SpringBoot概述与优势,视频
+S3 黄金,Spring Boot 现代化开发,78,Spring Boot 现代化开发 · Spring Boot 入门,2,Spring Initializr,视频
+S3 黄金,Spring Boot 现代化开发,78,Spring Boot 现代化开发 · Spring Boot 入门,3,项目结构解析,视频
+S3 黄金,Spring Boot 现代化开发,78,Spring Boot 现代化开发 · Spring Boot 入门,4,第一个 Boot 应用,视频
+S3 黄金,Spring Boot 现代化开发,78,Spring Boot 现代化开发 · Spring Boot 入门,5,YAML 配置文件,视频
+S3 黄金,Spring Boot 现代化开发,78,Spring Boot 现代化开发 · Spring Boot 入门,6,数据库初始化脚本,视频
+S3 黄金,Spring Boot 现代化开发,78,Spring Boot 现代化开发 · Spring Boot 入门,7,作业,视频
+S3 黄金,Spring Boot 现代化开发,78,Spring Boot 现代化开发 · Spring Boot 入门,8,AI 助学,图文
+S3 黄金,Spring Boot 现代化开发,79,Spring Boot 现代化开发 · 核心特性,1,自动配置原理,视频
+S3 黄金,Spring Boot 现代化开发,79,Spring Boot 现代化开发 · 核心特性,2,Starter 机制,视频
+S3 黄金,Spring Boot 现代化开发,79,Spring Boot 现代化开发 · 核心特性,3,多环境配置,视频
+S3 黄金,Spring Boot 现代化开发,79,Spring Boot 现代化开发 · 核心特性,4,配置属性绑定,视频
+S3 黄金,Spring Boot 现代化开发,79,Spring Boot 现代化开发 · 核心特性,5,热部署,视频
+S3 黄金,Spring Boot 现代化开发,79,Spring Boot 现代化开发 · 核心特性,6,Spring Boot 3.x 迁移要点,图文
+S3 黄金,Spring Boot 现代化开发,79,Spring Boot 现代化开发 · 核心特性,7,作业,视频
+S3 黄金,Spring Boot 现代化开发,79,Spring Boot 现代化开发 · 核心特性,8,AI 助学,图文
+S3 黄金,Spring Boot 现代化开发,80,Spring Boot 现代化开发 · Web 开发,1,Lombok 简化代码（前置工具）,视频
+S3 黄金,Spring Boot 现代化开发,80,Spring Boot 现代化开发 · Web 开发,2,静态资源处理,图文
+S3 黄金,Spring Boot 现代化开发,80,Spring Boot 现代化开发 · Web 开发,3,拦截器,图文
+S3 黄金,Spring Boot 现代化开发,80,Spring Boot 现代化开发 · Web 开发,4,验证拦截器受保护接口,视频
+S3 黄金,Spring Boot 现代化开发,80,Spring Boot 现代化开发 · Web 开发,5,全局异常处理,图文
+S3 黄金,Spring Boot 现代化开发,80,Spring Boot 现代化开发 · Web 开发,6,业务异常,视频
+S3 黄金,Spring Boot 现代化开发,80,Spring Boot 现代化开发 · Web 开发,7,统一响应封装,视频
+S3 黄金,Spring Boot 现代化开发,80,Spring Boot 现代化开发 · Web 开发,8,跨域配置,视频
+S3 黄金,Spring Boot 现代化开发,80,Spring Boot 现代化开发 · Web 开发,9,参数校验,视频
+S3 黄金,Spring Boot 现代化开发,80,Spring Boot 现代化开发 · Web 开发,10,文件上传,视频
+S3 黄金,Spring Boot 现代化开发,80,Spring Boot 现代化开发 · Web 开发,11,数据层,图文
+S3 黄金,Spring Boot 现代化开发,80,Spring Boot 现代化开发 · Web 开发,12,运行验证,视频
+S3 黄金,Spring Boot 现代化开发,80,Spring Boot 现代化开发 · Web 开发,13,作业,视频
+S3 黄金,Spring Boot 现代化开发,80,Spring Boot 现代化开发 · Web 开发,14,AI 助学,图文
+S3 黄金,Spring Boot 现代化开发,81,Spring Boot 现代化开发 · 接口文档 Swagger  Knife4j,1,接口文档的意义,视频
+S3 黄金,Spring Boot 现代化开发,81,Spring Boot 现代化开发 · 接口文档 Swagger  Knife4j,2,Boot 整合 Swagger,视频
+S3 黄金,Spring Boot 现代化开发,81,Spring Boot 现代化开发 · 接口文档 Swagger  Knife4j,3,常用注解,视频
+S3 黄金,Spring Boot 现代化开发,81,Spring Boot 现代化开发 · 接口文档 Swagger  Knife4j,4,Knife4j 增强,视频
+S3 黄金,Spring Boot 现代化开发,81,Spring Boot 现代化开发 · 接口文档 Swagger  Knife4j,5,前后端协作流程,视频
+S3 黄金,Spring Boot 现代化开发,81,Spring Boot 现代化开发 · 接口文档 Swagger  Knife4j,6,作业,视频
+S3 黄金,Spring Boot 现代化开发,81,Spring Boot 现代化开发 · 接口文档 Swagger  Knife4j,7,AI 助学,图文
+S3 黄金,Spring Boot 现代化开发,82,Spring Boot 现代化开发 · 数据访问,1,整合 MyBatis,图文
+S3 黄金,Spring Boot 现代化开发,82,Spring Boot 现代化开发 · 数据访问,2,H2内存库概述,视频
+S3 黄金,Spring Boot 现代化开发,82,Spring Boot 现代化开发 · 数据访问,3,整合 Druid,视频
+S3 黄金,Spring Boot 现代化开发,82,Spring Boot 现代化开发 · 数据访问,4,多数据源配置,视频
+S3 黄金,Spring Boot 现代化开发,82,Spring Boot 现代化开发 · 数据访问,5,EasyExcel 读写实战,视频
+S3 黄金,Spring Boot 现代化开发,82,Spring Boot 现代化开发 · 数据访问,6,实战运行验证,视频
+S3 黄金,Spring Boot 现代化开发,82,Spring Boot 现代化开发 · 数据访问,7,作业,视频
+S3 黄金,Spring Boot 现代化开发,82,Spring Boot 现代化开发 · 数据访问,8,AI 助学,图文
+S3 黄金,Spring Boot 现代化开发,83,Spring Boot 现代化开发 · 进阶特性,1,自定义 Starter（了解）,视频
+S3 黄金,Spring Boot 现代化开发,83,Spring Boot 现代化开发 · 进阶特性,2,Actuator 监控,视频
+S3 黄金,Spring Boot 现代化开发,83,Spring Boot 现代化开发 · 进阶特性,3,日志配置,视频
+S3 黄金,Spring Boot 现代化开发,83,Spring Boot 现代化开发 · 进阶特性,4,定时任务,视频
+S3 黄金,Spring Boot 现代化开发,83,Spring Boot 现代化开发 · 进阶特性,5,异步任务,图文
+S3 黄金,Spring Boot 现代化开发,83,Spring Boot 现代化开发 · 进阶特性,6,调用异步,图文
+S3 黄金,Spring Boot 现代化开发,83,Spring Boot 现代化开发 · 进阶特性,7,运行验证,视频
+S3 黄金,Spring Boot 现代化开发,83,Spring Boot 现代化开发 · 进阶特性,8,作业,视频
+S3 黄金,Spring Boot 现代化开发,83,Spring Boot 现代化开发 · 进阶特性,9,AI 助学,图文
+S3 黄金,Spring Boot 现代化开发,84,Spring Boot 现代化开发 · 单元测试入门,1,为什么需要测试,图文
+S3 黄金,Spring Boot 现代化开发,84,Spring Boot 现代化开发 · 单元测试入门,2,JUnit 5 基础,视频
+S3 黄金,Spring Boot 现代化开发,84,Spring Boot 现代化开发 · 单元测试入门,3,MockMvc 接口测试,视频
+S3 黄金,Spring Boot 现代化开发,84,Spring Boot 现代化开发 · 单元测试入门,4,AI 辅助生成测试,视频
+S3 黄金,Spring Boot 现代化开发,84,Spring Boot 现代化开发 · 单元测试入门,5,作业,视频
+S3 黄金,Spring Boot 现代化开发,84,Spring Boot 现代化开发 · 单元测试入门,6,AI 助学,图文
+S3 黄金,MyBatis-Plus,85,MyBatis-Plus · MP 入门,1,MP 概述,视频
+S3 黄金,MyBatis-Plus,85,MyBatis-Plus · MP 入门,2,BaseMapper 通用 CRUD,视频
+S3 黄金,MyBatis-Plus,85,MyBatis-Plus · MP 入门,3,IService 通用 Service,视频
+S3 黄金,MyBatis-Plus,85,MyBatis-Plus · MP 入门,4,实体与表映射注解,视频
+S3 黄金,MyBatis-Plus,85,MyBatis-Plus · MP 入门,5,知识点覆盖对照表,图文
+S3 黄金,MyBatis-Plus,85,MyBatis-Plus · MP 入门,6,作业,图文
+S3 黄金,MyBatis-Plus,85,MyBatis-Plus · MP 入门,7,AI 助学,图文
+S3 黄金,MyBatis-Plus,86,MyBatis-Plus · MP 核心功能,1,条件构造器,视频
+S3 黄金,MyBatis-Plus,86,MyBatis-Plus · MP 核心功能,2,分页插件,视频
+S3 黄金,MyBatis-Plus,86,MyBatis-Plus · MP 核心功能,3,自动填充,视频
+S3 黄金,MyBatis-Plus,86,MyBatis-Plus · MP 核心功能,4,逻辑删除,视频
+S3 黄金,MyBatis-Plus,86,MyBatis-Plus · MP 核心功能,5,乐观锁插件,视频
+S3 黄金,MyBatis-Plus,86,MyBatis-Plus · MP 核心功能,6,自定义 SQL,视频
+S3 黄金,MyBatis-Plus,86,MyBatis-Plus · MP 核心功能,7,作业,图文
+S3 黄金,MyBatis-Plus,86,MyBatis-Plus · MP 核心功能,8,AI 助学,图文
+S3 黄金,MyBatis-Plus,87,MyBatis-Plus · 代码生成器,1,代码生成器配置,视频
+S3 黄金,MyBatis-Plus,87,MyBatis-Plus · 代码生成器,2,自定义模板,视频
+S3 黄金,MyBatis-Plus,87,MyBatis-Plus · 代码生成器,3,思考：代码生成器 vs AI 生成,视频
+S3 黄金,MyBatis-Plus,87,MyBatis-Plus · 代码生成器,4,作业,图文
+S3 黄金,MyBatis-Plus,87,MyBatis-Plus · 代码生成器,5,AI 助学,图文
+S3 黄金,MySQL 进阶,88,MySQL 进阶 · 索引深入,1,索引分类,视频
+S3 黄金,MySQL 进阶,88,MySQL 进阶 · 索引深入,2,索引创建原则,视频
+S3 黄金,MySQL 进阶,88,MySQL 进阶 · 索引深入,3,EXPLAIN 执行计划,视频
+S3 黄金,MySQL 进阶,88,MySQL 进阶 · 索引深入,4,索引失效场景,视频
+S3 黄金,MySQL 进阶,88,MySQL 进阶 · 索引深入,5,作业,视频
+S3 黄金,MySQL 进阶,88,MySQL 进阶 · 索引深入,6,AI 助学,图文
+S3 黄金,MySQL 进阶,89,MySQL 进阶 · SQL 性能优化,1,慢 SQL 定位,视频
+S3 黄金,MySQL 进阶,89,MySQL 进阶 · SQL 性能优化,2,SQL 优化技巧,视频
+S3 黄金,MySQL 进阶,89,MySQL 进阶 · SQL 性能优化,3,批量操作优化,视频
+S3 黄金,MySQL 进阶,89,MySQL 进阶 · SQL 性能优化,4,分页查询优化,视频
+S3 黄金,MySQL 进阶,89,MySQL 进阶 · SQL 性能优化,5,作业,视频
+S3 黄金,MySQL 进阶,89,MySQL 进阶 · SQL 性能优化,6,AI 助学,图文
+S3 黄金,MySQL 进阶,90,MySQL 进阶 · 事务与锁,1,事务隔离级别,视频
+S3 黄金,MySQL 进阶,90,MySQL 进阶 · 事务与锁,2,脏读 / 不可重复读 / 幻读,视频
+S3 黄金,MySQL 进阶,90,MySQL 进阶 · 事务与锁,3,行锁与表锁,视频
+S3 黄金,MySQL 进阶,90,MySQL 进阶 · 事务与锁,4,死锁分析,视频
+S3 黄金,MySQL 进阶,90,MySQL 进阶 · 事务与锁,5,作业,视频
+S3 黄金,MySQL 进阶,90,MySQL 进阶 · 事务与锁,6,AI 助学,图文
+S3 黄金,MySQL 进阶,91,MySQL 进阶 · MySQL 8.0 高级特性,1,窗口函数,视频
+S3 黄金,MySQL 进阶,91,MySQL 进阶 · MySQL 8.0 高级特性,2,JSON 数据类型,视频
+S3 黄金,MySQL 进阶,91,MySQL 进阶 · MySQL 8.0 高级特性,3,公用表表达式（CTE）,视频
+S3 黄金,MySQL 进阶,91,MySQL 进阶 · MySQL 8.0 高级特性,4,作业,视频
+S3 黄金,MySQL 进阶,91,MySQL 进阶 · MySQL 8.0 高级特性,5,AI 助学,图文
+S3 黄金,Spring Security 认证授权,92,Spring Security 认证授权 · Security 入门,1,安全框架概述,视频
+S3 黄金,Spring Security 认证授权,92,Spring Security 认证授权 · Security 入门,2,Boot 整合 Security,视频
+S3 黄金,Spring Security 认证授权,92,Spring Security 认证授权 · Security 入门,3,默认登录流程,视频
+S3 黄金,Spring Security 认证授权,92,Spring Security 认证授权 · Security 入门,4,认证流程源码（了解）,视频
+S3 黄金,Spring Security 认证授权,92,Spring Security 认证授权 · Security 入门,5,作业,图文
+S3 黄金,Spring Security 认证授权,92,Spring Security 认证授权 · Security 入门,6,AI 助学,图文
+S3 黄金,Spring Security 认证授权,93,Spring Security 认证授权 · 认证与授权,1,自定义用户认证,视频
+S3 黄金,Spring Security 认证授权,93,Spring Security 认证授权 · 认证与授权,2,密码加密,视频
+S3 黄金,Spring Security 认证授权,93,Spring Security 认证授权 · 认证与授权,3,基于角色的权限控制,视频
+S3 黄金,Spring Security 认证授权,93,Spring Security 认证授权 · 认证与授权,4,RBAC 权限模型,视频
+S3 黄金,Spring Security 认证授权,93,Spring Security 认证授权 · 认证与授权,5,作业,图文
+S3 黄金,Spring Security 认证授权,93,Spring Security 认证授权 · 认证与授权,6,AI 助学,图文
+S3 黄金,Spring Security 认证授权,94,Spring Security 认证授权 · JWT 无状态认证,1,JWT 原理,视频
+S3 黄金,Spring Security 认证授权,94,Spring Security 认证授权 · JWT 无状态认证,2,JWT 工具类封装,视频
+S3 黄金,Spring Security 认证授权,94,Spring Security 认证授权 · JWT 无状态认证,3,登录接口返回 Token,视频
+S3 黄金,Spring Security 认证授权,94,Spring Security 认证授权 · JWT 无状态认证,4,JWT 过滤器验证,视频
+S3 黄金,Spring Security 认证授权,94,Spring Security 认证授权 · JWT 无状态认证,5,🔨 分步实操,视频
+S3 黄金,Spring Security 认证授权,94,Spring Security 认证授权 · JWT 无状态认证,6,Token 刷新机制,视频
+S3 黄金,Spring Security 认证授权,94,Spring Security 认证授权 · JWT 无状态认证,7,作业,图文
+S3 黄金,Spring Security 认证授权,94,Spring Security 认证授权 · JWT 无状态认证,8,AI 助学,图文
+S3 黄金,Spring Security 认证授权,95,Spring Security 认证授权 · 前后端分离安全方案,1,URL 白名单配置（前置）,视频
+S3 黄金,Spring Security 认证授权,95,Spring Security 认证授权 · 前后端分离安全方案,2,自定义登录成功/失败处理,视频
+S3 黄金,Spring Security 认证授权,95,Spring Security 认证授权 · 前后端分离安全方案,3,自定义未认证/无权限处理,视频
+S3 黄金,Spring Security 认证授权,95,Spring Security 认证授权 · 前后端分离安全方案,4,登出处理,视频
+S3 黄金,Spring Security 认证授权,95,Spring Security 认证授权 · 前后端分离安全方案,5,Vue3 + Security + JWT 联调,视频
+S3 黄金,Spring Security 认证授权,95,Spring Security 认证授权 · 前后端分离安全方案,6,作业,图文
+S3 黄金,Spring Security 认证授权,95,Spring Security 认证授权 · 前后端分离安全方案,7,AI 助学,图文
+S3 黄金,AI 全流程开发实战,96,AI 全流程开发实战·单体项目篇 · 需求分析与 Prompt 拆解,1,需求拆分方法论,视频
+S3 黄金,AI 全流程开发实战,96,AI 全流程开发实战·单体项目篇 · 需求分析与 Prompt 拆解,2,Prompt 模板,视频
+S3 黄金,AI 全流程开发实战,96,AI 全流程开发实战·单体项目篇 · 需求分析与 Prompt 拆解,3,实战：拆解完整业务需求,视频
+S3 黄金,AI 全流程开发实战,96,AI 全流程开发实战·单体项目篇 · 需求分析与 Prompt 拆解,4,拓展,图文
+S3 黄金,AI 全流程开发实战,96,AI 全流程开发实战·单体项目篇 · 需求分析与 Prompt 拆解,5,AI 助学,图文
+S3 黄金,AI 全流程开发实战,97,AI 全流程开发实战·单体项目篇 · AI 生成项目骨架,1,项目骨架Prompt,视频
+S3 黄金,AI 全流程开发实战,97,AI 全流程开发实战·单体项目篇 · AI 生成项目骨架,2,数据库设计 Prompt,视频
+S3 黄金,AI 全流程开发实战,97,AI 全流程开发实战·单体项目篇 · AI 生成项目骨架,3,Entity/Mapper/Service/Controller 批量生成,视频
+S3 黄金,AI 全流程开发实战,97,AI 全流程开发实战·单体项目篇 · AI 生成项目骨架,4,配置文件生成,视频
+S3 黄金,AI 全流程开发实战,97,AI 全流程开发实战·单体项目篇 · AI 生成项目骨架,5,拓展,图文
+S3 黄金,AI 全流程开发实战,97,AI 全流程开发实战·单体项目篇 · AI 生成项目骨架,6,AI 助学,图文
+S3 黄金,AI 全流程开发实战,98,AI 全流程开发实战·单体项目篇 · 业务逻辑实现,1,复杂业务的 Prompt 拆分技巧,视频
+S3 黄金,AI 全流程开发实战,98,AI 全流程开发实战·单体项目篇 · 业务逻辑实现,2,AI 生成 + 人工审查的协作节奏,视频
+S3 黄金,AI 全流程开发实战,98,AI 全流程开发实战·单体项目篇 · 业务逻辑实现,3,常见 AI 翻车场景识别,视频
+S3 黄金,AI 全流程开发实战,98,AI 全流程开发实战·单体项目篇 · 业务逻辑实现,4,拓展,图文
+S3 黄金,AI 全流程开发实战,98,AI 全流程开发实战·单体项目篇 · 业务逻辑实现,5,AI 助学,图文
+S3 黄金,AI 全流程开发实战,99,AI 全流程开发实战·单体项目篇 · 代码审查与调优,1,安全审查,视频
+S3 黄金,AI 全流程开发实战,99,AI 全流程开发实战·单体项目篇 · 代码审查与调优,2,性能审查,视频
+S3 黄金,AI 全流程开发实战,99,AI 全流程开发实战·单体项目篇 · 代码审查与调优,3,AI 辅助修复 Bug,视频
+S3 黄金,AI 全流程开发实战,99,AI 全流程开发实战·单体项目篇 · 代码审查与调优,4,拓展,图文
+S3 黄金,AI 全流程开发实战,99,AI 全流程开发实战·单体项目篇 · 代码审查与调优,5,AI 助学,图文
+S3 黄金,AI 全流程开发实战,100,AI 全流程开发实战·单体项目篇 · 项目交付,1,文档生成,视频
+S3 黄金,AI 全流程开发实战,100,AI 全流程开发实战·单体项目篇 · 项目交付,2,作品集整理,视频
+S3 黄金,AI 全流程开发实战,100,AI 全流程开发实战·单体项目篇 · 项目交付,3,拓展,图文
+S3 黄金,AI 全流程开发实战,100,AI 全流程开发实战·单体项目篇 · 项目交付,4,AI 助学,图文
+S3 黄金,实训项目：智学云,101,实训项目：智学云 · 智学云-需求分析,1,需求从哪来,视频
+S3 黄金,实训项目：智学云,101,实训项目：智学云 · 智学云-需求分析,2,角色分析,图文
+S3 黄金,实训项目：智学云,101,实训项目：智学云 · 智学云-需求分析,3,权限矩阵（角色 × 功能）,图文
+S3 黄金,实训项目：智学云,101,实训项目：智学云 · 智学云-需求分析,4,功能性需求（用例清单）,图文
+S3 黄金,实训项目：智学云,101,实训项目：智学云 · 智学云-需求分析,5,非功能性需求,图文
+S3 黄金,实训项目：智学云,101,实训项目：智学云 · 智学云-需求分析,6,AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,101,实训项目：智学云 · 智学云-需求分析,7,本阶段小结,图文
+S3 黄金,实训项目：智学云,102,实训项目：智学云 · 智学云-原型图设计,1,为什么先画原型,图文
+S3 黄金,实训项目：智学云,102,实训项目：智学云 · 智学云-原型图设计,2,页面清单与原型说明,图文
+S3 黄金,实训项目：智学云,102,实训项目：智学云 · 智学云-原型图设计,3,页面跳转流程,图文
+S3 黄金,实训项目：智学云,102,实训项目：智学云 · 智学云-原型图设计,4,原型驱动的「字段/接口」推导,图文
+S3 黄金,实训项目：智学云,102,实训项目：智学云 · 智学云-原型图设计,5,AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,102,实训项目：智学云 · 智学云-原型图设计,6,本阶段小结,图文
+S3 黄金,实训项目：智学云,103,实训项目：智学云 · 智学云-系统设计,1,架构设计,视频
+S3 黄金,实训项目：智学云,103,实训项目：智学云 · 智学云-系统设计,2,数据库设计,视频
+S3 黄金,实训项目：智学云,103,实训项目：智学云 · 智学云-系统设计,3,接口设计,视频
+S3 黄金,实训项目：智学云,103,实训项目：智学云 · 智学云-系统设计,4,AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,103,实训项目：智学云 · 智学云-系统设计,5,本阶段小结,图文
+S3 黄金,实训项目：智学云,104,实训项目：智学云 · 智学云-环境搭建,1,环境清单,图文
+S3 黄金,实训项目：智学云,104,实训项目：智学云 · 智学云-环境搭建,2,安装 JDK 21,图文
+S3 黄金,实训项目：智学云,104,实训项目：智学云 · 智学云-环境搭建,3,安装 MySQL 8（密码 123456）,图文
+S3 黄金,实训项目：智学云,104,实训项目：智学云 · 智学云-环境搭建,4,安装 Node.js,图文
+S3 黄金,实训项目：智学云,104,实训项目：智学云 · 智学云-环境搭建,5,安装 IntelliJ IDEA（后端）,图文
+S3 黄金,实训项目：智学云,104,实训项目：智学云 · 智学云-环境搭建,6,安装 VS Code（前端）,图文
+S3 黄金,实训项目：智学云,104,实训项目：智学云 · 智学云-环境搭建,7,验证清单,图文
+S3 黄金,实训项目：智学云,104,实训项目：智学云 · 智学云-环境搭建,8,AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,104,实训项目：智学云 · 智学云-环境搭建,9,本阶段小结,图文
+S3 黄金,实训项目：智学云,105,实训项目：智学云 · 智学云-后端开发-工程初始化-1,1,一、这一节做什么,图文
+S3 黄金,实训项目：智学云,105,实训项目：智学云 · 智学云-后端开发-工程初始化-1,2,二、动手实操,图文
+S3 黄金,实训项目：智学云,105,实训项目：智学云 · 智学云-后端开发-工程初始化-1,3,三、AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,105,实训项目：智学云 · 智学云-后端开发-工程初始化-1,4,四、对照检查表,图文
+S3 黄金,实训项目：智学云,105,实训项目：智学云 · 智学云-后端开发-工程初始化-1,5,五、常见问题,图文
+S3 黄金,实训项目：智学云,106,实训项目：智学云 · 智学云-后端开发-公共基础-2,1,一、这一节做什么,图文
+S3 黄金,实训项目：智学云,106,实训项目：智学云 · 智学云-后端开发-公共基础-2,2,二、动手实操,图文
+S3 黄金,实训项目：智学云,106,实训项目：智学云 · 智学云-后端开发-公共基础-2,3,三、AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,106,实训项目：智学云 · 智学云-后端开发-公共基础-2,4,四、对照检查表,图文
+S3 黄金,实训项目：智学云,106,实训项目：智学云 · 智学云-后端开发-公共基础-2,5,五、常见问题,图文
+S3 黄金,实训项目：智学云,107,实训项目：智学云 · 智学云-后端开发-认证与权限(RBAC)-3,1,一、这一节做什么,图文
+S3 黄金,实训项目：智学云,107,实训项目：智学云 · 智学云-后端开发-认证与权限(RBAC)-3,2,二、动手实操,图文
+S3 黄金,实训项目：智学云,107,实训项目：智学云 · 智学云-后端开发-认证与权限(RBAC)-3,3,三、AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,107,实训项目：智学云 · 智学云-后端开发-认证与权限(RBAC)-3,4,四、对照检查表,图文
+S3 黄金,实训项目：智学云,107,实训项目：智学云 · 智学云-后端开发-认证与权限(RBAC)-3,5,五、常见问题,图文
+S3 黄金,实训项目：智学云,108,实训项目：智学云 · 智学云-后端开发-课程与章节与文件上传-4,1,一、这一节做什么,图文
+S3 黄金,实训项目：智学云,108,实训项目：智学云 · 智学云-后端开发-课程与章节与文件上传-4,2,二、动手实操,图文
+S3 黄金,实训项目：智学云,108,实训项目：智学云 · 智学云-后端开发-课程与章节与文件上传-4,3,三、AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,108,实训项目：智学云 · 智学云-后端开发-课程与章节与文件上传-4,4,四、对照检查表,图文
+S3 黄金,实训项目：智学云,108,实训项目：智学云 · 智学云-后端开发-课程与章节与文件上传-4,5,五、常见问题,图文
+S3 黄金,实训项目：智学云,109,实训项目：智学云 · 智学云-后端开发-学员管理与Excel-5,1,一、这一节做什么,图文
+S3 黄金,实训项目：智学云,109,实训项目：智学云 · 智学云-后端开发-学员管理与Excel-5,2,二、动手实操,图文
+S3 黄金,实训项目：智学云,109,实训项目：智学云 · 智学云-后端开发-学员管理与Excel-5,3,三、AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,109,实训项目：智学云 · 智学云-后端开发-学员管理与Excel-5,4,四、对照检查表,图文
+S3 黄金,实训项目：智学云,109,实训项目：智学云 · 智学云-后端开发-学员管理与Excel-5,5,五、常见问题,图文
+S3 黄金,实训项目：智学云,110,实训项目：智学云 · 智学云-后端开发-订单与数据看板-6,1,一、这一节做什么,图文
+S3 黄金,实训项目：智学云,110,实训项目：智学云 · 智学云-后端开发-订单与数据看板-6,2,二、动手实操,图文
+S3 黄金,实训项目：智学云,110,实训项目：智学云 · 智学云-后端开发-订单与数据看板-6,3,三、AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,110,实训项目：智学云 · 智学云-后端开发-订单与数据看板-6,4,四、对照检查表,图文
+S3 黄金,实训项目：智学云,110,实训项目：智学云 · 智学云-后端开发-订单与数据看板-6,5,五、常见问题,图文
+S3 黄金,实训项目：智学云,111,实训项目：智学云 · 智学云-前端开发-工程初始化-1,1,一、这一节做什么,图文
+S3 黄金,实训项目：智学云,111,实训项目：智学云 · 智学云-前端开发-工程初始化-1,2,二、动手实操,图文
+S3 黄金,实训项目：智学云,111,实训项目：智学云 · 智学云-前端开发-工程初始化-1,3,三、AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,111,实训项目：智学云 · 智学云-前端开发-工程初始化-1,4,四、对照检查表,图文
+S3 黄金,实训项目：智学云,111,实训项目：智学云 · 智学云-前端开发-工程初始化-1,5,五、常见问题（Q&A）,图文
+S3 黄金,实训项目：智学云,112,实训项目：智学云 · 智学云-前端开发-封装与登录与路由守卫-2,1,一、这一节做什么,图文
+S3 黄金,实训项目：智学云,112,实训项目：智学云 · 智学云-前端开发-封装与登录与路由守卫-2,2,二、动手实操,图文
+S3 黄金,实训项目：智学云,112,实训项目：智学云 · 智学云-前端开发-封装与登录与路由守卫-2,3,三、AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,112,实训项目：智学云 · 智学云-前端开发-封装与登录与路由守卫-2,4,四、对照检查表,图文
+S3 黄金,实训项目：智学云,112,实训项目：智学云 · 智学云-前端开发-封装与登录与路由守卫-2,5,五、常见问题,图文
+S3 黄金,实训项目：智学云,113,实训项目：智学云 · 智学云-前端开发-主布局与动态菜单-3,1,一、这一节做什么,图文
+S3 黄金,实训项目：智学云,113,实训项目：智学云 · 智学云-前端开发-主布局与动态菜单-3,2,二、动手实操,图文
+S3 黄金,实训项目：智学云,113,实训项目：智学云 · 智学云-前端开发-主布局与动态菜单-3,3,三、AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,113,实训项目：智学云 · 智学云-前端开发-主布局与动态菜单-3,4,四、对照检查表,图文
+S3 黄金,实训项目：智学云,113,实训项目：智学云 · 智学云-前端开发-主布局与动态菜单-3,5,五、常见问题（Q&A）,图文
+S3 黄金,实训项目：智学云,114,实训项目：智学云 · 智学云-前端开发-课程管理页面-4,1,一、这一节做什么,图文
+S3 黄金,实训项目：智学云,114,实训项目：智学云 · 智学云-前端开发-课程管理页面-4,2,二、动手实操,图文
+S3 黄金,实训项目：智学云,114,实训项目：智学云 · 智学云-前端开发-课程管理页面-4,3,三、AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,114,实训项目：智学云 · 智学云-前端开发-课程管理页面-4,4,四、对照检查表,图文
+S3 黄金,实训项目：智学云,114,实训项目：智学云 · 智学云-前端开发-课程管理页面-4,5,五、常见问题,图文
+S3 黄金,实训项目：智学云,115,实训项目：智学云 · 智学云-前端开发-学生管理-5,1,一、这一节做什么,图文
+S3 黄金,实训项目：智学云,115,实训项目：智学云 · 智学云-前端开发-学生管理-5,2,二、动手实操,图文
+S3 黄金,实训项目：智学云,115,实训项目：智学云 · 智学云-前端开发-学生管理-5,3,三、AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,115,实训项目：智学云 · 智学云-前端开发-学生管理-5,4,四、对照检查表,图文
+S3 黄金,实训项目：智学云,115,实训项目：智学云 · 智学云-前端开发-学生管理-5,5,五、常见问题,图文
+S3 黄金,实训项目：智学云,116,实训项目：智学云 · 智学云-前端开发-数据看板与订单与用户管理-6,1,一、这一节做什么,图文
+S3 黄金,实训项目：智学云,116,实训项目：智学云 · 智学云-前端开发-数据看板与订单与用户管理-6,2,二、动手实操,图文
+S3 黄金,实训项目：智学云,116,实训项目：智学云 · 智学云-前端开发-数据看板与订单与用户管理-6,3,三、AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,116,实训项目：智学云 · 智学云-前端开发-数据看板与订单与用户管理-6,4,四、对照检查表,图文
+S3 黄金,实训项目：智学云,116,实训项目：智学云 · 智学云-前端开发-数据看板与订单与用户管理-6,5,五、常见问题,图文
+S3 黄金,实训项目：智学云,117,实训项目：智学云 · 智学云-测试与联调,1,一、这一节做什么,图文
+S3 黄金,实训项目：智学云,117,实训项目：智学云 · 智学云-测试与联调,2,二、动手实操,图文
+S3 黄金,实训项目：智学云,117,实训项目：智学云 · 智学云-测试与联调,3,三、联调常见坑（对照表）,图文
+S3 黄金,实训项目：智学云,117,实训项目：智学云 · 智学云-测试与联调,4,四、AI 辅助开发（提示词）,视频
+S3 黄金,实训项目：智学云,117,实训项目：智学云 · 智学云-测试与联调,5,五、对照检查表,图文
+S3 黄金,实训项目：智学云,117,实训项目：智学云 · 智学云-测试与联调,6,六、常见问题（Q&A）,图文
+S3 黄金,实训项目：智学云,118,实训项目：智学云 · 智学云-部署上线,1,一、这一节做什么,图文
+S3 黄金,实训项目：智学云,118,实训项目：智学云 · 智学云-部署上线,2,二、动手实操,视频
+S3 黄金,实训项目：智学云,118,实训项目：智学云 · 智学云-部署上线,3,三、AI 辅助开发（提示词）,图文
+S3 黄金,实训项目：智学云,118,实训项目：智学云 · 智学云-部署上线,4,四、对照检查表,图文
+S3 黄金,实训项目：智学云,118,实训项目：智学云 · 智学云-部署上线,5,五、常见问题,图文
+S3 黄金,实训项目：智学云,119,实训项目：智学云 · 智学云-项目总结与作品集,1,一、研发流程回顾,图文
+S3 黄金,实训项目：智学云,119,实训项目：智学云 · 智学云-项目总结与作品集,2,二、技术栈与能力清单,图文
+S3 黄金,实训项目：智学云,119,实训项目：智学云 · 智学云-项目总结与作品集,3,三、整理作品集,视频
+S3 黄金,实训项目：智学云,119,实训项目：智学云 · 智学云-项目总结与作品集,4,四、AI 辅助开发（提示词）,图文
+S3 黄金,实训项目：智学云,119,实训项目：智学云 · 智学云-项目总结与作品集,5,五、结语,图文
+S4 钻石,微服务架构导论,120,微服务架构导论 · 微服务架构概述,1,单体架构的问题,视频
+S4 钻石,微服务架构导论,120,微服务架构导论 · 微服务架构概述,2,微服务核心思想,视频
+S4 钻石,微服务架构导论,120,微服务架构导论 · 微服务架构概述,3,服务拆分原则,视频
+S4 钻石,微服务架构导论,120,微服务架构导论 · 微服务架构概述,4,技术栈全景图,视频
+S4 钻石,微服务架构导论,120,微服务架构导论 · 微服务架构概述,5,作业,图文
+S4 钻石,微服务架构导论,120,微服务架构导论 · 微服务架构概述,6,AI 助学,图文
+S4 钻石,微服务架构导论,121,微服务架构导论 · 分布式理论基础,1,CAP 定理,视频
+S4 钻石,微服务架构导论,121,微服务架构导论 · 分布式理论基础,2,BASE 理论,视频
+S4 钻石,微服务架构导论,121,微服务架构导论 · 分布式理论基础,3,微服务新挑战与解决思路,视频
+S4 钻石,微服务架构导论,121,微服务架构导论 · 分布式理论基础,4,作业,图文
+S4 钻石,微服务架构导论,121,微服务架构导论 · 分布式理论基础,5,AI 助学,图文
+S4 钻石,Linux 操作系统,122,Linux 操作系统 · Linux 基础,1,Linux 概述与安装,视频
+S4 钻石,Linux 操作系统,122,Linux 操作系统 · Linux 基础,2,目录结构,视频
+S4 钻石,Linux 操作系统,122,Linux 操作系统 · Linux 基础,3,文件操作命令,视频
+S4 钻石,Linux 操作系统,122,Linux 操作系统 · Linux 基础,4,权限管理,视频
+S4 钻石,Linux 操作系统,122,Linux 操作系统 · Linux 基础,5,作业,图文
+S4 钻石,Linux 操作系统,123,Linux 操作系统 · 系统管理,1,用户与用户组,视频
+S4 钻石,Linux 操作系统,123,Linux 操作系统 · 系统管理,2,进程管理,视频
+S4 钻石,Linux 操作系统,123,Linux 操作系统 · 系统管理,3,网络管理,视频
+S4 钻石,Linux 操作系统,123,Linux 操作系统 · 系统管理,4,防火墙配置,视频
+S4 钻石,Linux 操作系统,123,Linux 操作系统 · 系统管理,5,作业,图文
+S4 钻石,Linux 操作系统,124,Linux 操作系统 · 软件安装与服务管理,1,包管理器,视频
+S4 钻石,Linux 操作系统,124,Linux 操作系统 · 软件安装与服务管理,2,JDK与MySQL 安装,视频
+S4 钻石,Linux 操作系统,124,Linux 操作系统 · 软件安装与服务管理,3,服务管理,视频
+S4 钻石,Linux 操作系统,124,Linux 操作系统 · 软件安装与服务管理,4,Shell 脚本基础,视频
+S4 钻石,Linux 操作系统,124,Linux 操作系统 · 软件安装与服务管理,5,项目部署,视频
+S4 钻石,Linux 操作系统,124,Linux 操作系统 · 软件安装与服务管理,6,作业,图文
+S4 钻石,Docker 容器技术与 CICD,125,Docker 容器技术与 CICD · Docker 基础,1,Docker 概念与安装,视频
+S4 钻石,Docker 容器技术与 CICD,125,Docker 容器技术与 CICD · Docker 基础,2,镜像操作,视频
+S4 钻石,Docker 容器技术与 CICD,125,Docker 容器技术与 CICD · Docker 基础,3,容器操作,视频
+S4 钻石,Docker 容器技术与 CICD,125,Docker 容器技术与 CICD · Docker 基础,4,端口映射与数据卷,视频
+S4 钻石,Docker 容器技术与 CICD,125,Docker 容器技术与 CICD · Docker 基础,5,Docker 网络,视频
+S4 钻石,Docker 容器技术与 CICD,125,Docker 容器技术与 CICD · Docker 基础,6,作业,图文
+S4 钻石,Docker 容器技术与 CICD,126,Docker 容器技术与 CICD · Dockerfile 与镜像构建,1,Dockerfile 指令,视频
+S4 钻石,Docker 容器技术与 CICD,126,Docker 容器技术与 CICD · Dockerfile 与镜像构建,2,构建 Boot 项目镜像,视频
+S4 钻石,Docker 容器技术与 CICD,126,Docker 容器技术与 CICD · Dockerfile 与镜像构建,3,镜像推送,视频
+S4 钻石,Docker 容器技术与 CICD,126,Docker 容器技术与 CICD · Dockerfile 与镜像构建,4,作业,图文
+S4 钻石,Docker 容器技术与 CICD,127,Docker 容器技术与 CICD · Docker Compose,1,Compose 编排,视频
+S4 钻石,Docker 容器技术与 CICD,127,Docker 容器技术与 CICD · Docker Compose,2,一键部署 MySQL + Redis + Nginx,视频
+S4 钻石,Docker 容器技术与 CICD,127,Docker 容器技术与 CICD · Docker Compose,3,Boot 项目容器化部署,视频
+S4 钻石,Docker 容器技术与 CICD,127,Docker 容器技术与 CICD · Docker Compose,4,作业,图文
+S4 钻石,Docker 容器技术与 CICD,128,Docker 容器技术与 CICD · CICD 持续集成基础,1,CI/CD 概念,视频
+S4 钻石,Docker 容器技术与 CICD,128,Docker 容器技术与 CICD · CICD 持续集成基础,2,GitHub Actions 入门,视频
+S4 钻石,Docker 容器技术与 CICD,128,Docker 容器技术与 CICD · CICD 持续集成基础,3,作业,图文
+S4 钻石,缓存与消息中间件,129,缓存与消息中间件 · Redis 基础,1,Redis 概述与安装,视频
+S4 钻石,缓存与消息中间件,129,缓存与消息中间件 · Redis 基础,2,5 大数据类型,视频
+S4 钻石,缓存与消息中间件,129,缓存与消息中间件 · Redis 基础,3,过期策略,视频
+S4 钻石,缓存与消息中间件,129,缓存与消息中间件 · Redis 基础,4,Redis 客户端工具（了解即可）,视频
+S4 钻石,缓存与消息中间件,129,缓存与消息中间件 · Redis 基础,5,作业,图文
+S4 钻石,缓存与消息中间件,129,缓存与消息中间件 · Redis 基础,6,AI 助学,图文
+S4 钻石,缓存与消息中间件,130,缓存与消息中间件 · Boot 整合 Redis,1,Spring Data Redis,视频
+S4 钻石,缓存与消息中间件,130,缓存与消息中间件 · Boot 整合 Redis,2,RedisTemplate,视频
+S4 钻石,缓存与消息中间件,130,缓存与消息中间件 · Boot 整合 Redis,3,Redis 序列化,视频
+S4 钻石,缓存与消息中间件,130,缓存与消息中间件 · Boot 整合 Redis,4,实操RedisTemplate里面方法,视频
+S4 钻石,缓存与消息中间件,130,缓存与消息中间件 · Boot 整合 Redis,5,作业,图文
+S4 钻石,缓存与消息中间件,130,缓存与消息中间件 · Boot 整合 Redis,6,AI 助学,图文
+S4 钻石,缓存与消息中间件,131,缓存与消息中间件 · Redis 实战应用,1,缓存方案设计,视频
+S4 钻石,缓存与消息中间件,131,缓存与消息中间件 · Redis 实战应用,2,缓存穿透 / 雪崩 / 击穿,视频
+S4 钻石,缓存与消息中间件,131,缓存与消息中间件 · Redis 实战应用,3,分布式锁,视频
+S4 钻石,缓存与消息中间件,131,缓存与消息中间件 · Redis 实战应用,4,分布式 Session,视频
+S4 钻石,缓存与消息中间件,131,缓存与消息中间件 · Redis 实战应用,5,作业,图文
+S4 钻石,缓存与消息中间件,131,缓存与消息中间件 · Redis 实战应用,6,AI 助学,图文
+S4 钻石,缓存与消息中间件,132,缓存与消息中间件 · 消息队列基础,1,应用场景,视频
+S4 钻石,缓存与消息中间件,132,缓存与消息中间件 · 消息队列基础,2,RocketMQ 架构,视频
+S4 钻石,缓存与消息中间件,132,缓存与消息中间件 · 消息队列基础,3,Docker 安装,视频
+S4 钻石,缓存与消息中间件,132,缓存与消息中间件 · 消息队列基础,4,作业,图文
+S4 钻石,缓存与消息中间件,132,缓存与消息中间件 · 消息队列基础,5,AI 助学,图文
+S4 钻石,缓存与消息中间件,133,缓存与消息中间件 · 消息类型,1,普通消息,视频
+S4 钻石,缓存与消息中间件,133,缓存与消息中间件 · 消息类型,2,顺序消息,视频
+S4 钻石,缓存与消息中间件,133,缓存与消息中间件 · 消息类型,3,延迟消息,视频
+S4 钻石,缓存与消息中间件,133,缓存与消息中间件 · 消息类型,4,批量消息,视频
+S4 钻石,缓存与消息中间件,133,缓存与消息中间件 · 消息类型,5,作业,图文
+S4 钻石,缓存与消息中间件,133,缓存与消息中间件 · 消息类型,6,AI 助学,图文
+S4 钻石,缓存与消息中间件,134,缓存与消息中间件 · Boot 整合 RocketMQ,1,Starter 集成,视频
+S4 钻石,缓存与消息中间件,134,缓存与消息中间件 · Boot 整合 RocketMQ,2,生产者与消费者,视频
+S4 钻石,缓存与消息中间件,134,缓存与消息中间件 · Boot 整合 RocketMQ,3,消息过滤,视频
+S4 钻石,缓存与消息中间件,134,缓存与消息中间件 · Boot 整合 RocketMQ,4,作业,图文
+S4 钻石,缓存与消息中间件,134,缓存与消息中间件 · Boot 整合 RocketMQ,5,AI 助学,图文
+S4 钻石,缓存与消息中间件,135,缓存与消息中间件 · 可靠性与事务消息,1,消息可靠投递,视频
+S4 钻石,缓存与消息中间件,135,缓存与消息中间件 · 可靠性与事务消息,2,消费重试与死信队列,视频
+S4 钻石,缓存与消息中间件,135,缓存与消息中间件 · 可靠性与事务消息,3,消息幂等性处理,视频
+S4 钻石,缓存与消息中间件,135,缓存与消息中间件 · 可靠性与事务消息,4,实战：订单超时取消,视频
+S4 钻石,缓存与消息中间件,135,缓存与消息中间件 · 可靠性与事务消息,5,作业,图文
+S4 钻石,缓存与消息中间件,135,缓存与消息中间件 · 可靠性与事务消息,6,AI 助学,图文
+S4 钻石,搜索存储与网关,136,搜索存储与网关 · ES 基础,1,核心概念,视频
+S4 钻石,搜索存储与网关,136,搜索存储与网关 · ES 基础,2,Docker 安装 ES + Kibana,视频
+S4 钻石,搜索存储与网关,136,搜索存储与网关 · ES 基础,3,索引与文档 CRUD,视频
+S4 钻石,搜索存储与网关,136,搜索存储与网关 · ES 基础,4,倒排索引原理,视频
+S4 钻石,搜索存储与网关,136,搜索存储与网关 · ES 基础,5,作业,图文
+S4 钻石,搜索存储与网关,136,搜索存储与网关 · ES 基础,6,AI 助学,图文
+S4 钻石,搜索存储与网关,137,搜索存储与网关 · DSL 查询语法,1,全文检索查询,视频
+S4 钻石,搜索存储与网关,137,搜索存储与网关 · DSL 查询语法,2,精确查询,视频
+S4 钻石,搜索存储与网关,137,搜索存储与网关 · DSL 查询语法,3,布尔组合查询,视频
+S4 钻石,搜索存储与网关,137,搜索存储与网关 · DSL 查询语法,4,高亮查询,视频
+S4 钻石,搜索存储与网关,137,搜索存储与网关 · DSL 查询语法,5,排序与分页,视频
+S4 钻石,搜索存储与网关,137,搜索存储与网关 · DSL 查询语法,6,聚合查询,视频
+S4 钻石,搜索存储与网关,137,搜索存储与网关 · DSL 查询语法,7,作业,图文
+S4 钻石,搜索存储与网关,137,搜索存储与网关 · DSL 查询语法,8,AI 助学,图文
+S4 钻石,搜索存储与网关,138,搜索存储与网关 · 中文分词与数据同步,1,IK 分词器,视频
+S4 钻石,搜索存储与网关,138,搜索存储与网关 · 中文分词与数据同步,2,自定义词典,视频
+S4 钻石,搜索存储与网关,138,搜索存储与网关 · 中文分词与数据同步,3,MySQL 同步到 ES,视频
+S4 钻石,搜索存储与网关,138,搜索存储与网关 · 中文分词与数据同步,4,作业,图文
+S4 钻石,搜索存储与网关,138,搜索存储与网关 · 中文分词与数据同步,5,AI 助学,图文
+S4 钻石,搜索存储与网关,139,搜索存储与网关 · Boot 整合 ES,1,Spring Data Elasticsearch,视频
+S4 钻石,搜索存储与网关,139,搜索存储与网关 · Boot 整合 ES,2,ES 的 Java 客户端（含版本变迁）,视频
+S4 钻石,搜索存储与网关,139,搜索存储与网关 · Boot 整合 ES,3,实战：商品搜索,视频
+S4 钻石,搜索存储与网关,139,搜索存储与网关 · Boot 整合 ES,4,作业,图文
+S4 钻石,搜索存储与网关,139,搜索存储与网关 · Boot 整合 ES,5,AI 助学,图文
+S4 钻石,搜索存储与网关,140,搜索存储与网关 · MinIO 入门,1,对象存储概念,视频
+S4 钻石,搜索存储与网关,140,搜索存储与网关 · MinIO 入门,2,Docker 安装 MinIO,视频
+S4 钻石,搜索存储与网关,140,搜索存储与网关 · MinIO 入门,3,控制台操作,视频
+S4 钻石,搜索存储与网关,140,搜索存储与网关 · MinIO 入门,4,作业,图文
+S4 钻石,搜索存储与网关,140,搜索存储与网关 · MinIO 入门,5,AI 助学,图文
+S4 钻石,搜索存储与网关,141,搜索存储与网关 · Boot 整合 MinIO,1,MinIO Java SDK,视频
+S4 钻石,搜索存储与网关,141,搜索存储与网关 · Boot 整合 MinIO,2,文件上传/下载/删除 API,视频
+S4 钻石,搜索存储与网关,141,搜索存储与网关 · Boot 整合 MinIO,3,案例：MinIO 文件上传对接,视频
+S4 钻石,搜索存储与网关,141,搜索存储与网关 · Boot 整合 MinIO,4,作业,图文
+S4 钻石,搜索存储与网关,141,搜索存储与网关 · Boot 整合 MinIO,5,AI 助学,图文
+S4 钻石,搜索存储与网关,142,搜索存储与网关 · Nginx 基础,1,Nginx 概述与安装,视频
+S4 钻石,搜索存储与网关,142,搜索存储与网关 · Nginx 基础,2,配置文件结构,视频
+S4 钻石,搜索存储与网关,142,搜索存储与网关 · Nginx 基础,3,location 匹配优先级详解 + 对照案例,视频
+S4 钻石,搜索存储与网关,142,搜索存储与网关 · Nginx 基础,4,静态资源部署（Vue dist / try_files）,视频
+S4 钻石,搜索存储与网关,142,搜索存储与网关 · Nginx 基础,5,作业,图文
+S4 钻石,搜索存储与网关,142,搜索存储与网关 · Nginx 基础,6,AI 助学,图文
+S4 钻石,搜索存储与网关,143,搜索存储与网关 · 反向代理与负载均衡,1,正向代理 vs 反向代理,视频
+S4 钻石,搜索存储与网关,143,搜索存储与网关 · 反向代理与负载均衡,2,反向代理配置,视频
+S4 钻石,搜索存储与网关,143,搜索存储与网关 · 反向代理与负载均衡,3,负载均衡策略,视频
+S4 钻石,搜索存储与网关,143,搜索存储与网关 · 反向代理与负载均衡,4,HTTPS 配置,视频
+S4 钻石,搜索存储与网关,143,搜索存储与网关 · 反向代理与负载均衡,5,Nginx 限流,视频
+S4 钻石,搜索存储与网关,143,搜索存储与网关 · 反向代理与负载均衡,6,Gzip 压缩与性能优化,视频
+S4 钻石,搜索存储与网关,143,搜索存储与网关 · 反向代理与负载均衡,7,作业,图文
+S4 钻石,搜索存储与网关,143,搜索存储与网关 · 反向代理与负载均衡,8,AI 助学,图文
+S4 钻石,SpringCloud Alibaba 微服务框架,144,SpringCloud Alibaba 微服务框架 · Nacos 注册中心与配置中心,1,SCA概述,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,144,SpringCloud Alibaba 微服务框架 · Nacos 注册中心与配置中心,2,Nacos 安装部署,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,144,SpringCloud Alibaba 微服务框架 · Nacos 注册中心与配置中心,3,服务注册与发现,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,144,SpringCloud Alibaba 微服务框架 · Nacos 注册中心与配置中心,4,服务分级模型与健康检查,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,144,SpringCloud Alibaba 微服务框架 · Nacos 注册中心与配置中心,5,Nacos 配置中心,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,144,SpringCloud Alibaba 微服务框架 · Nacos 注册中心与配置中心,6,动态配置刷新,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,144,SpringCloud Alibaba 微服务框架 · Nacos 注册中心与配置中心,7,多环境配置管理,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,144,SpringCloud Alibaba 微服务框架 · Nacos 注册中心与配置中心,8,配置共享与优先级,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,144,SpringCloud Alibaba 微服务框架 · Nacos 注册中心与配置中心,9,作业,图文
+S4 钻石,SpringCloud Alibaba 微服务框架,144,SpringCloud Alibaba 微服务框架 · Nacos 注册中心与配置中心,10,AI 助学,图文
+S4 钻石,SpringCloud Alibaba 微服务框架,145,SpringCloud Alibaba 微服务框架 · OpenFeign + LoadBalancer,1,RestTemplate 基础调用,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,145,SpringCloud Alibaba 微服务框架 · OpenFeign + LoadBalancer,2,OpenFeign 声明式调用,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,145,SpringCloud Alibaba 微服务框架 · OpenFeign + LoadBalancer,3,负载均衡策略,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,145,SpringCloud Alibaba 微服务框架 · OpenFeign + LoadBalancer,4,Feign 日志与超时,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,145,SpringCloud Alibaba 微服务框架 · OpenFeign + LoadBalancer,5,Feign 拦截器：Token 透传,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,145,SpringCloud Alibaba 微服务框架 · OpenFeign + LoadBalancer,6,作业,图文
+S4 钻石,SpringCloud Alibaba 微服务框架,145,SpringCloud Alibaba 微服务框架 · OpenFeign + LoadBalancer,7,AI 助学,图文
+S4 钻石,SpringCloud Alibaba 微服务框架,146,SpringCloud Alibaba 微服务框架 · Spring Cloud Gateway,1,网关的作用,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,146,SpringCloud Alibaba 微服务框架 · Spring Cloud Gateway,2,路由配置,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,146,SpringCloud Alibaba 微服务框架 · Spring Cloud Gateway,3,过滤器,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,146,SpringCloud Alibaba 微服务框架 · Spring Cloud Gateway,4,网关统一鉴权,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,146,SpringCloud Alibaba 微服务框架 · Spring Cloud Gateway,5,网关限流,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,146,SpringCloud Alibaba 微服务框架 · Spring Cloud Gateway,6,跨域处理,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,146,SpringCloud Alibaba 微服务框架 · Spring Cloud Gateway,7,动态路由,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,146,SpringCloud Alibaba 微服务框架 · Spring Cloud Gateway,8,作业,图文
+S4 钻石,SpringCloud Alibaba 微服务框架,146,SpringCloud Alibaba 微服务框架 · Spring Cloud Gateway,9,AI 助学,图文
+S4 钻石,SpringCloud Alibaba 微服务框架,147,SpringCloud Alibaba 微服务框架 · Sentinel 流控熔断降级,1,Sentinel Dashboard,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,147,SpringCloud Alibaba 微服务框架 · Sentinel 流控熔断降级,2,流控规则,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,147,SpringCloud Alibaba 微服务框架 · Sentinel 流控熔断降级,3,流控模式,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,147,SpringCloud Alibaba 微服务框架 · Sentinel 流控熔断降级,4,流控效果,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,147,SpringCloud Alibaba 微服务框架 · Sentinel 流控熔断降级,5,熔断降级,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,147,SpringCloud Alibaba 微服务框架 · Sentinel 流控熔断降级,6,Feign 整合 Sentinel,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,147,SpringCloud Alibaba 微服务框架 · Sentinel 流控熔断降级,7,作业,图文
+S4 钻石,SpringCloud Alibaba 微服务框架,147,SpringCloud Alibaba 微服务框架 · Sentinel 流控熔断降级,8,AI 助学,图文
+S4 钻石,SpringCloud Alibaba 微服务框架,148,SpringCloud Alibaba 微服务框架 · Seata 分布式事务,1,分布式事务问题,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,148,SpringCloud Alibaba 微服务框架 · Seata 分布式事务,2,Seata 架构,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,148,SpringCloud Alibaba 微服务框架 · Seata 分布式事务,3,Seata Server 部署,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,148,SpringCloud Alibaba 微服务框架 · Seata 分布式事务,4,AT 模式（重点）,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,148,SpringCloud Alibaba 微服务框架 · Seata 分布式事务,5,TCC 与 Saga 模式（了解）,视频
+S4 钻石,SpringCloud Alibaba 微服务框架,148,SpringCloud Alibaba 微服务框架 · Seata 分布式事务,6,作业,图文
+S4 钻石,SpringCloud Alibaba 微服务框架,148,SpringCloud Alibaba 微服务框架 · Seata 分布式事务,7,AI 助学,图文
+S4 钻石,AI 全流程开发实战,149,AI 全流程开发实战·微服务篇 · 微服务架构 Prompt 拆解,1,服务拆分决策 Prompt,视频
+S4 钻石,AI 全流程开发实战,149,AI 全流程开发实战·微服务篇 · 微服务架构 Prompt 拆解,2,各服务的接口契约定义,视频
+S4 钻石,AI 全流程开发实战,149,AI 全流程开发实战·微服务篇 · 微服务架构 Prompt 拆解,3,数据库分库设计,视频
+S4 钻石,AI 全流程开发实战,149,AI 全流程开发实战·微服务篇 · 微服务架构 Prompt 拆解,4,AI 助学,图文
+S4 钻石,AI 全流程开发实战,150,AI 全流程开发实战·微服务篇 · AI 批量生成微服务,1,父工程 + 子模块批量生成,视频
+S4 钻石,AI 全流程开发实战,150,AI 全流程开发实战·微服务篇 · AI 批量生成微服务,2,各服务 Entity/DTO/Feign 接口批量生成,视频
+S4 钻石,AI 全流程开发实战,150,AI 全流程开发实战·微服务篇 · AI 批量生成微服务,3,服务间调用代码生成（Feign 调用 / 异常处理）,视频
+S4 钻石,AI 全流程开发实战,150,AI 全流程开发实战·微服务篇 · AI 批量生成微服务,4,拓展,图文
+S4 钻石,AI 全流程开发实战,150,AI 全流程开发实战·微服务篇 · AI 批量生成微服务,5,AI 助学,图文
+S4 钻石,AI 全流程开发实战,151,AI 全流程开发实战·微服务篇 · 中间件集成 Prompt,1,Redis 缓存层集成 Prompt,视频
+S4 钻石,AI 全流程开发实战,151,AI 全流程开发实战·微服务篇 · 中间件集成 Prompt,2,RocketMQ 消息事件集成 Prompt,视频
+S4 钻石,AI 全流程开发实战,151,AI 全流程开发实战·微服务篇 · 中间件集成 Prompt,3,ES 搜索集成 Prompt,视频
+S4 钻石,AI 全流程开发实战,151,AI 全流程开发实战·微服务篇 · 中间件集成 Prompt,4,拓展,图文
+S4 钻石,AI 全流程开发实战,151,AI 全流程开发实战·微服务篇 · 中间件集成 Prompt,5,AI 助学,图文
+S4 钻石,AI 全流程开发实战,152,AI 全流程开发实战·微服务篇 · 微服务审查重点,1,服务边界审查,视频
+S4 钻石,AI 全流程开发实战,152,AI 全流程开发实战·微服务篇 · 微服务审查重点,2,分布式事务边界审查,视频
+S4 钻石,AI 全流程开发实战,152,AI 全流程开发实战·微服务篇 · 微服务审查重点,3,缓存一致性审查,视频
+S4 钻石,AI 全流程开发实战,152,AI 全流程开发实战·微服务篇 · 微服务审查重点,4,拓展,图文
+S4 钻石,AI 全流程开发实战,152,AI 全流程开发实战·微服务篇 · 微服务审查重点,5,AI 助力,图文
+S4 钻石,AI 全流程开发实战,153,AI 全流程开发实战·微服务篇 · 微服务交付,1,Docker Compose 编排生成,视频
+S4 钻石,AI 全流程开发实战,153,AI 全流程开发实战·微服务篇 · 微服务交付,2,服务调用链路图,视频
+S4 钻石,AI 全流程开发实战,153,AI 全流程开发实战·微服务篇 · 微服务交付,3,微服务作品集规范,视频
+S4 钻石,AI 全流程开发实战,153,AI 全流程开发实战·微服务篇 · 微服务交付,4,拓展,图文
+S4 钻石,AI 全流程开发实战,153,AI 全流程开发实战·微服务篇 · 微服务交付,5,AI助学,图文
+S4 钻石,实训项目：医枢云,154,实训项目：医枢云 · 需求规格说明书,1,1. 文档说明,视频
+S4 钻石,实训项目：医枢云,154,实训项目：医枢云 · 需求规格说明书,2,2. 项目概述,图文
+S4 钻石,实训项目：医枢云,154,实训项目：医枢云 · 需求规格说明书,3,3. 角色与用户,图文
+S4 钻石,实训项目：医枢云,154,实训项目：医枢云 · 需求规格说明书,4,4. 功能性需求,图文
+S4 钻石,实训项目：医枢云,154,实训项目：医枢云 · 需求规格说明书,5,5. 非功能性需求,图文
+S4 钻石,实训项目：医枢云,154,实训项目：医枢云 · 需求规格说明书,6,6. 系统用例与业务流程,图文
+S4 钻石,实训项目：医枢云,154,实训项目：医枢云 · 需求规格说明书,7,7. 数据需求概述,图文
+S4 钻石,实训项目：医枢云,154,实训项目：医枢云 · 需求规格说明书,8,8. 接口与集成需求,图文
+S4 钻石,实训项目：医枢云,154,实训项目：医枢云 · 需求规格说明书,9,9. 验收标准,图文
+S4 钻石,实训项目：医枢云,155,实训项目：医枢云 · 原型图设计,1,一、本步目标,图文
+S4 钻石,实训项目：医枢云,155,实训项目：医枢云 · 原型图设计,2,二、前置条件,图文
+S4 钻石,实训项目：医枢云,155,实训项目：医枢云 · 原型图设计,3,三、CodeBuddy 操作说明（用哪种模式、怎么开对话）,图文
+S4 钻石,实训项目：医枢云,155,实训项目：医枢云 · 原型图设计,4,四、提示词清单（细粒度、按顺序，每条都能直接复制粘贴）,图文
+S4 钻石,实训项目：医枢云,155,实训项目：医枢云 · 原型图设计,5,五、本步验收,视频
+S4 钻石,实训项目：医枢云,155,实训项目：医枢云 · 原型图设计,6,六、常见坑与排查,图文
+S4 钻石,实训项目：医枢云,156,实训项目：医枢云 · 系统设计,1,一、本步目标,图文
+S4 钻石,实训项目：医枢云,156,实训项目：医枢云 · 系统设计,2,二、前置条件,图文
+S4 钻石,实训项目：医枢云,156,实训项目：医枢云 · 系统设计,3,三、CodeBuddy 操作说明（用哪种模式、怎么开对话）,图文
+S4 钻石,实训项目：医枢云,156,实训项目：医枢云 · 系统设计,4,四、提示词清单（细粒度、按顺序，每条都能直接复制粘贴）,图文
+S4 钻石,实训项目：医枢云,156,实训项目：医枢云 · 系统设计,5,五、本步验收,视频
+S4 钻石,实训项目：医枢云,156,实训项目：医枢云 · 系统设计,6,六、常见坑与排查,图文
+S4 钻石,实训项目：医枢云,157,实训项目：医枢云 · 生成数据库 SQL,1,一、本步目标,图文
+S4 钻石,实训项目：医枢云,157,实训项目：医枢云 · 生成数据库 SQL,2,二、前置条件,图文
+S4 钻石,实训项目：医枢云,157,实训项目：医枢云 · 生成数据库 SQL,3,三、CodeBuddy 操作说明,图文
+S4 钻石,实训项目：医枢云,157,实训项目：医枢云 · 生成数据库 SQL,4,四、提示词清单,图文
+S4 钻石,实训项目：医枢云,157,实训项目：医枢云 · 生成数据库 SQL,5,五、本步验收,图文
+S4 钻石,实训项目：医枢云,157,实训项目：医枢云 · 生成数据库 SQL,6,六、常见坑与排查,图文
+S4 钻石,实训项目：医枢云,158,实训项目：医枢云 · 生成docker-compose,1,一、本步目标,图文
+S4 钻石,实训项目：医枢云,158,实训项目：医枢云 · 生成docker-compose,2,二、前置条件,图文
+S4 钻石,实训项目：医枢云,158,实训项目：医枢云 · 生成docker-compose,3,三、CodeBuddy 操作说明,图文
+S4 钻石,实训项目：医枢云,158,实训项目：医枢云 · 生成docker-compose,4,四、提示词清单,图文
+S4 钻石,实训项目：医枢云,158,实训项目：医枢云 · 生成docker-compose,5,五、本步验收,视频
+S4 钻石,实训项目：医枢云,158,实训项目：医枢云 · 生成docker-compose,6,六、常见坑与排查,图文
+S4 钻石,实训项目：医枢云,159,实训项目：医枢云 · SCA后端项目,1,一、本步目标,图文
+S4 钻石,实训项目：医枢云,159,实训项目：医枢云 · SCA后端项目,2,二、前置条件,图文
+S4 钻石,实训项目：医枢云,159,实训项目：医枢云 · SCA后端项目,3,三、CodeBuddy 操作说明,图文
+S4 钻石,实训项目：医枢云,159,实训项目：医枢云 · SCA后端项目,4,四、提示词清单（细粒度顺序）,图文
+S4 钻石,实训项目：医枢云,159,实训项目：医枢云 · SCA后端项目,5,五、本步验收,图文
+S4 钻石,实训项目：医枢云,159,实训项目：医枢云 · SCA后端项目,6,六、常见坑与排查,视频
+S4 钻石,实训项目：医枢云,160,实训项目：医枢云 · SCA前端项目,1,一、本步目标,图文
+S4 钻石,实训项目：医枢云,160,实训项目：医枢云 · SCA前端项目,2,二、前置条件,图文
+S4 钻石,实训项目：医枢云,160,实训项目：医枢云 · SCA前端项目,3,三、CodeBuddy 操作说明,图文
+S4 钻石,实训项目：医枢云,160,实训项目：医枢云 · SCA前端项目,4,四、提示词清单（细粒度顺序）,图文
+S4 钻石,实训项目：医枢云,160,实训项目：医枢云 · SCA前端项目,5,五、本步验收,视频
+S4 钻石,实训项目：医枢云,160,实训项目：医枢云 · SCA前端项目,6,六、常见坑与排查,图文
+S4 钻石,实训项目：医枢云,161,实训项目：医枢云 · 代码审查,1,一、本步目标,图文
+S4 钻石,实训项目：医枢云,161,实训项目：医枢云 · 代码审查,2,二、前置条件,图文
+S4 钻石,实训项目：医枢云,161,实训项目：医枢云 · 代码审查,3,三、CodeBuddy 操作说明,图文
+S4 钻石,实训项目：医枢云,161,实训项目：医枢云 · 代码审查,4,四、提示词清单（细粒度顺序）,图文
+S4 钻石,实训项目：医枢云,161,实训项目：医枢云 · 代码审查,5,五、本步验收,视频
+S4 钻石,实训项目：医枢云,161,实训项目：医枢云 · 代码审查,6,六、常见坑与排查,图文
+S4 钻石,实训项目：医枢云,162,实训项目：医枢云 · 测试与联调,1,一、本步目标,图文
+S4 钻石,实训项目：医枢云,162,实训项目：医枢云 · 测试与联调,2,二、前置条件,图文
+S4 钻石,实训项目：医枢云,162,实训项目：医枢云 · 测试与联调,3,三、CodeBuddy 操作说明,图文
+S4 钻石,实训项目：医枢云,162,实训项目：医枢云 · 测试与联调,4,四、提示词清单（细粒度顺序）,图文
+S4 钻石,实训项目：医枢云,162,实训项目：医枢云 · 测试与联调,5,五、本步验收,视频
+S4 钻石,实训项目：医枢云,162,实训项目：医枢云 · 测试与联调,6,六、常见坑与排查,图文
+S4 钻石,实训项目：医枢云,163,实训项目：医枢云 · 部署上线,1,一、本步目标,图文
+S4 钻石,实训项目：医枢云,163,实训项目：医枢云 · 部署上线,2,二、前置条件,图文
+S4 钻石,实训项目：医枢云,163,实训项目：医枢云 · 部署上线,3,三、CodeBuddy 操作说明,图文
+S4 钻石,实训项目：医枢云,163,实训项目：医枢云 · 部署上线,4,四、提示词清单（细粒度顺序）,图文
+S4 钻石,实训项目：医枢云,163,实训项目：医枢云 · 部署上线,5,五、本步验收,视频
+S4 钻石,实训项目：医枢云,163,实训项目：医枢云 · 部署上线,6,六、常见坑与排查,图文
+S5 黄金进阶,JVM 虚拟机与性能调优,164,JVM 虚拟机与性能调优 · 第 1 章 JVM 内存结构,1,运行时数据区,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,164,JVM 虚拟机与性能调优 · 第 1 章 JVM 内存结构,2,堆内存分代模型,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,164,JVM 虚拟机与性能调优 · 第 1 章 JVM 内存结构,3,对象创建与内存分配,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,164,JVM 虚拟机与性能调优 · 第 1 章 JVM 内存结构,4,内存溢出,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,164,JVM 虚拟机与性能调优 · 第 1 章 JVM 内存结构,5,作业,图文
+S5 黄金进阶,JVM 虚拟机与性能调优,164,JVM 虚拟机与性能调优 · 第 1 章 JVM 内存结构,6,AI 助学,图文
+S5 黄金进阶,JVM 虚拟机与性能调优,165,JVM 虚拟机与性能调优 · 第 2 章 垃圾回收,1,对象存活判断,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,165,JVM 虚拟机与性能调优 · 第 2 章 垃圾回收,2,GC 算法,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,165,JVM 虚拟机与性能调优 · 第 2 章 垃圾回收,3,垃圾回收器,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,165,JVM 虚拟机与性能调优 · 第 2 章 垃圾回收,4,GC 日志分析,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,165,JVM 虚拟机与性能调优 · 第 2 章 垃圾回收,5,作业,图文
+S5 黄金进阶,JVM 虚拟机与性能调优,165,JVM 虚拟机与性能调优 · 第 2 章 垃圾回收,6,AI 助学,图文
+S5 黄金进阶,JVM 虚拟机与性能调优,166,JVM 虚拟机与性能调优 · 第 3 章 类加载机制,1,类加载过程,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,166,JVM 虚拟机与性能调优 · 第 3 章 类加载机制,2,双亲委派模型,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,166,JVM 虚拟机与性能调优 · 第 3 章 类加载机制,3,打破双亲委派,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,166,JVM 虚拟机与性能调优 · 第 3 章 类加载机制,4,作业,图文
+S5 黄金进阶,JVM 虚拟机与性能调优,166,JVM 虚拟机与性能调优 · 第 3 章 类加载机制,5,AI 助学,图文
+S5 黄金进阶,JVM 虚拟机与性能调优,167,JVM 虚拟机与性能调优 · 第 4 章 性能调优实战,1,JVM 常用参数与推荐配置,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,167,JVM 虚拟机与性能调优 · 第 4 章 性能调优实战,2,排障工具,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,167,JVM 虚拟机与性能调优 · 第 4 章 性能调优实战,3,Arthas 在线诊断,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,167,JVM 虚拟机与性能调优 · 第 4 章 性能调优实战,4,内存泄漏排查实战,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,167,JVM 虚拟机与性能调优 · 第 4 章 性能调优实战,5,线上故障排查 SOP（标准流程）,视频
+S5 黄金进阶,JVM 虚拟机与性能调优,167,JVM 虚拟机与性能调优 · 第 4 章 性能调优实战,6,作业,图文
+S5 黄金进阶,JVM 虚拟机与性能调优,167,JVM 虚拟机与性能调优 · 第 4 章 性能调优实战,7,AI 助学,图文
+S5 黄金进阶,并发编程进阶,168,并发编程进阶 · JUC · 并发基础深入,1,JMM：主内存与工作内存,视频
+S5 黄金进阶,并发编程进阶,168,并发编程进阶 · JUC · 并发基础深入,2,volatile：三大特性,视频
+S5 黄金进阶,并发编程进阶,168,并发编程进阶 · JUC · 并发基础深入,3,happens-before：8 条规则,视频
+S5 黄金进阶,并发编程进阶,168,并发编程进阶 · JUC · 并发基础深入,4,CAS 与 Atomic,视频
+S5 黄金进阶,并发编程进阶,168,并发编程进阶 · JUC · 并发基础深入,5,作业,图文
+S5 黄金进阶,并发编程进阶,168,并发编程进阶 · JUC · 并发基础深入,6,AI 助学,图文
+S5 黄金进阶,并发编程进阶,169,并发编程进阶 · JUC · 锁机制,1,synchronized 锁升级,视频
+S5 黄金进阶,并发编程进阶,169,并发编程进阶 · JUC · 锁机制,2,ReentrantLock 与 AQS,视频
+S5 黄金进阶,并发编程进阶,169,并发编程进阶 · JUC · 锁机制,3,读写锁 ReentrantReadWriteLock,视频
+S5 黄金进阶,并发编程进阶,169,并发编程进阶 · JUC · 锁机制,4,死锁排查,视频
+S5 黄金进阶,并发编程进阶,169,并发编程进阶 · JUC · 锁机制,5,作业,图文
+S5 黄金进阶,并发编程进阶,169,并发编程进阶 · JUC · 锁机制,6,AI 助学,图文
+S5 黄金进阶,并发编程进阶,170,并发编程进阶 · JUC · 并发工具类,1,CountDownLatch / CyclicBarrier / Semaphore,视频
+S5 黄金进阶,并发编程进阶,170,并发编程进阶 · JUC · 并发工具类,2,ConcurrentHashMap,视频
+S5 黄金进阶,并发编程进阶,170,并发编程进阶 · JUC · 并发工具类,3,BlockingQueue,视频
+S5 黄金进阶,并发编程进阶,170,并发编程进阶 · JUC · 并发工具类,4,ThreadLocal,视频
+S5 黄金进阶,并发编程进阶,170,并发编程进阶 · JUC · 并发工具类,5,作业,图文
+S5 黄金进阶,并发编程进阶,170,并发编程进阶 · JUC · 并发工具类,6,AI 助学,图文
+S5 黄金进阶,并发编程进阶,171,并发编程进阶 · JUC · 线程池深入,1,ThreadPoolExecutor 的 7 大参数,视频
+S5 黄金进阶,并发编程进阶,171,并发编程进阶 · JUC · 线程池深入,2,4 种拒绝策略,视频
+S5 黄金进阶,并发编程进阶,171,并发编程进阶 · JUC · 线程池深入,3,线程池大小设定（实战公式）,视频
+S5 黄金进阶,并发编程进阶,171,并发编程进阶 · JUC · 线程池深入,4,CompletableFuture,视频
+S5 黄金进阶,并发编程进阶,171,并发编程进阶 · JUC · 线程池深入,5,ForkJoinPool 与并行流,视频
+S5 黄金进阶,并发编程进阶,171,并发编程进阶 · JUC · 线程池深入,6,作业,图文
+S5 黄金进阶,并发编程进阶,171,并发编程进阶 · JUC · 线程池深入,7,AI 助学,图文
+S5 黄金进阶,设计模式实战篇,172,设计模式实战篇 · 第 1 章 创建型模式,1,单例模式,视频
+S5 黄金进阶,设计模式实战篇,172,设计模式实战篇 · 第 1 章 创建型模式,2,工厂模式,视频
+S5 黄金进阶,设计模式实战篇,172,设计模式实战篇 · 第 1 章 创建型模式,3,建造者模式,视频
+S5 黄金进阶,设计模式实战篇,172,设计模式实战篇 · 第 1 章 创建型模式,4,作业,图文
+S5 黄金进阶,设计模式实战篇,172,设计模式实战篇 · 第 1 章 创建型模式,5,AI助学,图文
+S5 黄金进阶,设计模式实战篇,173,设计模式实战篇 · 第 2 章 结构型模式,1,代理模式,视频
+S5 黄金进阶,设计模式实战篇,173,设计模式实战篇 · 第 2 章 结构型模式,2,适配器模式,视频
+S5 黄金进阶,设计模式实战篇,173,设计模式实战篇 · 第 2 章 结构型模式,3,装饰器模式,视频
+S5 黄金进阶,设计模式实战篇,173,设计模式实战篇 · 第 2 章 结构型模式,4,作业,图文
+S5 黄金进阶,设计模式实战篇,173,设计模式实战篇 · 第 2 章 结构型模式,5,AI 助学,图文
+S5 黄金进阶,设计模式实战篇,174,设计模式实战篇 · 第 3 章 行为型模式,1,策略模式,视频
+S5 黄金进阶,设计模式实战篇,174,设计模式实战篇 · 第 3 章 行为型模式,2,观察者模式,视频
+S5 黄金进阶,设计模式实战篇,174,设计模式实战篇 · 第 3 章 行为型模式,3,模板方法模式,视频
+S5 黄金进阶,设计模式实战篇,174,设计模式实战篇 · 第 3 章 行为型模式,4,责任链模式,视频
+S5 黄金进阶,设计模式实战篇,174,设计模式实战篇 · 第 3 章 行为型模式,5,作业,图文
+S5 黄金进阶,设计模式实战篇,174,设计模式实战篇 · 第 3 章 行为型模式,6,AI 助学,图文
+S5 黄金进阶,单元测试 JUnit 5 + Mockito,175,单元测试 JUnit 5 + Mockito · JUnit 5 基础,1,单元测试的意义,视频
+S5 黄金进阶,单元测试 JUnit 5 + Mockito,175,单元测试 JUnit 5 + Mockito · JUnit 5 基础,2,JUnit 5 常用注解,视频
+S5 黄金进阶,单元测试 JUnit 5 + Mockito,175,单元测试 JUnit 5 + Mockito · JUnit 5 基础,3,断言方法,视频
+S5 黄金进阶,单元测试 JUnit 5 + Mockito,175,单元测试 JUnit 5 + Mockito · JUnit 5 基础,4,参数化测试,视频
+S5 黄金进阶,单元测试 JUnit 5 + Mockito,175,单元测试 JUnit 5 + Mockito · JUnit 5 基础,5,作业,图文
+S5 黄金进阶,单元测试 JUnit 5 + Mockito,175,单元测试 JUnit 5 + Mockito · JUnit 5 基础,6,AI 助学,图文
+S5 黄金进阶,单元测试 JUnit 5 + Mockito,176,单元测试 JUnit 5 + Mockito · Mockito 与 Boot 测试,1,Mock 对象与 Stub,视频
+S5 黄金进阶,单元测试 JUnit 5 + Mockito,176,单元测试 JUnit 5 + Mockito · Mockito 与 Boot 测试,2,@Mock 与 @InjectMocks,视频
+S5 黄金进阶,单元测试 JUnit 5 + Mockito,176,单元测试 JUnit 5 + Mockito · Mockito 与 Boot 测试,3,verify 验证,视频
+S5 黄金进阶,单元测试 JUnit 5 + Mockito,176,单元测试 JUnit 5 + Mockito · Mockito 与 Boot 测试,4,Service 层测试实战：正常 + 异常,视频
+S5 黄金进阶,单元测试 JUnit 5 + Mockito,176,单元测试 JUnit 5 + Mockito · Mockito 与 Boot 测试,5,@SpringBootTest 集成测试,视频
+S5 黄金进阶,单元测试 JUnit 5 + Mockito,176,单元测试 JUnit 5 + Mockito · Mockito 与 Boot 测试,6,测试覆盖率（了解）,视频
+S5 黄金进阶,单元测试 JUnit 5 + Mockito,176,单元测试 JUnit 5 + Mockito · Mockito 与 Boot 测试,7,作业,图文
+S5 黄金进阶,单元测试 JUnit 5 + Mockito,176,单元测试 JUnit 5 + Mockito · Mockito 与 Boot 测试,8,AI 助学,图文
+S5 黄金进阶,数据库设计规范与建模,177,数据库设计规范与建模 · 第 1 章 数据库设计方法论,1,ER 图绘制,视频
+S5 黄金进阶,数据库设计规范与建模,177,数据库设计规范与建模 · 第 1 章 数据库设计方法论,2,三大范式与反范式,视频
+S5 黄金进阶,数据库设计规范与建模,177,数据库设计规范与建模 · 第 1 章 数据库设计方法论,3,表命名与字段设计,视频
+S5 黄金进阶,数据库设计规范与建模,177,数据库设计规范与建模 · 第 1 章 数据库设计方法论,4,作业,图文
+S5 黄金进阶,数据库设计规范与建模,177,数据库设计规范与建模 · 第 1 章 数据库设计方法论,5,AI 助学,图文
+S5 黄金进阶,数据库设计规范与建模,178,数据库设计规范与建模 · 第 2 章 企业级设计规范,1,阿里巴巴开发手册,视频
+S5 黄金进阶,数据库设计规范与建模,178,数据库设计规范与建模 · 第 2 章 企业级设计规范,2,索引设计策略,视频
+S5 黄金进阶,数据库设计规范与建模,178,数据库设计规范与建模 · 第 2 章 企业级设计规范,3,常见设计案例,视频
+S5 黄金进阶,数据库设计规范与建模,178,数据库设计规范与建模 · 第 2 章 企业级设计规范,4,作业,图文
+S5 黄金进阶,数据库设计规范与建模,178,数据库设计规范与建模 · 第 2 章 企业级设计规范,5,AI 助学,图文
+S5 黄金进阶,数据库设计规范与建模,179,数据库设计规范与建模 · 第 3 章 实战项目数据库设计,1,电商系统数据库设计,视频
+S5 黄金进阶,数据库设计规范与建模,179,数据库设计规范与建模 · 第 3 章 实战项目数据库设计,2,权限系统数据库设计,视频
+S5 黄金进阶,数据库设计规范与建模,179,数据库设计规范与建模 · 第 3 章 实战项目数据库设计,3,设计审查清单,视频
+S5 黄金进阶,数据库设计规范与建模,179,数据库设计规范与建模 · 第 3 章 实战项目数据库设计,4,作业,图文
+S5 黄金进阶,数据库设计规范与建模,179,数据库设计规范与建模 · 第 3 章 实战项目数据库设计,5,AI 助学,图文
+S5 黄金进阶,OAuth2 与单点登录,180,OAuth2 与单点登录 · OAuth2 与 SSO,1,OAuth2 基本概念,视频
+S5 黄金进阶,OAuth2 与单点登录,180,OAuth2 与单点登录 · OAuth2 与 SSO,2,Spring Authorization Server 入门：授权码 + PKCE 完整实战,视频
+S5 黄金进阶,OAuth2 与单点登录,180,OAuth2 与单点登录 · OAuth2 与 SSO,3,第三方登录实战：Gitee,视频
+S5 黄金进阶,OAuth2 与单点登录,180,OAuth2 与单点登录 · OAuth2 与 SSO,4,单点登录（SSO）,视频
+S5 黄金进阶,OAuth2 与单点登录,180,OAuth2 与单点登录 · OAuth2 与 SSO,5,作业,图文
+S5 黄金进阶,OAuth2 与单点登录,180,OAuth2 与单点登录 · OAuth2 与 SSO,6,AI 助学,图文
+S5 黄金进阶,Kubernetes 基础,181,Kubernetes 基础 · 第 1 章 K8s 核心概念,1,为什么需要 K8s,视频
+S5 黄金进阶,Kubernetes 基础,181,Kubernetes 基础 · 第 1 章 K8s 核心概念,2,核心资源对象,视频
+S5 黄金进阶,Kubernetes 基础,181,Kubernetes 基础 · 第 1 章 K8s 核心概念,3,作业,图文
+S5 黄金进阶,Kubernetes 基础,181,Kubernetes 基础 · 第 1 章 K8s 核心概念,4,AI 助学,图文
+S5 黄金进阶,Kubernetes 基础,182,Kubernetes 基础 · 第 2 章 kubectl 操作实战,1,环境搭建：minikube 本地集群,视频
+S5 黄金进阶,Kubernetes 基础,182,Kubernetes 基础 · 第 2 章 kubectl 操作实战,2,常用命令,视频
+S5 黄金进阶,Kubernetes 基础,182,Kubernetes 基础 · 第 2 章 kubectl 操作实战,3,YAML 编写规范,视频
+S5 黄金进阶,Kubernetes 基础,182,Kubernetes 基础 · 第 2 章 kubectl 操作实战,4,作业,图文
+S5 黄金进阶,Kubernetes 基础,182,Kubernetes 基础 · 第 2 章 kubectl 操作实战,5,AI 助学,图文
+S5 黄金进阶,Kubernetes 基础,183,Kubernetes 基础 · 第 3 章 Spring Boot 部署到 K8s,1,构建镜像并推送,视频
+S5 黄金进阶,Kubernetes 基础,183,Kubernetes 基础 · 第 3 章 Spring Boot 部署到 K8s,2,编写 Deployment + Service,视频
+S5 黄金进阶,Kubernetes 基础,183,Kubernetes 基础 · 第 3 章 Spring Boot 部署到 K8s,3,滚动更新与回滚,视频
+S5 黄金进阶,Kubernetes 基础,183,Kubernetes 基础 · 第 3 章 Spring Boot 部署到 K8s,4,作业,图文
+S5 黄金进阶,Kubernetes 基础,183,Kubernetes 基础 · 第 3 章 Spring Boot 部署到 K8s,5,AI 助学,图文
+S5 黄金进阶,链路追踪 SkyWalking,184,链路追踪 SkyWalking · 链路追踪基础,1,先读 3 分钟：装 10.0.1 之前必须知道的 6 件事,视频
+S5 黄金进阶,链路追踪 SkyWalking,184,链路追踪 SkyWalking · 链路追踪基础,2,为什么需要链路追踪,图文
+S5 黄金进阶,链路追踪 SkyWalking,184,链路追踪 SkyWalking · 链路追踪基础,3,安装 SkyWalking 10.0.1,图文
+S5 黄金进阶,链路追踪 SkyWalking,184,链路追踪 SkyWalking · 链路追踪基础,4,挂 Agent：让你的服务第一次出现在 UI 上,视频
+S5 黄金进阶,链路追踪 SkyWalking,184,链路追踪 SkyWalking · 链路追踪基础,5,作业,图文
+S5 黄金进阶,链路追踪 SkyWalking,184,链路追踪 SkyWalking · 链路追踪基础,6,AI 助学,图文
+S5 黄金进阶,链路追踪 SkyWalking,185,链路追踪 SkyWalking · SkyWalking 实战,1,三个服务接进来：部署 + Agent + 验收,视频
+S5 黄金进阶,链路追踪 SkyWalking,185,链路追踪 SkyWalking · SkyWalking 实战,2,一次下单请求，走完三个服务：链路 + 日志,视频
+S5 黄金进阶,链路追踪 SkyWalking,185,链路追踪 SkyWalking · SkyWalking 实战,3,排障实战：慢在哪、为什么没数据,视频
+S5 黄金进阶,链路追踪 SkyWalking,185,链路追踪 SkyWalking · SkyWalking 实战,4,作业,图文
+S5 黄金进阶,链路追踪 SkyWalking,185,链路追踪 SkyWalking · SkyWalking 实战,5,AI 助学,图文
+S5 黄金进阶,Spring Cloud Stream,186,Spring Cloud Stream · 第 1 章 Stream 基础,1,Stream 概述,视频
+S5 黄金进阶,Spring Cloud Stream,186,Spring Cloud Stream · 第 1 章 Stream 基础,2,整合 RocketMQ,视频
+S5 黄金进阶,Spring Cloud Stream,186,Spring Cloud Stream · 第 1 章 Stream 基础,3,消息生产与消费,视频
+S5 黄金进阶,Spring Cloud Stream,186,Spring Cloud Stream · 第 1 章 Stream 基础,4,作业,图文
+S5 黄金进阶,Spring Cloud Stream,186,Spring Cloud Stream · 第 1 章 Stream 基础,5,AI 助学,图文
+S5 黄金进阶,Spring Cloud Stream,187,Spring Cloud Stream · 第 2 章 Stream 进阶与实战,1,消息分区与消费组,视频
+S5 黄金进阶,Spring Cloud Stream,187,Spring Cloud Stream · 第 2 章 Stream 进阶与实战,2,实战：订单事件驱动通知,视频
+S5 黄金进阶,Spring Cloud Stream,187,Spring Cloud Stream · 第 2 章 Stream 进阶与实战,3,作业,图文
+S5 黄金进阶,Spring Cloud Stream,187,Spring Cloud Stream · 第 2 章 Stream 进阶与实战,4,助学,图文
+S5 黄金进阶,XXL-JOB 分布式任务调度,188,XXL-JOB 分布式任务调度 · 第 1 章 XXL-JOB 入门,1,定时任务方案对比,视频
+S5 黄金进阶,XXL-JOB 分布式任务调度,188,XXL-JOB 分布式任务调度 · 第 1 章 XXL-JOB 入门,2,调度中心部署,视频
+S5 黄金进阶,XXL-JOB 分布式任务调度,188,XXL-JOB 分布式任务调度 · 第 1 章 XXL-JOB 入门,3,执行器配置,视频
+S5 黄金进阶,XXL-JOB 分布式任务调度,188,XXL-JOB 分布式任务调度 · 第 1 章 XXL-JOB 入门,4,作业,图文
+S5 黄金进阶,XXL-JOB 分布式任务调度,188,XXL-JOB 分布式任务调度 · 第 1 章 XXL-JOB 入门,5,AI 助学,图文
+S5 黄金进阶,XXL-JOB 分布式任务调度,189,XXL-JOB 分布式任务调度 · 第 2 章 任务开发,1,BEAN 模式任务,视频
+S5 黄金进阶,XXL-JOB 分布式任务调度,189,XXL-JOB 分布式任务调度 · 第 2 章 任务开发,2,调度策略与路由策略,视频
+S5 黄金进阶,XXL-JOB 分布式任务调度,189,XXL-JOB 分布式任务调度 · 第 2 章 任务开发,3,分片广播,视频
+S5 黄金进阶,XXL-JOB 分布式任务调度,189,XXL-JOB 分布式任务调度 · 第 2 章 任务开发,4,失败重试与报警,视频
+S5 黄金进阶,XXL-JOB 分布式任务调度,189,XXL-JOB 分布式任务调度 · 第 2 章 任务开发,5,实战,视频
+S5 黄金进阶,XXL-JOB 分布式任务调度,189,XXL-JOB 分布式任务调度 · 第 2 章 任务开发,6,作业,图文
+S5 黄金进阶,XXL-JOB 分布式任务调度,189,XXL-JOB 分布式任务调度 · 第 2 章 任务开发,7,AI 助学,图文
+S5 黄金进阶,WebSocket 实时通信,190,WebSocket 实时通信 · 第 1 章 WebSocket 基础,1,HTTP 轮询 vs WebSocket,视频
+S5 黄金进阶,WebSocket 实时通信,190,WebSocket 实时通信 · 第 1 章 WebSocket 基础,2,WebSocket 协议原理,视频
+S5 黄金进阶,WebSocket 实时通信,190,WebSocket 实时通信 · 第 1 章 WebSocket 基础,3,作业,图文
+S5 黄金进阶,WebSocket 实时通信,190,WebSocket 实时通信 · 第 1 章 WebSocket 基础,4,AI 助学,图文
+S5 黄金进阶,WebSocket 实时通信,191,WebSocket 实时通信 · 第 2 章 Boot 整合 WebSocket,1,原生 WebSocket,视频
+S5 黄金进阶,WebSocket 实时通信,191,WebSocket 实时通信 · 第 2 章 Boot 整合 WebSocket,2,STOMP 协议,视频
+S5 黄金进阶,WebSocket 实时通信,191,WebSocket 实时通信 · 第 2 章 Boot 整合 WebSocket,3,实战：在线聊天室,视频
+S5 黄金进阶,WebSocket 实时通信,191,WebSocket 实时通信 · 第 2 章 Boot 整合 WebSocket,4,实战：消息推送,视频
+S5 黄金进阶,WebSocket 实时通信,191,WebSocket 实时通信 · 第 2 章 Boot 整合 WebSocket,5,作业,图文
+S5 黄金进阶,WebSocket 实时通信,191,WebSocket 实时通信 · 第 2 章 Boot 整合 WebSocket,6,AI 助学,图文
+S5 黄金进阶,支付模块开发,192,支付模块开发 · 第 1 章 支付宝支付,1,开放平台与沙箱,视频
+S5 黄金进阶,支付模块开发,192,支付模块开发 · 第 1 章 支付宝支付,2,支付宝支付 API,视频
+S5 黄金进阶,支付模块开发,192,支付模块开发 · 第 1 章 支付宝支付,3,支付回调与验签,视频
+S5 黄金进阶,支付模块开发,192,支付模块开发 · 第 1 章 支付宝支付,4,作业,图文
+S5 黄金进阶,支付模块开发,192,支付模块开发 · 第 1 章 支付宝支付,5,AI 助学,图文
+S5 黄金进阶,支付模块开发,193,支付模块开发 · 第 2 章 微信支付,1,微信支付接入,视频
+S5 黄金进阶,支付模块开发,193,支付模块开发 · 第 2 章 微信支付,2,微信支付回调,视频
+S5 黄金进阶,支付模块开发,193,支付模块开发 · 第 2 章 微信支付,3,作业,图文
+S5 黄金进阶,支付模块开发,193,支付模块开发 · 第 2 章 微信支付,4,AI 助学,图文
+S5 黄金进阶,支付模块开发,194,支付模块开发 · 第 3 章 订单状态机与退款,1,3\.1 订单状态机,视频
+S5 黄金进阶,支付模块开发,194,支付模块开发 · 第 3 章 订单状态机与退款,2,3\.2 退款流程,视频
+S5 黄金进阶,支付模块开发,194,支付模块开发 · 第 3 章 订单状态机与退款,3,3\.3 作业,图文
+S5 黄金进阶,支付模块开发,194,支付模块开发 · 第 3 章 订单状态机与退款,4,3\.4 AI 助学,图文
+S5 黄金进阶,Spring 源码精讲,195,Spring 源码精讲 · Spring IoC 核心源码,1,BeanFactory vs ApplicationContext 体系,视频
+S5 黄金进阶,Spring 源码精讲,195,Spring 源码精讲 · Spring IoC 核心源码,2,Bean 实例化完整流程,视频
+S5 黄金进阶,Spring 源码精讲,195,Spring 源码精讲 · Spring IoC 核心源码,3,循环依赖与三级缓存,视频
+S5 黄金进阶,Spring 源码精讲,195,Spring 源码精讲 · Spring IoC 核心源码,4,实战：阅读 DefaultListableBeanFactory 核心方法,视频
+S5 黄金进阶,Spring 源码精讲,195,Spring 源码精讲 · Spring IoC 核心源码,5,课后练习,图文
+S5 黄金进阶,Spring 源码精讲,195,Spring 源码精讲 · Spring IoC 核心源码,6,AI 助学（王者阶段 · AI 95%）,图文
+S5 黄金进阶,Spring 源码精讲,196,Spring 源码精讲 · Spring AOP 源码,1,动态代理：JDK vs CGLIB,视频
+S5 黄金进阶,Spring 源码精讲,196,Spring 源码精讲 · Spring AOP 源码,2,AOP 在 IoC 中的执行时机,视频
+S5 黄金进阶,Spring 源码精讲,196,Spring 源码精讲 · Spring AOP 源码,3,切面织入过程,视频
+S5 黄金进阶,Spring 源码精讲,196,Spring 源码精讲 · Spring AOP 源码,4,课后练习,图文
+S5 黄金进阶,Spring 源码精讲,196,Spring 源码精讲 · Spring AOP 源码,5,AI 助学（王者阶段 · AI 95%）,图文
+S5 黄金进阶,Spring 源码精讲,197,Spring 源码精讲 · Spring MVC + Security 源码,1,DispatcherServlet 请求处理流程,视频
+S5 黄金进阶,Spring 源码精讲,197,Spring 源码精讲 · Spring MVC + Security 源码,2,Security 过滤器链工作机制,视频
+S5 黄金进阶,Spring 源码精讲,197,Spring 源码精讲 · Spring MVC + Security 源码,3,自定义 Filter 在 Security 链中的位置,视频
+S5 黄金进阶,Spring 源码精讲,197,Spring 源码精讲 · Spring MVC + Security 源码,4,课后练习,图文
+S5 黄金进阶,Spring 源码精讲,197,Spring 源码精讲 · Spring MVC + Security 源码,5,AI 助学（王者阶段 · AI 95%）,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10003,课程导览与环境准备,1,课程地图与学习方法,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10003,课程导览与环境准备,2,在浏览器里跑通你的第一行 Python,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10003,课程导览与环境准备,3,申请国产大模型 API，跑通第一次对话,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10004,走进生成式 AI 与大模型,1,什么是生成式 AI：AI / 机器学习 / 大模型的关系,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10004,走进生成式 AI 与大模型,2,“预测下一个词”：大模型到底在做什么,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10004,走进生成式 AI 与大模型,3,token、上下文窗口与 temperature,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10004,走进生成式 AI 与大模型,4,大模型的能力边界与幻觉,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10005,选择与对比大模型,1,大模型怎么分类,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10005,选择与对比大模型,2,国产 vs 国际主流模型对比,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10005,选择与对比大模型,3,按场景选型：成本、速度与能力,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10006,负责任地使用 AI,1,幻觉与事实核查的责任,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10006,负责任地使用 AI,2,隐私与数据安全,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10006,负责任地使用 AI,3,偏见、版权与学术诚信,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10007,Python 编程基础（上）：变量、类型与流程控制,1,变量与数据类型：给数据起名字,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10007,Python 编程基础（上）：变量、类型与流程控制,2,条件判断：教程序做选择,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10007,Python 编程基础（上）：变量、类型与流程控制,3,循环：让程序重复干活,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10008,Python 编程基础（下）：列表、字典与函数,1,"""列表：把数据排成一队""",图文
+S6 Agent 工程师,「Agent 工程师」原课程,10008,Python 编程基础（下）：列表、字典与函数,2,"""字典：给数据贴标签""",图文
+S6 Agent 工程师,「Agent 工程师」原课程,10008,Python 编程基础（下）：列表、字典与函数,3,"""函数：把代码打包复用""",图文
+S6 Agent 工程师,「Agent 工程师」原课程,10009,Prompt 工程基础,1,什么是 Prompt，为什么它决定成败,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10009,Prompt 工程基础,2,角色设定与清晰指令,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10009,Prompt 工程基础,3,提供上下文与示例,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10009,Prompt 工程基础,4,新手常见的 5 个 Prompt 误区,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10010,进阶 Prompt 技巧,1,few-shot：给几个例子让模型照着学,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10010,进阶 Prompt 技巧,2,思维链：让模型一步步想,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10010,进阶 Prompt 技巧,3,控制输出格式（JSON / 表格）,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10010,进阶 Prompt 技巧,4,Prompt 注入与防护意识,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10011,做一个文本生成应用,1,需求与设计：做一个学习笔记助手,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10011,做一个文本生成应用,2,调用模型生成与参数调优,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10011,做一个文本生成应用,3,完整小项目：学习笔记助手,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10012,做一个聊天应用,1,多轮对话与对话历史,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10012,做一个聊天应用,2,给机器人一个人设（system）,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10012,做一个聊天应用,3,流式输出：打字机效果,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10012,做一个聊天应用,4,完整小项目：课程答疑机器人,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10013,向量、Embedding 与语义搜索,1,向量与语义距离的直觉,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10013,向量、Embedding 与语义搜索,2,用 embed() 把文字变成向量,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10013,向量、Embedding 与语义搜索,3,完整小项目：语义搜索,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10014,AI 图像生成,1,文生图的直觉与提示词,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10014,AI 图像生成,2,完整小项目：海报 / 头像生成,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10015,低代码搭建 AI 应用,1,认识 Coze（扣子）与 Dify,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10015,低代码搭建 AI 应用,2,不写代码搭一个客服 Bot,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10016,让模型用工具：Function Calling,1,模型为什么需要工具,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10016,让模型用工具：Function Calling,2,定义一个工具（schema）,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10016,让模型用工具：Function Calling,3,完整调用回合：从请求到执行,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10016,让模型用工具：Function Calling,4,完整小项目：查课表 / 学分助手,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10017,AI 应用的体验与安全,1,AI 产品的交互原则与不确定性处理,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10017,AI 应用的体验与安全,2,AI 应用的威胁与基础防护,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10017,AI 应用的体验与安全,3,从 demo 到上线：评测与监控简介,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10018,RAG：给模型外接知识库,1,为什么需要 RAG,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10018,RAG：给模型外接知识库,2,文档切分（chunking）,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10018,RAG：给模型外接知识库,3,检索 + 拼进 Prompt,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10018,RAG：给模型外接知识库,4,溯源与 RAG 的局限,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10018,RAG：给模型外接知识库,5,完整小项目：学生手册问答,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10019,开源模型与本地部署,1,开源 vs 闭源模型,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10019,开源模型与本地部署,2,魔搭 ModelScope 上手,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10019,开源模型与本地部署,3,跑一个开源模型,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10019,开源模型与本地部署,4,端侧小模型 SLM:在手机 / 电脑上跑的小模型(了解),图文
+S6 Agent 工程师,「Agent 工程师」原课程,10020,走进 AI Agent,1,从应用到会做事的 Agent:感知-规划-行动-记忆,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10020,走进 AI Agent,2,动手做一个最简 Agent 与典型应用场景,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10021,Agent 框架与生态,1,主流 Agent 框架概览与选型,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10021,Agent 框架与生态,2,国产与开源 Agent 生态,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10022,Agent 设计模式总览,1,为什么需要设计模式:五大核心模式地图,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10023,工具调用进阶 Tool Use,1,给 Agent 接入多个工具,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10023,工具调用进阶 Tool Use,2,小项目：会查信息+算数的工具型 Agent,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10024,规划模式 Planning,1,ReAct:让 Agent 边想边做,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10024,规划模式 Planning,2,Plan-Execute:先规划再执行,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10024,规划模式 Planning,3,小项目:多步任务规划 Agent,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10025,反思与元认知 Metacognition,1,让 Agent 检查自己的答案,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10025,反思与元认知 Metacognition,2,自我改进与重试策略,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10026,多智能体协作 Multi-Agent,1,为什么要多个 Agent:角色分工与消息传递,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10026,多智能体协作 Multi-Agent,2,小项目:写手+评审双 Agent,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10027,记忆管理 Memory,1,短期记忆与长期记忆,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10027,记忆管理 Memory,2,用向量库做长期记忆,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10028,上下文工程 Context Engineering,1,上下文为什么是 Agent 的命脉,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10028,上下文工程 Context Engineering,2,压缩、筛选与组织上下文,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10029,Agentic RAG,1,让 Agent 自己决定何时检索,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10029,Agentic RAG,2,小项目:带知识库的研究助手,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10030,vibecoding:人机协作编程,1,vibecoding 范式:用 AI 从需求到可运行项目,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10030,vibecoding:人机协作编程,2,上下文管理:让 AI 写出好代码,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10031,从 0 到 1 做一个 Code Agent,1,code agent 架构总览,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10031,从 0 到 1 做一个 Code Agent,2,工具实现:文件 / Bash / 搜索,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10031,从 0 到 1 做一个 Code Agent,3,任务规划与上下文压缩,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10031,从 0 到 1 做一个 Code Agent,4,小项目:实现一个简版 Claude Code,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10032,Agent Skills 研发,1,什么是 Skill:协议解读,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10032,Agent Skills 研发,2,Skill 结构：frontmatter + body + assets,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10032,Agent Skills 研发,3,编写并测试你的第一个 Skill,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10033,智能体协议:MCP / A2A / NLWeb,1,MCP 总览:server / client / 通信,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10033,智能体协议:MCP / A2A / NLWeb,2,实现一个 MCP server,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10033,智能体协议:MCP / A2A / NLWeb,3,接入 MCP 与 A2A / NLWeb 简介,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10034,大模型微调实战,1,三者怎么选,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10034,大模型微调实战,2,数据准备与 LoRA / QLoRA,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10034,大模型微调实战,3,微调数据集构建与清洗实战,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10034,大模型微调实战,4,参数高效微调实战:跑通你的第一次 LoRA 训练,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10034,大模型微调实战,5,训练监控、评估、量化与部署,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10034,大模型微调实战,6,常见问题优化与业务定制方案,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10035,大模型强化学习 RLHF 实战,1,RLHF 原理:人类反馈,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10035,大模型强化学习 RLHF 实战,2,PPO / DPO 与对齐安全,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10035,大模型强化学习 RLHF 实战,3,奖励模型训练实战,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10035,大模型强化学习 RLHF 实战,4,PPO 训练全流程实战,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10035,大模型强化学习 RLHF 实战,5,效果评估、RLAIF 与行业高阶应用,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10036,Agentic RL 与自我进化实战,1,Agent 行为的强化学习,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10036,Agentic RL 与自我进化实战,2,self-play 与自我进化,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10036,Agentic RL 与自我进化实战,3,智能体环境交互机制:把任务变成可训练的环境,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10036,Agentic RL 与自我进化实战,4,多智能体协同学习,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10036,Agentic RL 与自我进化实战,5,前沿案例拆解与综合实战,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10037,可信、上线与 Computer Use,1,可信赖的 Agent 与上线、监控、规模化,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10037,可信、上线与 Computer Use,2,Computer Use Agent:会操作界面的 Agent,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10037,可信、上线与 Computer Use,3,本地 / 离线 Agent(了解),图文
+S6 Agent 工程师,「Agent 工程师」原课程,10038,综合项目:你的专属校园 AI Agent,1,需求拆解与方案设计,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10038,综合项目:你的专属校园 AI Agent,2,整合：对话 + 工具 + RAG,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10038,综合项目:你的专属校园 AI Agent,3,升级为会规划、会用工具的 Agent,图文
+S6 Agent 工程师,「Agent 工程师」原课程,10038,综合项目:你的专属校园 AI Agent,4,答辩、互评与课程总结,图文

@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>昕征途课程内容结构化分析看板</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;
+background:#F6F7F9;color:#1F2328;line-height:1.7;font-size:14px;padding:32px 20px 64px}
+.wrap{max-width:1080px;margin:0 auto}
+.hd{margin-bottom:28px}
+.hd h1{font-size:25px;font-weight:600;letter-spacing:-.3px}
+.hd .sub{color:#656D76;font-size:13px;margin-top:8px}
+.hd .src{display:inline-block;margin-top:12px;background:#EAEEF2;color:#57606A;border-radius:6px;
+padding:5px 10px;font-size:12px}
+.sec{margin-top:36px}
+.sec>h2{font-size:17px;font-weight:600;padding-bottom:10px;border-bottom:2px solid #1F2328;
+display:flex;align-items:center;gap:9px}
+.sec>h2 .idx{background:#1F2328;color:#fff;width:22px;height:22px;border-radius:6px;
+display:inline-flex;align-items:center;justify-content:center;font-size:12px}
+.sec .lead{color:#57606A;font-size:13px;margin:12px 0 16px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(146px,1fr));gap:12px}
+.card{background:#fff;border:1px solid #D8DEE4;border-radius:12px;padding:16px}
+.card .k{font-size:12px;color:#656D76}
+.card .v{font-size:26px;font-weight:600;letter-spacing:-.5px;margin-top:5px}
+.card .u{font-size:12px;color:#8C959F;font-weight:400;margin-left:3px}
+table{width:100%;border-collapse:collapse;background:#fff;border:1px solid #D8DEE4;
+border-radius:12px;overflow:hidden;font-size:13px}
+th{background:#F0F2F4;text-align:left;padding:10px 12px;font-weight:600;font-size:12.5px;
+color:#424A53;white-space:nowrap}
+td{padding:10px 12px;border-top:1px solid #E6EAED;vertical-align:top}
+td.n{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+td.small{font-size:12px;color:#57606A}
+tr:hover td{background:#FAFBFC}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:7px;
+vertical-align:middle;position:relative;top:-1px}
+.muted{color:#8C959F}
+.modgrp{background:#fff;border:1px solid #D8DEE4;border-radius:12px;
+padding:14px 16px 6px;margin-bottom:12px}
+.modgrp-h{font-weight:600;font-size:13.5px;padding-bottom:10px;border-bottom:1px dashed #E6EAED;
+margin-bottom:6px}
+.modrow{display:grid;grid-template-columns:1fr 190px 118px;gap:12px;align-items:center;
+padding:5px 0;font-size:12.5px}
+.modname{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#32383F}
+.barwrap{background:#EEF1F4;border-radius:4px;height:9px;overflow:hidden}
+.bar{height:100%;border-radius:4px}
+.modnum{text-align:right;color:#8C959F;font-variant-numeric:tabular-nums;font-size:11.5px;white-space:nowrap}
+.tag{display:inline-block;font-size:10.5px;padding:1px 6px;border-radius:4px;margin-left:7px;
+vertical-align:middle;font-weight:500}
+.tag-proj{background:#FFF3D6;color:#8A6100;border:1px solid #F0D48A}
+.issue{background:#fff;border:1px solid #D8DEE4;border-left-width:3px;border-radius:10px;
+padding:14px 16px;margin-bottom:11px}
+.issue-high{border-left-color:#CF222E}
+.issue-mid{border-left-color:#D4A017}
+.issue-h{font-weight:600;font-size:14px;display:flex;align-items:center;gap:9px}
+.issue-no{background:#CF222E;color:#fff;width:19px;height:19px;border-radius:5px;font-size:11.5px;
+display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto}
+.issue-mid .issue-no{background:#D4A017}
+.issue-body{margin-top:9px;font-size:13px;color:#32383F}
+.issue-impact{margin-top:9px;font-size:12.5px;color:#57606A;background:#F6F7F9;
+border-radius:7px;padding:8px 11px}
+.issue-impact .lbl{display:inline-block;background:#1F2328;color:#fff;font-size:10.5px;
+padding:1px 6px;border-radius:4px;margin-right:8px;vertical-align:middle}
+.duo{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.panel{background:#fff;border:1px solid #D8DEE4;border-radius:12px;padding:16px}
+.panel h3{font-size:13.5px;font-weight:600;margin-bottom:10px}
+.panel.good{border-top:3px solid #1A7F37}
+.panel.bad{border-top:3px solid #CF222E}
+.panel ul{list-style:none;font-size:12.5px}
+.panel li{padding:5px 0 5px 17px;position:relative;color:#32383F}
+.panel li:before{content:"";position:absolute;left:3px;top:13px;width:5px;height:5px;
+border-radius:50%;background:#B4B8BD}
+.panel.bad li:before{background:#CF222E}
+.panel.good li:before{background:#1A7F37}
+.typebar{display:flex;height:34px;border-radius:8px;overflow:hidden;border:1px solid #D8DEE4}
+.typebar div{display:flex;align-items:center;justify-content:center;color:#fff;font-size:12px;
+font-weight:500}
+.note{font-size:12px;color:#656D76;background:#fff;border:1px solid #D8DEE4;border-radius:10px;
+padding:14px 16px}
+.note b{color:#32383F}
+@media print{body{background:#fff;padding:0}.sec{break-inside:avoid}}
+@media (max-width:760px){.duo{grid-template-columns:1fr}
+.modrow{grid-template-columns:1fr;gap:5px}.modnum{text-align:left}}
+</style></head><body><div class="wrap">
+
+<div class="hd">
+<h1>昕征途 · AI 全栈开发工程师（java-camp）课程内容结构化分析</h1>
+<div class="sub">面向市场与线下学习服务的内容底座盘点 —— 段位 / 模块 / 章节 / 课时 四层拆解</div>
+<div class="src">数据源：xinzhengtuai.com 公开接口（/api/courses、/api/courses/java-camp、/api/learning-paths）· 快照 2026-10-15</div>
+</div>
+
+<div class="sec">
+<h2><span class="idx">1</span>内容体量总账</h2>
+<div class="cards">
+<div class="card"><div class="k">段位（Level）</div><div class="v">6<span class="u">个</span></div></div>
+<div class="card"><div class="k">章节</div><div class="v">233<span class="u">章</span></div></div>
+<div class="card"><div class="k">课时</div><div class="v">1357<span class="u">课时</span></div></div>
+<div class="card"><div class="k">知识模块</div><div class="v">42<span class="u">个</span></div></div>
+<div class="card"><div class="k">实训项目</div><div class="v">4<span class="u">个</span></div></div>
+<div class="card"><div class="k">总学时</div><div class="v">843<span class="u">（含 S2 推算）</span></div></div>
+</div>
+<div class="lead" style="margin-top:16px">文档口径：<b>1357 课时 = 786 视频 + 571 图文</b>，平均每章 5.8 课时。
+系统已标注学时合计 709（S2 缺失），补上推算的 134 后为 <b>843 学时</b>；按每天 2 学时折算约 <b>421 天 / 60 周</b>。
+课程商城价 <b>¥17,998</b>，状态 published，平台累计学员 <b>472</b> 人。</div>
+
+<div class="typebar" style="margin-top:16px">
+<div style="width:57.9%;background:#1F6FEB">视频课时 786 · 57.9%</div>
+<div style="width:42.1%;background:#8B5CF6">图文课时 571 · 42.1%</div>
+</div>
+</div>
+
+<div class="sec">
+<h2><span class="idx">2</span>必须先处理的口径矛盾（8 项）</h2>
+<div class="lead">以下问题全部来自公开数据的直接比对，不需要等任何内部数据。第 1、2、3 项属对外承诺与实际交付不一致，建议优先修正。</div>
+<div class="issue issue-high">
+<div class="issue-h"><span class="issue-no">1</span>同名模块跨越两个段位重复出现</div>
+<div class="issue-body">模块名「<b>AI 全流程开发实战</b>」在 S3 与 S4 各出现一次：S3 是单体版（5 章 / 25 课时），S4 是微服务版（5 章 / 24 课时）。两者名称完全相同、内容不同。</div>
+<div class="issue-impact"><span class="lbl">影响</span>教务与学员都无法从名称区分两个模块；若按模块名做统计或建索引会直接合并成一条，导致课时数虚高、进度计算错位。建议改名为「AI 全流程开发实战（单体）」与「（微服务）」。</div></div><div class="issue issue-high">
+<div class="issue-h"><span class="issue-no">2</span>段位数量与宣传口径不符</div>
+<div class="issue-body">课程主描述写「青铜到王者<b>五大段位</b>」，但只列了 4 个（青铜 188 / 白银 134 / 黄金 191 / 钻石 222）；系统 learning-paths 实际有 <b>6 个 Level</b>。多出的 S5「黄金进阶」（108 学时）与 S6「Agent 开发工程师」（26 学时）在课程宣传文案里完全没有出现。</div>
+<div class="issue-impact"><span class="lbl">影响</span>宣传页与课程页的段位数、名称、学时三处口径不一致，学员按宣传页理解会漏掉 134 学时内容。</div></div><div class="issue issue-high">
+<div class="issue-h"><span class="issue-no">3</span>青铜段位学时对不上</div>
+<div class="issue-body">宣传口径：青铜 <b>188</b> 学时；系统 learning-paths：S1 estimatedHours = <b>162</b>。差 <b>26 学时</b>。</div>
+<div class="issue-impact"><span class="lbl">影响</span>对外承诺的学习量与实际交付差 14%，属可被追责的口径差。</div></div><div class="issue issue-high">
+<div class="issue-h"><span class="issue-no">4</span>白银段位学时字段为空</div>
+<div class="issue-body">S2 的 estimatedHours = <b>null</b>。但宣传口径写「白银 134 学时」，且按其 208 课时占 S1 的 253 课时比例推算 ≈ <b>133 学时</b>，与宣传吻合。</div>
+<div class="issue-impact"><span class="lbl">影响</span>判断为<b>字段漏填</b>而非内容缺失。前端若按学时排序/展示会出空值。需补数据，不是补内容。</div></div><div class="issue issue-high">
+<div class="issue-h"><span class="issue-no">5</span>S5 段位命名断裂</div>
+<div class="issue-body">宣传说「到王者」，但 S5 的系统描述写的是「<b>黄金进阶</b>」——「黄金」段位名被重复使用，王者段位名未落地。</div>
+<div class="issue-impact"><span class="lbl">影响</span>段位体系没有闭环，进度激励（青铜→王者）的最后一环缺少明确命名与标识。</div></div><div class="issue issue-mid">
+<div class="issue-h"><span class="issue-no">6</span>S2 排序字段异常</div>
+<div class="issue-body">6 个 Level 的 order 分别是 1 / <b>0</b> / 3 / 4 / 5 / 6，只有 S2 是 0。</div>
+<div class="issue-impact"><span class="lbl">影响</span>疑似录入错误，可能导致学习路径在页面上排序错乱，S2 掉到最前或最后。</div></div><div class="issue issue-mid">
+<div class="issue-h"><span class="issue-no">7</span>S6 内容与另一门课重复挂载</div>
+<div class="issue-body">S6 的章节 order 从 197 跳到 <b>10003-10038</b>，内容是商城里的独立课程「AI Agent全栈应用」(genai-app-v2)。该课程在商城 status = <b>draft</b>（未上线），但内容已挂在 java-camp 里作为 S6 交付。</div>
+<div class="issue-impact"><span class="lbl">影响</span>同一套 112 课时内容在两个课程下各挂一份，且源课程未上线。存在维护双份与权限口径混乱风险。</div></div><div class="issue issue-mid">
+<div class="issue-h"><span class="issue-no">8</span>S5 / S6 没有实训项目</div>
+<div class="issue-body">S1-S4 各有一个实训项目（奶茶物语 42 课时 / 社团报名通 51 / 智学云 103 / 医枢云 63），S5 与 S6 的 <b>0 个</b>。</div>
+<div class="issue-impact"><span class="lbl">影响</span>课程承诺「学完即拥有可上线的项目作品集」，但作品集只到 S4 就断了。S5+S6 共 134 学时（16% 的课程量）没有产出物。</div></div>
+</div>
+
+<div class="sec">
+<h2><span class="idx">3</span>段位全景</h2>
+<div class="lead">6 个 Level 的体量、构成与实训产出。注意 S5 的「模块最多、课时最少」与 S5/S6 的项目缺位。</div>
+<table><thead><tr>
+<th>段位</th><th>章序</th><th>章数</th><th>课时</th><th>视频</th><th>图文</th><th>模块</th>
+<th>系统学时</th><th>天数<br>(2学时/天)</th><th>实训项目</th></tr></thead><tbody>
+<tr>
+<td><span class="dot" style="background:#B08D57"></span><b>S1 青铜</b></td>
+<td class="n">1-38</td><td class="n">38</td><td class="n">253</td>
+<td class="n">169</td><td class="n">84</td><td class="n">6</td>
+<td class="n">162</td><td class="n">81.0</td>
+<td class="small">奶茶物语（42 课时）</td></tr><tr>
+<td><span class="dot" style="background:#8B949E"></span><b>S2 白银</b></td>
+<td class="n">39-66</td><td class="n">28</td><td class="n">208</td>
+<td class="n">158</td><td class="n">50</td><td class="n">6</td>
+<td class="n">缺失</td><td class="n">—</td>
+<td class="small">社团报名通（51 课时）</td></tr><tr>
+<td><span class="dot" style="background:#C99700"></span><b>S3 黄金</b></td>
+<td class="n">67-119</td><td class="n">53</td><td class="n">339</td>
+<td class="n">198</td><td class="n">141</td><td class="n">8</td>
+<td class="n">191</td><td class="n">95.5</td>
+<td class="small">智学云（103 课时）</td></tr><tr>
+<td><span class="dot" style="background:#3B82F6"></span><b>S4 钻石</b></td>
+<td class="n">120-163</td><td class="n">44</td><td class="n">260</td>
+<td class="n">146</td><td class="n">114</td><td class="n">8</td>
+<td class="n">222</td><td class="n">111.0</td>
+<td class="small">医枢云（63 课时）</td></tr><tr>
+<td><span class="dot" style="background:#8B5CF6"></span><b>S5 黄金进阶</b></td>
+<td class="n">164-197</td><td class="n">34</td><td class="n">185</td>
+<td class="n">115</td><td class="n">70</td><td class="n">13</td>
+<td class="n">108</td><td class="n">54.0</td>
+<td class="small">无</td></tr><tr>
+<td><span class="dot" style="background:#059669"></span><b>S6 Agent 工程师</b></td>
+<td class="n">10003-10038</td><td class="n">36</td><td class="n">112</td>
+<td class="n">0</td><td class="n">112</td><td class="n">1</td>
+<td class="n">26</td><td class="n">13.0</td>
+<td class="small">无</td></tr>
+</tbody></table>
+</div>
+
+<div class="sec">
+<h2><span class="idx">4</span>42 个知识模块分布</h2>
+<div class="lead">按段位分组，条形长度 = 课时数。这张图就是线下排课的原材料 —— 模块边界越清晰，越容易切成周单元。</div>
+<div class="modgrp"><div class="modgrp-h"><span class="dot" style="background:#B08D57"></span>S1 青铜<span class="muted small"> · 38 章 / 253 课时 / 162 学时</span></div><div class="modrow"><div class="modname">HTML + CSS 网页开发</div>
+<div class="barwrap"><div class="bar" style="width:32.1%;background:#B08D57"></div></div>
+<div class="modnum">6 章 · 36 课时</div></div><div class="modrow"><div class="modname">Git 版本控制</div>
+<div class="barwrap"><div class="bar" style="width:14.3%;background:#B08D57"></div></div>
+<div class="modnum">3 章 · 16 课时</div></div><div class="modrow"><div class="modname">Java 核心技术</div>
+<div class="barwrap"><div class="bar" style="width:65.2%;background:#B08D57"></div></div>
+<div class="modnum">9 章 · 73 课时</div></div><div class="modrow"><div class="modname">Java 高级编程技术</div>
+<div class="barwrap"><div class="bar" style="width:42.0%;background:#B08D57"></div></div>
+<div class="modnum">8 章 · 47 课时</div></div><div class="modrow"><div class="modname">MySQL 数据库与 JDBC 编程</div>
+<div class="barwrap"><div class="bar" style="width:34.8%;background:#B08D57"></div></div>
+<div class="modnum">7 章 · 39 课时</div></div><div class="modrow"><div class="modname">实训项目：奶茶物语<span class="tag tag-proj">实训</span></div>
+<div class="barwrap"><div class="bar" style="width:37.5%;background:#B08D57"></div></div>
+<div class="modnum">5 章 · 42 课时</div></div></div><div class="modgrp"><div class="modgrp-h"><span class="dot" style="background:#8B949E"></span>S2 白银<span class="muted small"> · 28 章 / 208 课时 / 缺失 学时</span></div><div class="modrow"><div class="modname">Maven 项目构建</div>
+<div class="barwrap"><div class="bar" style="width:10.7%;background:#8B949E"></div></div>
+<div class="modnum">2 章 · 12 课时</div></div><div class="modrow"><div class="modname">JavaWeb 核心技术</div>
+<div class="barwrap"><div class="bar" style="width:27.7%;background:#8B949E"></div></div>
+<div class="modnum">5 章 · 31 课时</div></div><div class="modrow"><div class="modname">JavaScript 与 TypeScript</div>
+<div class="barwrap"><div class="bar" style="width:47.3%;background:#8B949E"></div></div>
+<div class="modnum">7 章 · 53 课时</div></div><div class="modrow"><div class="modname">Vue3 前端框架</div>
+<div class="barwrap"><div class="bar" style="width:33.0%;background:#8B949E"></div></div>
+<div class="modnum">5 章 · 37 课时</div></div><div class="modrow"><div class="modname">AI 辅助开发实战</div>
+<div class="barwrap"><div class="bar" style="width:21.4%;background:#8B949E"></div></div>
+<div class="modnum">4 章 · 24 课时</div></div><div class="modrow"><div class="modname">实训项目：社团报名通<span class="tag tag-proj">实训</span></div>
+<div class="barwrap"><div class="bar" style="width:45.5%;background:#8B949E"></div></div>
+<div class="modnum">5 章 · 51 课时</div></div></div><div class="modgrp"><div class="modgrp-h"><span class="dot" style="background:#C99700"></span>S3 黄金<span class="muted small"> · 53 章 / 339 课时 / 191 学时</span></div><div class="modrow"><div class="modname">SSM 框架</div>
+<div class="barwrap"><div class="bar" style="width:38.4%;background:#C99700"></div></div>
+<div class="modnum">6 章 · 43 课时</div></div><div class="modrow"><div class="modname">SSM 项目实训</div>
+<div class="barwrap"><div class="bar" style="width:33.9%;background:#C99700"></div></div>
+<div class="modnum">5 章 · 38 课时</div></div><div class="modrow"><div class="modname">Spring Boot 现代化开发</div>
+<div class="barwrap"><div class="bar" style="width:53.6%;background:#C99700"></div></div>
+<div class="modnum">7 章 · 60 课时</div></div><div class="modrow"><div class="modname">MyBatis-Plus</div>
+<div class="barwrap"><div class="bar" style="width:17.9%;background:#C99700"></div></div>
+<div class="modnum">3 章 · 20 课时</div></div><div class="modrow"><div class="modname">MySQL 进阶</div>
+<div class="barwrap"><div class="bar" style="width:20.5%;background:#C99700"></div></div>
+<div class="modnum">4 章 · 23 课时</div></div><div class="modrow"><div class="modname">Spring Security 认证授权</div>
+<div class="barwrap"><div class="bar" style="width:24.1%;background:#C99700"></div></div>
+<div class="modnum">4 章 · 27 课时</div></div><div class="modrow"><div class="modname">AI 全流程开发实战</div>
+<div class="barwrap"><div class="bar" style="width:22.3%;background:#C99700"></div></div>
+<div class="modnum">5 章 · 25 课时</div></div><div class="modrow"><div class="modname">实训项目：智学云<span class="tag tag-proj">实训</span></div>
+<div class="barwrap"><div class="bar" style="width:92.0%;background:#C99700"></div></div>
+<div class="modnum">19 章 · 103 课时</div></div></div><div class="modgrp"><div class="modgrp-h"><span class="dot" style="background:#3B82F6"></span>S4 钻石<span class="muted small"> · 44 章 / 260 课时 / 222 学时</span></div><div class="modrow"><div class="modname">微服务架构导论</div>
+<div class="barwrap"><div class="bar" style="width:9.8%;background:#3B82F6"></div></div>
+<div class="modnum">2 章 · 11 课时</div></div><div class="modrow"><div class="modname">Linux 操作系统</div>
+<div class="barwrap"><div class="bar" style="width:14.3%;background:#3B82F6"></div></div>
+<div class="modnum">3 章 · 16 课时</div></div><div class="modrow"><div class="modname">Docker 容器技术与 CICD</div>
+<div class="barwrap"><div class="bar" style="width:15.2%;background:#3B82F6"></div></div>
+<div class="modnum">4 章 · 17 课时</div></div><div class="modrow"><div class="modname">缓存与消息中间件</div>
+<div class="barwrap"><div class="bar" style="width:35.7%;background:#3B82F6"></div></div>
+<div class="modnum">7 章 · 40 课时</div></div><div class="modrow"><div class="modname">搜索存储与网关</div>
+<div class="barwrap"><div class="bar" style="width:42.9%;background:#3B82F6"></div></div>
+<div class="modnum">8 章 · 48 课时</div></div><div class="modrow"><div class="modname">SpringCloud Alibaba 微服务框架</div>
+<div class="barwrap"><div class="bar" style="width:36.6%;background:#3B82F6"></div></div>
+<div class="modnum">5 章 · 41 课时</div></div><div class="modrow"><div class="modname">AI 全流程开发实战</div>
+<div class="barwrap"><div class="bar" style="width:21.4%;background:#3B82F6"></div></div>
+<div class="modnum">5 章 · 24 课时</div></div><div class="modrow"><div class="modname">实训项目：医枢云<span class="tag tag-proj">实训</span></div>
+<div class="barwrap"><div class="bar" style="width:56.2%;background:#3B82F6"></div></div>
+<div class="modnum">10 章 · 63 课时</div></div></div><div class="modgrp"><div class="modgrp-h"><span class="dot" style="background:#8B5CF6"></span>S5 黄金进阶<span class="muted small"> · 34 章 / 185 课时 / 108 学时</span></div><div class="modrow"><div class="modname">JVM 虚拟机与性能调优</div>
+<div class="barwrap"><div class="bar" style="width:21.4%;background:#8B5CF6"></div></div>
+<div class="modnum">4 章 · 24 课时</div></div><div class="modrow"><div class="modname">并发编程进阶</div>
+<div class="barwrap"><div class="bar" style="width:22.3%;background:#8B5CF6"></div></div>
+<div class="modnum">4 章 · 25 课时</div></div><div class="modrow"><div class="modname">设计模式实战篇</div>
+<div class="barwrap"><div class="bar" style="width:14.3%;background:#8B5CF6"></div></div>
+<div class="modnum">3 章 · 16 课时</div></div><div class="modrow"><div class="modname">单元测试 JUnit 5 + Mockito</div>
+<div class="barwrap"><div class="bar" style="width:12.5%;background:#8B5CF6"></div></div>
+<div class="modnum">2 章 · 14 课时</div></div><div class="modrow"><div class="modname">数据库设计规范与建模</div>
+<div class="barwrap"><div class="bar" style="width:13.4%;background:#8B5CF6"></div></div>
+<div class="modnum">3 章 · 15 课时</div></div><div class="modrow"><div class="modname">OAuth2 与单点登录</div>
+<div class="barwrap"><div class="bar" style="width:5.4%;background:#8B5CF6"></div></div>
+<div class="modnum">1 章 · 6 课时</div></div><div class="modrow"><div class="modname">Kubernetes 基础</div>
+<div class="barwrap"><div class="bar" style="width:12.5%;background:#8B5CF6"></div></div>
+<div class="modnum">3 章 · 14 课时</div></div><div class="modrow"><div class="modname">链路追踪 SkyWalking</div>
+<div class="barwrap"><div class="bar" style="width:9.8%;background:#8B5CF6"></div></div>
+<div class="modnum">2 章 · 11 课时</div></div><div class="modrow"><div class="modname">Spring Cloud Stream</div>
+<div class="barwrap"><div class="bar" style="width:8.0%;background:#8B5CF6"></div></div>
+<div class="modnum">2 章 · 9 课时</div></div><div class="modrow"><div class="modname">XXL-JOB 分布式任务调度</div>
+<div class="barwrap"><div class="bar" style="width:10.7%;background:#8B5CF6"></div></div>
+<div class="modnum">2 章 · 12 课时</div></div><div class="modrow"><div class="modname">WebSocket 实时通信</div>
+<div class="barwrap"><div class="bar" style="width:8.9%;background:#8B5CF6"></div></div>
+<div class="modnum">2 章 · 10 课时</div></div><div class="modrow"><div class="modname">支付模块开发</div>
+<div class="barwrap"><div class="bar" style="width:11.6%;background:#8B5CF6"></div></div>
+<div class="modnum">3 章 · 13 课时</div></div><div class="modrow"><div class="modname">Spring 源码精讲</div>
+<div class="barwrap"><div class="bar" style="width:14.3%;background:#8B5CF6"></div></div>
+<div class="modnum">3 章 · 16 课时</div></div></div><div class="modgrp"><div class="modgrp-h"><span class="dot" style="background:#059669"></span>S6 Agent 工程师<span class="muted small"> · 36 章 / 112 课时 / 26 学时</span></div><div class="modrow"><div class="modname">「Agent 工程师」原课程</div>
+<div class="barwrap"><div class="bar" style="width:100.0%;background:#059669"></div></div>
+<div class="modnum">36 章 · 112 课时</div></div></div>
+</div>
+
+<div class="sec">
+<h2><span class="idx">5</span>对线下学习服务的结构性判断</h2>
+<div class="duo">
+<div class="panel good">
+<h3>可标准化、适合线下面授</h3>
+<ul>
+<li><b>S1 + S2（22 周 / 296 学时 / 12 模块）</b>：模块边界干净，每个模块 12-73 课时，天然可切成周单元</li>
+<li><b>4 个实训项目</b>是天然的线下交付节点：奶茶物语、社团报名通、智学云(103课时)、医枢云(63课时)</li>
+<li><b>视频占比高（S1 66.8%、S2 76.0%）</b>：适合「线下集中观看 + 现场跟练 + 助教巡场」的服务模式</li>
+<li><b>每段位可独立结业</b>：6 段位清晰分段，支持分阶段交付与分阶段收费</li>
+</ul>
+</div>
+<div class="panel bad">
+<h3>结构性风险，需先补内容再排课</h3>
+<ul>
+<li><b>S5 内容最碎</b>：108 学时塞了 <b>13 个模块</b>，平均每模块仅 0.6 周（约 4 天），无法直接排成周课，必须重组为专题包</li>
+<li><b>S5 + S6 零实训项目</b>：134 学时（16% 课程量）无产出物，「作品集」承诺到 S4 断裂</li>
+<li><b>S6 全是图文</b>：112 课时 0 视频，不适合集中面授，只适合「自习 + 线上答疑」</li>
+<li><b>S6 是外部课程拼装</b>：order 跳跃至 10003，源课程 genai-app-v2 仍是 draft 状态</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="sec">
+<h2><span class="idx">6</span>数据说明</h2>
+<div class="note">
+<b>已获取：</b>课程元数据、6 个 Level 定义、233 章标题与章序、1357 个课时的标题 / 类型 / 顺序，以及商城全部 5 门课的上下架状态与学员数。这部分<b>无需登录</b>，可直接对接内部系统比对。<br><br>
+<b>未获取：</b>课时正文、视频地址、学习进度 —— 这三类接口实测返回 <code>401 Access token required</code>。<b>视频时长字段（duration）全量缺失（1357 个课时中仅 112 个非零）</b>，因此上表所有「学时」均使用平台自行标注的 estimatedHours，未做二次校验。若要核算真实交付时长，需要内部导出课时表。<br><br>
+<b>待确认口径：</b>1 学时 = 45 分钟还是 60 分钟。平台「S1 = 162 学时 = 81 天」的口径是每天 2 学时，但未标注单位。学习计划据此给出两套换算。
+</div>
+</div>
+
+</div></body></html>
